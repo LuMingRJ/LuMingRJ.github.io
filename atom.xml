@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-09-17T08:17:33.141Z</updated>
+  <updated>2023-09-15T17:30:08.990Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Win系统•如何查看系统位数•解决教程步骤</title>
+    <link href="http://example.com/2023/09/16/WIN/WT/001/"/>
+    <id>http://example.com/2023/09/16/WIN/WT/001/</id>
+    <published>2023-09-16T11:55:44.000Z</published>
+    <updated>2023-09-15T17:30:08.990Z</updated>
+    
+    <content type="html"><![CDATA[<div class="tip sync"><p>安装指南：<br>1、建议：<mark class="hl-label blue">安装教程网页地址，复制到手机浏览器里打开</mark> ，一边手机观看安装教程，一边电脑安装软件，会方便很多！<br>2、链接：Win软件目录：<a href="/Win/">点击查看</a> &emsp;    Win软件常见报错问题：<a href="/2023/09/06/WIN/WIN%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E9%97%AE%E9%A2%98%E7%9B%AE%E5%BD%95/">点击查看</a><br>3、客服：若安装报错问题，自己解决不了，打开安装包内的【联系客服】，添加客服QQ，或点击本网页最上面【联系客服】！</p></div><h3 id=""><a href="#" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">报错问题说明：</span>    </p></section></div></h3><details class="folding-tag" cyan open><summary> 报错问题说明 </summary>              <div class='content'>              <p><mark class="hl-label green">报错问题</mark> <b>：WIN系统，如何查看系统位数教程</b><br><mark class="hl-label purple">安装环境</mark> ：Win7&#x2F;Win10&#x2F;Win11系统<br><mark class="hl-label purple">系统位数</mark> ：32+64位<br><mark class="hl-label green">亲测安装</mark> ：所有资源皆经严格把关、实机安装测试！</p>              </div>            </details><h3 id="-1"><a href="#-1" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">教程步骤：</span>    </p></section></div></h3><h4 id="1、在【电脑桌面】或【随便打开一个文件夹的左边】，右击【此电脑】-【计算机】-属性。"><a href="#1、在【电脑桌面】或【随便打开一个文件夹的左边】，右击【此电脑】-【计算机】-属性。" class="headerlink" title="1、在【电脑桌面】或【随便打开一个文件夹的左边】，右击【此电脑】&#x2F;【计算机】-属性。"></a>1、在【电脑桌面】或【随便打开一个文件夹的左边】，右击【此电脑】&#x2F;【计算机】-属性。</h4><img class="inline-img" src="https://bu.dusays.com/2023/09/16/650491202dbae.png" style="height:400px"/>  <img class="inline-img" src="https://bu.dusays.com/2023/09/16/650491203b63d.png" style="height:400px"/>  <h4 id="2、弹出的界面，在【系统类型】里，可以看到系统是【32】或【64】位。说明：32位系统，只能安装32位的软件安装包，64位系统，可以安装32-64位软件安装包。"><a href="#2、弹出的界面，在【系统类型】里，可以看到系统是【32】或【64】位。说明：32位系统，只能安装32位的软件安装包，64位系统，可以安装32-64位软件安装包。" class="headerlink" title="2、弹出的界面，在【系统类型】里，可以看到系统是【32】或【64】位。说明：32位系统，只能安装32位的软件安装包，64位系统，可以安装32+64位软件安装包。"></a>2、弹出的界面，在【系统类型】里，可以看到系统是【32】或【64】位。<b>说明：32位系统，只能安装32位的软件安装包，64位系统，可以安装32+64位软件安装包。</b></h4><img class="inline-img" src="https://bu.dusays.com/2023/09/16/650491202716d.png" style="height:400px"/>  ]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;div class=&quot;tip sync&quot;&gt;&lt;p&gt;安装指南：&lt;br&gt;1、建议：&lt;mark class=&quot;hl-label blue&quot;&gt;安装教程网页地址，复制到手机浏览器里打开&lt;/mark&gt; ，一边手机观看安装教程，一边电脑安装软件，会方便很多！&lt;br&gt;2、链接：Win软件目录：&lt;</summary>
+      
+    
+    
+    
+    <category term="Win软件" scheme="http://example.com/categories/Win%E8%BD%AF%E4%BB%B6/"/>
+    
+    
+    <category term="Win软件" scheme="http://example.com/tags/Win%E8%BD%AF%E4%BB%B6/"/>
+    
+    <category term="安装报错" scheme="http://example.com/tags/%E5%AE%89%E8%A3%85%E6%8A%A5%E9%94%99/"/>
+    
+  </entry>
   
   <entry>
     <title>Win系统•如何关闭杀毒软件•解决教程步骤</title>
@@ -36,9 +62,9 @@
     <category term="Win软件" scheme="http://example.com/categories/Win%E8%BD%AF%E4%BB%B6/"/>
     
     
-    <category term="安装报错" scheme="http://example.com/tags/%E5%AE%89%E8%A3%85%E6%8A%A5%E9%94%99/"/>
-    
     <category term="Win软件" scheme="http://example.com/tags/Win%E8%BD%AF%E4%BB%B6/"/>
+    
+    <category term="安装报错" scheme="http://example.com/tags/%E5%AE%89%E8%A3%85%E6%8A%A5%E9%94%99/"/>
     
   </entry>
   
@@ -62,113 +88,9 @@
     <category term="Win软件" scheme="http://example.com/categories/Win%E8%BD%AF%E4%BB%B6/"/>
     
     
-    <category term="安装报错" scheme="http://example.com/tags/%E5%AE%89%E8%A3%85%E6%8A%A5%E9%94%99/"/>
-    
     <category term="Win软件" scheme="http://example.com/tags/Win%E8%BD%AF%E4%BB%B6/"/>
     
-  </entry>
-  
-  <entry>
-    <title>Win系统•如何查看系统位数•解决教程步骤</title>
-    <link href="http://example.com/2023/09/16/WIN/WT/001/"/>
-    <id>http://example.com/2023/09/16/WIN/WT/001/</id>
-    <published>2023-09-16T11:55:44.000Z</published>
-    <updated>2023-09-15T17:30:08.990Z</updated>
-    
-    <content type="html"><![CDATA[<div class="tip sync"><p>安装指南：<br>1、建议：<mark class="hl-label blue">安装教程网页地址，复制到手机浏览器里打开</mark> ，一边手机观看安装教程，一边电脑安装软件，会方便很多！<br>2、链接：Win软件目录：<a href="/Win/">点击查看</a> &emsp;    Win软件常见报错问题：<a href="/2023/09/06/WIN/WIN%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E9%97%AE%E9%A2%98%E7%9B%AE%E5%BD%95/">点击查看</a><br>3、客服：若安装报错问题，自己解决不了，打开安装包内的【联系客服】，添加客服QQ，或点击本网页最上面【联系客服】！</p></div><h3 id=""><a href="#" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">报错问题说明：</span>    </p></section></div></h3><details class="folding-tag" cyan open><summary> 报错问题说明 </summary>              <div class='content'>              <p><mark class="hl-label green">报错问题</mark> <b>：WIN系统，如何查看系统位数教程</b><br><mark class="hl-label purple">安装环境</mark> ：Win7&#x2F;Win10&#x2F;Win11系统<br><mark class="hl-label purple">系统位数</mark> ：32+64位<br><mark class="hl-label green">亲测安装</mark> ：所有资源皆经严格把关、实机安装测试！</p>              </div>            </details><h3 id="-1"><a href="#-1" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">教程步骤：</span>    </p></section></div></h3><h4 id="1、在【电脑桌面】或【随便打开一个文件夹的左边】，右击【此电脑】-【计算机】-属性。"><a href="#1、在【电脑桌面】或【随便打开一个文件夹的左边】，右击【此电脑】-【计算机】-属性。" class="headerlink" title="1、在【电脑桌面】或【随便打开一个文件夹的左边】，右击【此电脑】&#x2F;【计算机】-属性。"></a>1、在【电脑桌面】或【随便打开一个文件夹的左边】，右击【此电脑】&#x2F;【计算机】-属性。</h4><img class="inline-img" src="https://bu.dusays.com/2023/09/16/650491202dbae.png" style="height:400px"/>  <img class="inline-img" src="https://bu.dusays.com/2023/09/16/650491203b63d.png" style="height:400px"/>  <h4 id="2、弹出的界面，在【系统类型】里，可以看到系统是【32】或【64】位。说明：32位系统，只能安装32位的软件安装包，64位系统，可以安装32-64位软件安装包。"><a href="#2、弹出的界面，在【系统类型】里，可以看到系统是【32】或【64】位。说明：32位系统，只能安装32位的软件安装包，64位系统，可以安装32-64位软件安装包。" class="headerlink" title="2、弹出的界面，在【系统类型】里，可以看到系统是【32】或【64】位。说明：32位系统，只能安装32位的软件安装包，64位系统，可以安装32+64位软件安装包。"></a>2、弹出的界面，在【系统类型】里，可以看到系统是【32】或【64】位。<b>说明：32位系统，只能安装32位的软件安装包，64位系统，可以安装32+64位软件安装包。</b></h4><img class="inline-img" src="https://bu.dusays.com/2023/09/16/650491202716d.png" style="height:400px"/>  ]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;div class=&quot;tip sync&quot;&gt;&lt;p&gt;安装指南：&lt;br&gt;1、建议：&lt;mark class=&quot;hl-label blue&quot;&gt;安装教程网页地址，复制到手机浏览器里打开&lt;/mark&gt; ，一边手机观看安装教程，一边电脑安装软件，会方便很多！&lt;br&gt;2、链接：Win软件目录：&lt;</summary>
-      
-    
-    
-    
-    <category term="Win软件" scheme="http://example.com/categories/Win%E8%BD%AF%E4%BB%B6/"/>
-    
-    
     <category term="安装报错" scheme="http://example.com/tags/%E5%AE%89%E8%A3%85%E6%8A%A5%E9%94%99/"/>
-    
-    <category term="Win软件" scheme="http://example.com/tags/Win%E8%BD%AF%E4%BB%B6/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Win系统•显示 &amp; 隐藏后缀名、扩展名•解决教程步骤</title>
-    <link href="http://example.com/2023/09/16/WIN/WT/006/"/>
-    <id>http://example.com/2023/09/16/WIN/WT/006/</id>
-    <published>2023-09-16T11:55:44.000Z</published>
-    <updated>2023-09-17T08:36:18.215Z</updated>
-    
-    <content type="html"><![CDATA[<div class="tip sync"><p>安装指南：<br>1、建议：<mark class="hl-label blue">安装教程网页地址，复制到手机浏览器里打开</mark> ，一边手机观看安装教程，一边电脑安装软件，会方便很多！<br>2、链接：Win软件目录：<a href="/Win/">点击查看</a> &emsp;    Win软件常见报错问题：<a href="/2023/09/06/WIN/WIN%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E9%97%AE%E9%A2%98%E7%9B%AE%E5%BD%95/">点击查看</a><br>3、客服：若安装报错问题，自己解决不了，打开安装包内的【联系客服】，添加客服QQ，或点击本网页最上面【联系客服】！</p></div><h3 id=""><a href="#" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">报错问题说明：</span>    </p></section></div></h3><details class="folding-tag" cyan open><summary> 报错问题说明 </summary>              <div class='content'>              <p><mark class="hl-label green">报错问题</mark> <b>：WIN系统，显示 &amp; 隐藏后缀名、扩展名教程步骤</b><br><mark class="hl-label purple">安装环境</mark> ：Win7&#x2F;Win10&#x2F;Win11系统<br><mark class="hl-label purple">系统位数</mark> ：32+64位<br><mark class="hl-label green">亲测安装</mark> ：所有资源皆经严格把关、实机安装测试！</p>              </div>            </details><details class="folding-tag" cyan open><summary> 系统分类 </summary>              <div class='content'>              <p><a class="btn-anzhiyu outline" href="/2023/09/16/WIN/WT/006/#-2"   title="01 [Win7系统]"><span>01 [Win7系统]</span></a><a class="btn-anzhiyu outline" href="/2023/09/16/WIN/WT/006/#-3"   title="02 [Win10系统]"><span>02 [Win10系统]</span></a><a class="btn-anzhiyu outline" href="/2023/09/16/WIN/WT/006/#-4"   title="03 [Win11系统]"><span>03 [Win11系统]</span></a></p><p>说明：点击【上面系统标签】可转到对应教程。</p>              </div>            </details><h3 id="-1"><a href="#-1" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">教程步骤：</span>    </p></section></div></h3><h3 id="-2"><a href="#-2" class="headerlink" title=""></a><div class="tip ban"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">[ Win7系统，显示 & 隐藏后缀名 ]</span>    </p></section></div></h3><h4 id="1、随便打开一个文件夹，点击【组织】-【文件夹和搜索选项】或点击【工具】-【文件夹选项】。"><a href="#1、随便打开一个文件夹，点击【组织】-【文件夹和搜索选项】或点击【工具】-【文件夹选项】。" class="headerlink" title="1、随便打开一个文件夹，点击【组织】-【文件夹和搜索选项】或点击【工具】-【文件夹选项】。"></a>1、随便打开一个文件夹，点击【组织】-【文件夹和搜索选项】<b>或</b>点击【工具】-【文件夹选项】。</h4><img class="inline-img" src="https://bu.dusays.com/2023/09/17/6506b96a47020.png" style="height:400px"/>  <img class="inline-img" src="https://bu.dusays.com/2023/09/17/6506b96edeeed.png" style="height:400px"/>  <h4 id="2、弹出的窗口，在【查看】里，取消勾选【隐藏已知文件类型的扩展名】，点击【确定】。"><a href="#2、弹出的窗口，在【查看】里，取消勾选【隐藏已知文件类型的扩展名】，点击【确定】。" class="headerlink" title="2、弹出的窗口，在【查看】里，取消勾选【隐藏已知文件类型的扩展名】，点击【确定】。"></a>2、弹出的窗口，在【查看】里，取消勾选【隐藏已知文件类型的扩展名】，点击【确定】。</h4><img class="inline-img" src="https://bu.dusays.com/2023/09/17/6506b972eb237.png" style="height:400px"/>  <h3 id="-3"><a href="#-3" class="headerlink" title=""></a><div class="tip ban"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">[ Win10系统，显示 & 隐藏后缀名 ]</span>    </p></section></div></h3><h4 id="1、随便打开一个文件夹，点击【查看】，勾选【文件扩展名】即可。"><a href="#1、随便打开一个文件夹，点击【查看】，勾选【文件扩展名】即可。" class="headerlink" title="1、随便打开一个文件夹，点击【查看】，勾选【文件扩展名】即可。"></a>1、随便打开一个文件夹，点击【查看】，勾选【文件扩展名】即可。</h4><img class="inline-img" src="https://bu.dusays.com/2023/09/17/6506b977de141.png" style="height:400px"/>  <h3 id="-4"><a href="#-4" class="headerlink" title=""></a><div class="tip ban"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">[ Win11系统，显示 & 隐藏后缀名 ]</span>    </p></section></div></h3><h4 id="1、随便打开一个文件夹，点击【查看】-【显示】，勾选【文件扩展名】即可。"><a href="#1、随便打开一个文件夹，点击【查看】-【显示】，勾选【文件扩展名】即可。" class="headerlink" title="1、随便打开一个文件夹，点击【查看】-【显示】，勾选【文件扩展名】即可。"></a>1、随便打开一个文件夹，点击【查看】-【显示】，勾选【文件扩展名】即可。</h4><img class="inline-img" src="https://bu.dusays.com/2023/09/17/6506b97cb76a2.png" style="height:400px"/>  ]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;div class=&quot;tip sync&quot;&gt;&lt;p&gt;安装指南：&lt;br&gt;1、建议：&lt;mark class=&quot;hl-label blue&quot;&gt;安装教程网页地址，复制到手机浏览器里打开&lt;/mark&gt; ，一边手机观看安装教程，一边电脑安装软件，会方便很多！&lt;br&gt;2、链接：Win软件目录：&lt;</summary>
-      
-    
-    
-    
-    <category term="Win软件" scheme="http://example.com/categories/Win%E8%BD%AF%E4%BB%B6/"/>
-    
-    
-    <category term="安装报错" scheme="http://example.com/tags/%E5%AE%89%E8%A3%85%E6%8A%A5%E9%94%99/"/>
-    
-    <category term="Win软件" scheme="http://example.com/tags/Win%E8%BD%AF%E4%BB%B6/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Win系统•显示 &amp; 隐藏文件•解决教程步骤</title>
-    <link href="http://example.com/2023/09/16/WIN/WT/005/"/>
-    <id>http://example.com/2023/09/16/WIN/WT/005/</id>
-    <published>2023-09-16T11:55:44.000Z</published>
-    <updated>2023-09-17T08:31:06.504Z</updated>
-    
-    <content type="html"><![CDATA[<div class="tip sync"><p>安装指南：<br>1、建议：<mark class="hl-label blue">安装教程网页地址，复制到手机浏览器里打开</mark> ，一边手机观看安装教程，一边电脑安装软件，会方便很多！<br>2、链接：Win软件目录：<a href="/Win/">点击查看</a> &emsp;    Win软件常见报错问题：<a href="/2023/09/06/WIN/WIN%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E9%97%AE%E9%A2%98%E7%9B%AE%E5%BD%95/">点击查看</a><br>3、客服：若安装报错问题，自己解决不了，打开安装包内的【联系客服】，添加客服QQ，或点击本网页最上面【联系客服】！</p></div><h3 id=""><a href="#" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">报错问题说明：</span>    </p></section></div></h3><details class="folding-tag" cyan open><summary> 报错问题说明 </summary>              <div class='content'>              <p><mark class="hl-label green">报错问题</mark> <b>：WIN系统，显示 &amp; 隐藏文件教程步骤</b><br><mark class="hl-label purple">安装环境</mark> ：Win7&#x2F;Win10&#x2F;Win11系统<br><mark class="hl-label purple">系统位数</mark> ：32+64位<br><mark class="hl-label green">亲测安装</mark> ：所有资源皆经严格把关、实机安装测试！</p>              </div>            </details><details class="folding-tag" cyan open><summary> 系统分类 </summary>              <div class='content'>              <p><a class="btn-anzhiyu outline" href="/2023/09/16/WIN/WT/005/#-2"   title="01 [Win7系统，显示 & 隐藏文件]"><span>01 [Win7系统，显示 &amp; 隐藏文件]</span></a><a class="btn-anzhiyu outline" href="/2023/09/16/WIN/WT/005/#-3"   title="02 [Win10系统，显示 & 隐藏文件]"><span>02 [Win10系统，显示 &amp; 隐藏文件]</span></a><a class="btn-anzhiyu outline" href="/2023/09/16/WIN/WT/005/#-4"   title="03 [Win11系统，显示 & 隐藏文件]"><span>03 [Win11系统，显示 &amp; 隐藏文件]</span></a></p><p>说明：点击【上面系统标签】可转到对应教程。</p>              </div>            </details><h3 id="-1"><a href="#-1" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">教程步骤：</span>    </p></section></div></h3><h3 id="-2"><a href="#-2" class="headerlink" title=""></a><div class="tip ban"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">[ Win7系统，显示 & 隐藏文件 ]</span>    </p></section></div></h3><h4 id="1、随便打开一个文件夹，点击【组织】-【文件夹和搜索选项】或点击【工具】-【文件夹选项】。"><a href="#1、随便打开一个文件夹，点击【组织】-【文件夹和搜索选项】或点击【工具】-【文件夹选项】。" class="headerlink" title="1、随便打开一个文件夹，点击【组织】-【文件夹和搜索选项】或点击【工具】-【文件夹选项】。"></a>1、随便打开一个文件夹，点击【组织】-【文件夹和搜索选项】<b>或</b>点击【工具】-【文件夹选项】。</h4><img class="inline-img" src="https://bu.dusays.com/2023/09/17/6506b85b88d17.png" style="height:400px"/>  <img class="inline-img" src="https://bu.dusays.com/2023/09/17/6506b85f7dc96.png" style="height:400px"/>  <h4 id="2、弹出的窗口，在【查看】里，选择【显示隐藏的文件、文件夹和驱动器】，点击【确定】。"><a href="#2、弹出的窗口，在【查看】里，选择【显示隐藏的文件、文件夹和驱动器】，点击【确定】。" class="headerlink" title="2、弹出的窗口，在【查看】里，选择【显示隐藏的文件、文件夹和驱动器】，点击【确定】。"></a>2、弹出的窗口，在【查看】里，选择【显示隐藏的文件、文件夹和驱动器】，点击【确定】。</h4><img class="inline-img" src="https://bu.dusays.com/2023/09/17/6506b8632eb82.png" style="height:400px"/>  <h3 id="-3"><a href="#-3" class="headerlink" title=""></a><div class="tip ban"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">[ Win10系统，显示 & 隐藏文件 ]</span>    </p></section></div></h3><h4 id="1、随便打开一个文件夹，点击【查看】，勾选【隐藏的项目】即可。"><a href="#1、随便打开一个文件夹，点击【查看】，勾选【隐藏的项目】即可。" class="headerlink" title="1、随便打开一个文件夹，点击【查看】，勾选【隐藏的项目】即可。"></a>1、随便打开一个文件夹，点击【查看】，勾选【隐藏的项目】即可。</h4><img class="inline-img" src="https://bu.dusays.com/2023/09/17/6506b866d8d0a.png" style="height:400px"/>  <h3 id="-4"><a href="#-4" class="headerlink" title=""></a><div class="tip ban"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">[ Win11系统，显示 & 隐藏文件 ]</span>    </p></section></div></h3><h4 id="1、随便打开一个文件夹，点击【查看】-【显示】，勾选【隐藏的项目】即可。"><a href="#1、随便打开一个文件夹，点击【查看】-【显示】，勾选【隐藏的项目】即可。" class="headerlink" title="1、随便打开一个文件夹，点击【查看】-【显示】，勾选【隐藏的项目】即可。"></a>1、随便打开一个文件夹，点击【查看】-【显示】，勾选【隐藏的项目】即可。</h4><img class="inline-img" src="https://bu.dusays.com/2023/09/17/6506b86ab06e3.png" style="height:400px"/>  ]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;div class=&quot;tip sync&quot;&gt;&lt;p&gt;安装指南：&lt;br&gt;1、建议：&lt;mark class=&quot;hl-label blue&quot;&gt;安装教程网页地址，复制到手机浏览器里打开&lt;/mark&gt; ，一边手机观看安装教程，一边电脑安装软件，会方便很多！&lt;br&gt;2、链接：Win软件目录：&lt;</summary>
-      
-    
-    
-    
-    <category term="Win软件" scheme="http://example.com/categories/Win%E8%BD%AF%E4%BB%B6/"/>
-    
-    
-    <category term="安装报错" scheme="http://example.com/tags/%E5%AE%89%E8%A3%85%E6%8A%A5%E9%94%99/"/>
-    
-    <category term="Win软件" scheme="http://example.com/tags/Win%E8%BD%AF%E4%BB%B6/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Win系统•卸载软件教程•解决教程步骤</title>
-    <link href="http://example.com/2023/09/16/WIN/WT/007/"/>
-    <id>http://example.com/2023/09/16/WIN/WT/007/</id>
-    <published>2023-09-16T11:55:44.000Z</published>
-    <updated>2023-09-17T08:43:13.082Z</updated>
-    
-    <content type="html"><![CDATA[<div class="tip sync"><p>安装指南：<br>1、建议：<mark class="hl-label blue">安装教程网页地址，复制到手机浏览器里打开</mark> ，一边手机观看安装教程，一边电脑安装软件，会方便很多！<br>2、链接：Win软件目录：<a href="/Win/">点击查看</a> &emsp;    Win软件常见报错问题：<a href="/2023/09/06/WIN/WIN%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E9%97%AE%E9%A2%98%E7%9B%AE%E5%BD%95/">点击查看</a><br>3、客服：若安装报错问题，自己解决不了，打开安装包内的【联系客服】，添加客服QQ，或点击本网页最上面【联系客服】！</p></div><h3 id=""><a href="#" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">报错问题说明：</span>    </p></section></div></h3><details class="folding-tag" cyan open><summary> 报错问题说明 </summary>              <div class='content'>              <p><mark class="hl-label green">报错问题</mark> <b>：WIN系统，卸载软件教程•解决教程步骤</b><br><mark class="hl-label purple">安装环境</mark> ：Win7&#x2F;Win10&#x2F;Win11系统<br><mark class="hl-label purple">系统位数</mark> ：32+64位<br><mark class="hl-label green">亲测安装</mark> ：所有资源皆经严格把关、实机安装测试！</p>              </div>            </details><h3 id="-1"><a href="#-1" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">教程步骤：</span>    </p></section></div></h3><p><b>说明：WIN软件卸载方式有很多种，这里主要介绍常见的两种卸载方式。</p><p>第一种软件卸载：</b></p><h4 id="1、在电脑左下角【开始程序】里，搜索【控制面板】。"><a href="#1、在电脑左下角【开始程序】里，搜索【控制面板】。" class="headerlink" title="1、在电脑左下角【开始程序】里，搜索【控制面板】。"></a>1、在电脑左下角【开始程序】里，搜索【控制面板】。</h4><img class="inline-img" src="https://bu.dusays.com/2023/09/17/6506bb2d9bb37.png" style="height:400px"/>  <h4 id="2、打开【控制面板】。"><a href="#2、打开【控制面板】。" class="headerlink" title="2、打开【控制面板】。"></a>2、打开【控制面板】。</h4><img class="inline-img" src="https://bu.dusays.com/2023/09/17/6506bb32a0c66.png" style="height:400px"/>  <h4 id="3、【查看方式】改为【类型】，点击【卸载程序】。"><a href="#3、【查看方式】改为【类型】，点击【卸载程序】。" class="headerlink" title="3、【查看方式】改为【类型】，点击【卸载程序】。"></a>3、【查看方式】改为【类型】，点击【卸载程序】。</h4><img class="inline-img" src="https://bu.dusays.com/2023/09/17/6506bb3eb21a2.png" style="height:400px"/>  <h4 id="4、右击要卸载的软件，点击【卸载-更改】，根据提示，进行卸载就行。"><a href="#4、右击要卸载的软件，点击【卸载-更改】，根据提示，进行卸载就行。" class="headerlink" title="4、右击要卸载的软件，点击【卸载&#x2F;更改】，根据提示，进行卸载就行。"></a>4、右击要卸载的软件，点击【卸载&#x2F;更改】，根据提示，进行卸载就行。</h4><img class="inline-img" src="https://bu.dusays.com/2023/09/17/6506bb431ebe4.png" style="height:400px"/>  <p><b>第二种软件卸载：</b></p><h4 id="也可以用第三方工具进行卸载，如：360软件管家、腾讯电脑管家、GeekUninstaller等等"><a href="#也可以用第三方工具进行卸载，如：360软件管家、腾讯电脑管家、GeekUninstaller等等" class="headerlink" title="也可以用第三方工具进行卸载，如：360软件管家、腾讯电脑管家、GeekUninstaller等等"></a>也可以用第三方工具进行卸载，如：360软件管家、腾讯电脑管家、GeekUninstaller等等</h4><p>1、选择要卸载的软件，点击【卸载】，根据提示，进行卸载就行。</p><img class="inline-img" src="https://bu.dusays.com/2023/09/17/6506bb474b425.png" style="height:400px"/>  ]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;div class=&quot;tip sync&quot;&gt;&lt;p&gt;安装指南：&lt;br&gt;1、建议：&lt;mark class=&quot;hl-label blue&quot;&gt;安装教程网页地址，复制到手机浏览器里打开&lt;/mark&gt; ，一边手机观看安装教程，一边电脑安装软件，会方便很多！&lt;br&gt;2、链接：Win软件目录：&lt;</summary>
-      
-    
-    
-    
-    <category term="Win软件" scheme="http://example.com/categories/Win%E8%BD%AF%E4%BB%B6/"/>
-    
-    
-    <category term="安装报错" scheme="http://example.com/tags/%E5%AE%89%E8%A3%85%E6%8A%A5%E9%94%99/"/>
-    
-    <category term="Win软件" scheme="http://example.com/tags/Win%E8%BD%AF%E4%BB%B6/"/>
     
   </entry>
   
@@ -192,9 +114,87 @@
     <category term="Win软件" scheme="http://example.com/categories/Win%E8%BD%AF%E4%BB%B6/"/>
     
     
+    <category term="Win软件" scheme="http://example.com/tags/Win%E8%BD%AF%E4%BB%B6/"/>
+    
     <category term="安装报错" scheme="http://example.com/tags/%E5%AE%89%E8%A3%85%E6%8A%A5%E9%94%99/"/>
     
+  </entry>
+  
+  <entry>
+    <title>Win系统•显示 &amp; 隐藏文件•解决教程步骤</title>
+    <link href="http://example.com/2023/09/16/WIN/WT/005/"/>
+    <id>http://example.com/2023/09/16/WIN/WT/005/</id>
+    <published>2023-09-16T11:55:44.000Z</published>
+    <updated>2023-09-17T08:31:06.504Z</updated>
+    
+    <content type="html"><![CDATA[<div class="tip sync"><p>安装指南：<br>1、建议：<mark class="hl-label blue">安装教程网页地址，复制到手机浏览器里打开</mark> ，一边手机观看安装教程，一边电脑安装软件，会方便很多！<br>2、链接：Win软件目录：<a href="/Win/">点击查看</a> &emsp;    Win软件常见报错问题：<a href="/2023/09/06/WIN/WIN%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E9%97%AE%E9%A2%98%E7%9B%AE%E5%BD%95/">点击查看</a><br>3、客服：若安装报错问题，自己解决不了，打开安装包内的【联系客服】，添加客服QQ，或点击本网页最上面【联系客服】！</p></div><h3 id=""><a href="#" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">报错问题说明：</span>    </p></section></div></h3><details class="folding-tag" cyan open><summary> 报错问题说明 </summary>              <div class='content'>              <p><mark class="hl-label green">报错问题</mark> <b>：WIN系统，显示 &amp; 隐藏文件教程步骤</b><br><mark class="hl-label purple">安装环境</mark> ：Win7&#x2F;Win10&#x2F;Win11系统<br><mark class="hl-label purple">系统位数</mark> ：32+64位<br><mark class="hl-label green">亲测安装</mark> ：所有资源皆经严格把关、实机安装测试！</p>              </div>            </details><details class="folding-tag" cyan open><summary> 系统分类 </summary>              <div class='content'>              <p><a class="btn-anzhiyu outline" href="/2023/09/16/WIN/WT/005/#-2"   title="01 [Win7系统，显示 & 隐藏文件]"><span>01 [Win7系统，显示 &amp; 隐藏文件]</span></a><a class="btn-anzhiyu outline" href="/2023/09/16/WIN/WT/005/#-3"   title="02 [Win10系统，显示 & 隐藏文件]"><span>02 [Win10系统，显示 &amp; 隐藏文件]</span></a><a class="btn-anzhiyu outline" href="/2023/09/16/WIN/WT/005/#-4"   title="03 [Win11系统，显示 & 隐藏文件]"><span>03 [Win11系统，显示 &amp; 隐藏文件]</span></a></p><p>说明：点击【上面系统标签】可转到对应教程。</p>              </div>            </details><h3 id="-1"><a href="#-1" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">教程步骤：</span>    </p></section></div></h3><h3 id="-2"><a href="#-2" class="headerlink" title=""></a><div class="tip ban"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">[ Win7系统，显示 & 隐藏文件 ]</span>    </p></section></div></h3><h4 id="1、随便打开一个文件夹，点击【组织】-【文件夹和搜索选项】或点击【工具】-【文件夹选项】。"><a href="#1、随便打开一个文件夹，点击【组织】-【文件夹和搜索选项】或点击【工具】-【文件夹选项】。" class="headerlink" title="1、随便打开一个文件夹，点击【组织】-【文件夹和搜索选项】或点击【工具】-【文件夹选项】。"></a>1、随便打开一个文件夹，点击【组织】-【文件夹和搜索选项】<b>或</b>点击【工具】-【文件夹选项】。</h4><img class="inline-img" src="https://bu.dusays.com/2023/09/17/6506b85b88d17.png" style="height:400px"/>  <img class="inline-img" src="https://bu.dusays.com/2023/09/17/6506b85f7dc96.png" style="height:400px"/>  <h4 id="2、弹出的窗口，在【查看】里，选择【显示隐藏的文件、文件夹和驱动器】，点击【确定】。"><a href="#2、弹出的窗口，在【查看】里，选择【显示隐藏的文件、文件夹和驱动器】，点击【确定】。" class="headerlink" title="2、弹出的窗口，在【查看】里，选择【显示隐藏的文件、文件夹和驱动器】，点击【确定】。"></a>2、弹出的窗口，在【查看】里，选择【显示隐藏的文件、文件夹和驱动器】，点击【确定】。</h4><img class="inline-img" src="https://bu.dusays.com/2023/09/17/6506b8632eb82.png" style="height:400px"/>  <h3 id="-3"><a href="#-3" class="headerlink" title=""></a><div class="tip ban"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">[ Win10系统，显示 & 隐藏文件 ]</span>    </p></section></div></h3><h4 id="1、随便打开一个文件夹，点击【查看】，勾选【隐藏的项目】即可。"><a href="#1、随便打开一个文件夹，点击【查看】，勾选【隐藏的项目】即可。" class="headerlink" title="1、随便打开一个文件夹，点击【查看】，勾选【隐藏的项目】即可。"></a>1、随便打开一个文件夹，点击【查看】，勾选【隐藏的项目】即可。</h4><img class="inline-img" src="https://bu.dusays.com/2023/09/17/6506b866d8d0a.png" style="height:400px"/>  <h3 id="-4"><a href="#-4" class="headerlink" title=""></a><div class="tip ban"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">[ Win11系统，显示 & 隐藏文件 ]</span>    </p></section></div></h3><h4 id="1、随便打开一个文件夹，点击【查看】-【显示】，勾选【隐藏的项目】即可。"><a href="#1、随便打开一个文件夹，点击【查看】-【显示】，勾选【隐藏的项目】即可。" class="headerlink" title="1、随便打开一个文件夹，点击【查看】-【显示】，勾选【隐藏的项目】即可。"></a>1、随便打开一个文件夹，点击【查看】-【显示】，勾选【隐藏的项目】即可。</h4><img class="inline-img" src="https://bu.dusays.com/2023/09/17/6506b86ab06e3.png" style="height:400px"/>  ]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;div class=&quot;tip sync&quot;&gt;&lt;p&gt;安装指南：&lt;br&gt;1、建议：&lt;mark class=&quot;hl-label blue&quot;&gt;安装教程网页地址，复制到手机浏览器里打开&lt;/mark&gt; ，一边手机观看安装教程，一边电脑安装软件，会方便很多！&lt;br&gt;2、链接：Win软件目录：&lt;</summary>
+      
+    
+    
+    
+    <category term="Win软件" scheme="http://example.com/categories/Win%E8%BD%AF%E4%BB%B6/"/>
+    
+    
     <category term="Win软件" scheme="http://example.com/tags/Win%E8%BD%AF%E4%BB%B6/"/>
+    
+    <category term="安装报错" scheme="http://example.com/tags/%E5%AE%89%E8%A3%85%E6%8A%A5%E9%94%99/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Win系统•卸载软件教程•解决教程步骤</title>
+    <link href="http://example.com/2023/09/16/WIN/WT/007/"/>
+    <id>http://example.com/2023/09/16/WIN/WT/007/</id>
+    <published>2023-09-16T11:55:44.000Z</published>
+    <updated>2023-09-17T08:43:13.082Z</updated>
+    
+    <content type="html"><![CDATA[<div class="tip sync"><p>安装指南：<br>1、建议：<mark class="hl-label blue">安装教程网页地址，复制到手机浏览器里打开</mark> ，一边手机观看安装教程，一边电脑安装软件，会方便很多！<br>2、链接：Win软件目录：<a href="/Win/">点击查看</a> &emsp;    Win软件常见报错问题：<a href="/2023/09/06/WIN/WIN%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E9%97%AE%E9%A2%98%E7%9B%AE%E5%BD%95/">点击查看</a><br>3、客服：若安装报错问题，自己解决不了，打开安装包内的【联系客服】，添加客服QQ，或点击本网页最上面【联系客服】！</p></div><h3 id=""><a href="#" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">报错问题说明：</span>    </p></section></div></h3><details class="folding-tag" cyan open><summary> 报错问题说明 </summary>              <div class='content'>              <p><mark class="hl-label green">报错问题</mark> <b>：WIN系统，卸载软件教程•解决教程步骤</b><br><mark class="hl-label purple">安装环境</mark> ：Win7&#x2F;Win10&#x2F;Win11系统<br><mark class="hl-label purple">系统位数</mark> ：32+64位<br><mark class="hl-label green">亲测安装</mark> ：所有资源皆经严格把关、实机安装测试！</p>              </div>            </details><h3 id="-1"><a href="#-1" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">教程步骤：</span>    </p></section></div></h3><p><b>说明：WIN软件卸载方式有很多种，这里主要介绍常见的两种卸载方式。</p><p>第一种软件卸载：</b></p><h4 id="1、在电脑左下角【开始程序】里，搜索【控制面板】。"><a href="#1、在电脑左下角【开始程序】里，搜索【控制面板】。" class="headerlink" title="1、在电脑左下角【开始程序】里，搜索【控制面板】。"></a>1、在电脑左下角【开始程序】里，搜索【控制面板】。</h4><img class="inline-img" src="https://bu.dusays.com/2023/09/17/6506bb2d9bb37.png" style="height:400px"/>  <h4 id="2、打开【控制面板】。"><a href="#2、打开【控制面板】。" class="headerlink" title="2、打开【控制面板】。"></a>2、打开【控制面板】。</h4><img class="inline-img" src="https://bu.dusays.com/2023/09/17/6506bb32a0c66.png" style="height:400px"/>  <h4 id="3、【查看方式】改为【类型】，点击【卸载程序】。"><a href="#3、【查看方式】改为【类型】，点击【卸载程序】。" class="headerlink" title="3、【查看方式】改为【类型】，点击【卸载程序】。"></a>3、【查看方式】改为【类型】，点击【卸载程序】。</h4><img class="inline-img" src="https://bu.dusays.com/2023/09/17/6506bb3eb21a2.png" style="height:400px"/>  <h4 id="4、右击要卸载的软件，点击【卸载-更改】，根据提示，进行卸载就行。"><a href="#4、右击要卸载的软件，点击【卸载-更改】，根据提示，进行卸载就行。" class="headerlink" title="4、右击要卸载的软件，点击【卸载&#x2F;更改】，根据提示，进行卸载就行。"></a>4、右击要卸载的软件，点击【卸载&#x2F;更改】，根据提示，进行卸载就行。</h4><img class="inline-img" src="https://bu.dusays.com/2023/09/17/6506bb431ebe4.png" style="height:400px"/>  <p><b>第二种软件卸载：</b></p><h4 id="也可以用第三方工具进行卸载，如：360软件管家、腾讯电脑管家、GeekUninstaller等等"><a href="#也可以用第三方工具进行卸载，如：360软件管家、腾讯电脑管家、GeekUninstaller等等" class="headerlink" title="也可以用第三方工具进行卸载，如：360软件管家、腾讯电脑管家、GeekUninstaller等等"></a>也可以用第三方工具进行卸载，如：360软件管家、腾讯电脑管家、GeekUninstaller等等</h4><p>1、选择要卸载的软件，点击【卸载】，根据提示，进行卸载就行。</p><img class="inline-img" src="https://bu.dusays.com/2023/09/17/6506bb474b425.png" style="height:400px"/>  ]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;div class=&quot;tip sync&quot;&gt;&lt;p&gt;安装指南：&lt;br&gt;1、建议：&lt;mark class=&quot;hl-label blue&quot;&gt;安装教程网页地址，复制到手机浏览器里打开&lt;/mark&gt; ，一边手机观看安装教程，一边电脑安装软件，会方便很多！&lt;br&gt;2、链接：Win软件目录：&lt;</summary>
+      
+    
+    
+    
+    <category term="Win软件" scheme="http://example.com/categories/Win%E8%BD%AF%E4%BB%B6/"/>
+    
+    
+    <category term="Win软件" scheme="http://example.com/tags/Win%E8%BD%AF%E4%BB%B6/"/>
+    
+    <category term="安装报错" scheme="http://example.com/tags/%E5%AE%89%E8%A3%85%E6%8A%A5%E9%94%99/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Win系统•显示 &amp; 隐藏后缀名、扩展名•解决教程步骤</title>
+    <link href="http://example.com/2023/09/16/WIN/WT/006/"/>
+    <id>http://example.com/2023/09/16/WIN/WT/006/</id>
+    <published>2023-09-16T11:55:44.000Z</published>
+    <updated>2023-09-17T08:36:18.215Z</updated>
+    
+    <content type="html"><![CDATA[<div class="tip sync"><p>安装指南：<br>1、建议：<mark class="hl-label blue">安装教程网页地址，复制到手机浏览器里打开</mark> ，一边手机观看安装教程，一边电脑安装软件，会方便很多！<br>2、链接：Win软件目录：<a href="/Win/">点击查看</a> &emsp;    Win软件常见报错问题：<a href="/2023/09/06/WIN/WIN%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E9%97%AE%E9%A2%98%E7%9B%AE%E5%BD%95/">点击查看</a><br>3、客服：若安装报错问题，自己解决不了，打开安装包内的【联系客服】，添加客服QQ，或点击本网页最上面【联系客服】！</p></div><h3 id=""><a href="#" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">报错问题说明：</span>    </p></section></div></h3><details class="folding-tag" cyan open><summary> 报错问题说明 </summary>              <div class='content'>              <p><mark class="hl-label green">报错问题</mark> <b>：WIN系统，显示 &amp; 隐藏后缀名、扩展名教程步骤</b><br><mark class="hl-label purple">安装环境</mark> ：Win7&#x2F;Win10&#x2F;Win11系统<br><mark class="hl-label purple">系统位数</mark> ：32+64位<br><mark class="hl-label green">亲测安装</mark> ：所有资源皆经严格把关、实机安装测试！</p>              </div>            </details><details class="folding-tag" cyan open><summary> 系统分类 </summary>              <div class='content'>              <p><a class="btn-anzhiyu outline" href="/2023/09/16/WIN/WT/006/#-2"   title="01 [Win7系统]"><span>01 [Win7系统]</span></a><a class="btn-anzhiyu outline" href="/2023/09/16/WIN/WT/006/#-3"   title="02 [Win10系统]"><span>02 [Win10系统]</span></a><a class="btn-anzhiyu outline" href="/2023/09/16/WIN/WT/006/#-4"   title="03 [Win11系统]"><span>03 [Win11系统]</span></a></p><p>说明：点击【上面系统标签】可转到对应教程。</p>              </div>            </details><h3 id="-1"><a href="#-1" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">教程步骤：</span>    </p></section></div></h3><h3 id="-2"><a href="#-2" class="headerlink" title=""></a><div class="tip ban"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">[ Win7系统，显示 & 隐藏后缀名 ]</span>    </p></section></div></h3><h4 id="1、随便打开一个文件夹，点击【组织】-【文件夹和搜索选项】或点击【工具】-【文件夹选项】。"><a href="#1、随便打开一个文件夹，点击【组织】-【文件夹和搜索选项】或点击【工具】-【文件夹选项】。" class="headerlink" title="1、随便打开一个文件夹，点击【组织】-【文件夹和搜索选项】或点击【工具】-【文件夹选项】。"></a>1、随便打开一个文件夹，点击【组织】-【文件夹和搜索选项】<b>或</b>点击【工具】-【文件夹选项】。</h4><img class="inline-img" src="https://bu.dusays.com/2023/09/17/6506b96a47020.png" style="height:400px"/>  <img class="inline-img" src="https://bu.dusays.com/2023/09/17/6506b96edeeed.png" style="height:400px"/>  <h4 id="2、弹出的窗口，在【查看】里，取消勾选【隐藏已知文件类型的扩展名】，点击【确定】。"><a href="#2、弹出的窗口，在【查看】里，取消勾选【隐藏已知文件类型的扩展名】，点击【确定】。" class="headerlink" title="2、弹出的窗口，在【查看】里，取消勾选【隐藏已知文件类型的扩展名】，点击【确定】。"></a>2、弹出的窗口，在【查看】里，取消勾选【隐藏已知文件类型的扩展名】，点击【确定】。</h4><img class="inline-img" src="https://bu.dusays.com/2023/09/17/6506b972eb237.png" style="height:400px"/>  <h3 id="-3"><a href="#-3" class="headerlink" title=""></a><div class="tip ban"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">[ Win10系统，显示 & 隐藏后缀名 ]</span>    </p></section></div></h3><h4 id="1、随便打开一个文件夹，点击【查看】，勾选【文件扩展名】即可。"><a href="#1、随便打开一个文件夹，点击【查看】，勾选【文件扩展名】即可。" class="headerlink" title="1、随便打开一个文件夹，点击【查看】，勾选【文件扩展名】即可。"></a>1、随便打开一个文件夹，点击【查看】，勾选【文件扩展名】即可。</h4><img class="inline-img" src="https://bu.dusays.com/2023/09/17/6506b977de141.png" style="height:400px"/>  <h3 id="-4"><a href="#-4" class="headerlink" title=""></a><div class="tip ban"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">[ Win11系统，显示 & 隐藏后缀名 ]</span>    </p></section></div></h3><h4 id="1、随便打开一个文件夹，点击【查看】-【显示】，勾选【文件扩展名】即可。"><a href="#1、随便打开一个文件夹，点击【查看】-【显示】，勾选【文件扩展名】即可。" class="headerlink" title="1、随便打开一个文件夹，点击【查看】-【显示】，勾选【文件扩展名】即可。"></a>1、随便打开一个文件夹，点击【查看】-【显示】，勾选【文件扩展名】即可。</h4><img class="inline-img" src="https://bu.dusays.com/2023/09/17/6506b97cb76a2.png" style="height:400px"/>  ]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;div class=&quot;tip sync&quot;&gt;&lt;p&gt;安装指南：&lt;br&gt;1、建议：&lt;mark class=&quot;hl-label blue&quot;&gt;安装教程网页地址，复制到手机浏览器里打开&lt;/mark&gt; ，一边手机观看安装教程，一边电脑安装软件，会方便很多！&lt;br&gt;2、链接：Win软件目录：&lt;</summary>
+      
+    
+    
+    
+    <category term="Win软件" scheme="http://example.com/categories/Win%E8%BD%AF%E4%BB%B6/"/>
+    
+    
+    <category term="Win软件" scheme="http://example.com/tags/Win%E8%BD%AF%E4%BB%B6/"/>
+    
+    <category term="安装报错" scheme="http://example.com/tags/%E5%AE%89%E8%A3%85%E6%8A%A5%E9%94%99/"/>
     
   </entry>
   
@@ -218,9 +218,9 @@
     <category term="Win软件" scheme="http://example.com/categories/Win%E8%BD%AF%E4%BB%B6/"/>
     
     
-    <category term="安装报错" scheme="http://example.com/tags/%E5%AE%89%E8%A3%85%E6%8A%A5%E9%94%99/"/>
-    
     <category term="Win软件" scheme="http://example.com/tags/Win%E8%BD%AF%E4%BB%B6/"/>
+    
+    <category term="安装报错" scheme="http://example.com/tags/%E5%AE%89%E8%A3%85%E6%8A%A5%E9%94%99/"/>
     
   </entry>
   
@@ -244,35 +244,9 @@
     <category term="Win软件" scheme="http://example.com/categories/Win%E8%BD%AF%E4%BB%B6/"/>
     
     
-    <category term="安装报错" scheme="http://example.com/tags/%E5%AE%89%E8%A3%85%E6%8A%A5%E9%94%99/"/>
-    
     <category term="Win软件" scheme="http://example.com/tags/Win%E8%BD%AF%E4%BB%B6/"/>
     
-  </entry>
-  
-  <entry>
-    <title>Win系统•阻止软件程序联网(软件工具)•教程步骤</title>
-    <link href="http://example.com/2023/09/16/WIN/WT/010/"/>
-    <id>http://example.com/2023/09/16/WIN/WT/010/</id>
-    <published>2023-09-16T11:55:44.000Z</published>
-    <updated>2023-09-17T13:44:44.782Z</updated>
-    
-    <content type="html"><![CDATA[<div class="tip sync"><p>安装指南：<br>1、建议：<mark class="hl-label blue">安装教程网页地址，复制到手机浏览器里打开</mark> ，一边手机观看安装教程，一边电脑安装软件，会方便很多！<br>2、链接：Win软件目录：<a href="/Win/">点击查看</a> &emsp;    Win软件常见报错问题：<a href="/2023/09/06/WIN/WIN%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E9%97%AE%E9%A2%98%E7%9B%AE%E5%BD%95/">点击查看</a><br>3、客服：若安装报错问题，自己解决不了，打开安装包内的【联系客服】，添加客服QQ，或点击本网页最上面【联系客服】！</p></div><h3 id=""><a href="#" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">报错问题说明：</span>    </p></section></div></h3><details class="folding-tag" cyan open><summary> 报错问题说明 </summary>              <div class='content'>              <p><mark class="hl-label green">报错问题</mark> <b>：WIN系统，阻止软件程序联网(软件工具)•教程步骤</b><br><mark class="hl-label purple">安装环境</mark> ：Win7&#x2F;Win10&#x2F;Win11系统<br><mark class="hl-label purple">系统位数</mark> ：32+64位<br><mark class="hl-label green">亲测安装</mark> ：所有资源皆经严格把关、实机安装测试！</p>              </div>            </details><h3 id="-1"><a href="#-1" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">教程步骤：</span>    </p></section></div></h3><p><b>说明：本教程以【JMP Pro】软件为例，其他软件需要阻止联网，操作步骤一样。</b></p><h4 id="1、复制安装包里面的【禁止程序联网工具-1-1】文件夹。"><a href="#1、复制安装包里面的【禁止程序联网工具-1-1】文件夹。" class="headerlink" title="1、复制安装包里面的【禁止程序联网工具 1.1】文件夹。"></a>1、复制安装包里面的【禁止程序联网工具 1.1】文件夹。</h4><img class="inline-img" src="https://bu.dusays.com/2023/09/17/650701b17299d.png" style="height:300px"/>  <h4 id="2、桌面上，右击软件图标，选择【打开文件所在的位置】。（这里以【JMP-Pro】为例，您要阻止哪个软件联网，就是右击哪个软件）"><a href="#2、桌面上，右击软件图标，选择【打开文件所在的位置】。（这里以【JMP-Pro】为例，您要阻止哪个软件联网，就是右击哪个软件）" class="headerlink" title="2、桌面上，右击软件图标，选择【打开文件所在的位置】。（这里以【JMP Pro】为例，您要阻止哪个软件联网，就是右击哪个软件）"></a>2、桌面上，右击软件图标，选择【打开文件所在的位置】。<b>（这里以【JMP Pro】为例，您要阻止哪个软件联网，就是右击哪个软件）</b></h4><img class="inline-img" src="https://bu.dusays.com/2023/09/17/650701bc74080.png" style="height:400px"/>  <h4 id="3、在空白处，右击粘贴。"><a href="#3、在空白处，右击粘贴。" class="headerlink" title="3、在空白处，右击粘贴。"></a>3、在空白处，右击粘贴。</h4><img class="inline-img" src="https://bu.dusays.com/2023/09/17/650701c09d4af.png" style="height:400px"/>  <h4 id="4、点击【继续】。（没有该提示可以忽略）"><a href="#4、点击【继续】。（没有该提示可以忽略）" class="headerlink" title="4、点击【继续】。（没有该提示可以忽略）"></a>4、点击【继续】。<b>（没有该提示可以忽略）</b></h4><img class="inline-img" src="https://bu.dusays.com/2023/09/17/650701c487040.png" style="height:400px"/>  <h4 id="5、双击打开，粘贴好的【禁止程序联网工具-1-1】文件夹。"><a href="#5、双击打开，粘贴好的【禁止程序联网工具-1-1】文件夹。" class="headerlink" title="5、双击打开，粘贴好的【禁止程序联网工具 1.1】文件夹。"></a>5、双击打开，粘贴好的【禁止程序联网工具 1.1】文件夹。</h4><img class="inline-img" src="https://bu.dusays.com/2023/09/17/650701c8a284b.png" style="height:400px"/>  <h4 id="6、右击【禁止程序联网-1-1-exe】-【以管理员身份运行】。"><a href="#6、右击【禁止程序联网-1-1-exe】-【以管理员身份运行】。" class="headerlink" title="6、右击【禁止程序联网 1.1.exe】-【以管理员身份运行】。"></a>6、右击【禁止程序联网 1.1.exe】-【以管理员身份运行】。</h4><img class="inline-img" src="https://bu.dusays.com/2023/09/17/650701cc86eb9.png" style="height:400px"/>  <h4 id="7、点击【箭头指向的文件夹】按钮。"><a href="#7、点击【箭头指向的文件夹】按钮。" class="headerlink" title="7、点击【箭头指向的文件夹】按钮。"></a>7、点击【箭头指向的文件夹】按钮。</h4><img class="inline-img" src="https://bu.dusays.com/2023/09/17/650701d24df9f.png" style="height:400px"/><h4 id="8、选择要阻止联网的，软件安装位置的文件夹，点击【确定】。（说明：这里要选择的是您软件安装位置的文件夹，不是安装包文件夹，如果您找不到安装位置，看下一步说明）"><a href="#8、选择要阻止联网的，软件安装位置的文件夹，点击【确定】。（说明：这里要选择的是您软件安装位置的文件夹，不是安装包文件夹，如果您找不到安装位置，看下一步说明）" class="headerlink" title="8、选择要阻止联网的，软件安装位置的文件夹，点击【确定】。（说明：这里要选择的是您软件安装位置的文件夹，不是安装包文件夹，如果您找不到安装位置，看下一步说明）"></a>8、选择要阻止联网的，软件安装位置的文件夹，点击【确定】。<b>（说明：这里要选择的是您软件安装位置的文件夹，不是安装包文件夹，如果您找不到安装位置，看下一步说明）</b></h4><img class="inline-img" src="https://bu.dusays.com/2023/09/17/650701d7bf9c5.png" style="height:400px"/>  <h4 id="9、如果您找不到软件安装位置：桌面上，右击【软件图标】-【属性】，目标里，可以看到软件安装到什么地方了。"><a href="#9、如果您找不到软件安装位置：桌面上，右击【软件图标】-【属性】，目标里，可以看到软件安装到什么地方了。" class="headerlink" title="9、如果您找不到软件安装位置：桌面上，右击【软件图标】-【属性】，目标里，可以看到软件安装到什么地方了。"></a>9、<b>如果您找不到软件安装位置：</b>桌面上，右击【软件图标】-【属性】，目标里，可以看到软件安装到什么地方了。</h4><img class="inline-img" src="https://bu.dusays.com/2023/09/17/650701dbea97a.png" style="height:400px"/>  <h4 id="10、红框内显示，您要阻止联网的软件安装文件夹后，点击【禁用网络】。"><a href="#10、红框内显示，您要阻止联网的软件安装文件夹后，点击【禁用网络】。" class="headerlink" title="10、红框内显示，您要阻止联网的软件安装文件夹后，点击【禁用网络】。"></a>10、红框内显示，您要阻止联网的软件安装文件夹后，点击【禁用网络】。</h4><img class="inline-img" src="https://bu.dusays.com/2023/09/17/650701e0314ba.png" style="height:400px"/>  <h4 id="11、等待一会，出现红框内的信息，关闭该工具，然后返回原软件安装教程，继续原软件的后续步骤安装。"><a href="#11、等待一会，出现红框内的信息，关闭该工具，然后返回原软件安装教程，继续原软件的后续步骤安装。" class="headerlink" title="11、等待一会，出现红框内的信息，关闭该工具，然后返回原软件安装教程，继续原软件的后续步骤安装。"></a>11、等待一会，出现红框内的信息，关闭该工具，然后返回原软件安装教程，继续原软件的后续步骤安装。</h4><img class="inline-img" src="https://bu.dusays.com/2023/09/17/65070233aabaf.png" style="height:400px"/>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;div class=&quot;tip sync&quot;&gt;&lt;p&gt;安装指南：&lt;br&gt;1、建议：&lt;mark class=&quot;hl-label blue&quot;&gt;安装教程网页地址，复制到手机浏览器里打开&lt;/mark&gt; ，一边手机观看安装教程，一边电脑安装软件，会方便很多！&lt;br&gt;2、链接：Win软件目录：&lt;</summary>
-      
-    
-    
-    
-    <category term="Win软件" scheme="http://example.com/categories/Win%E8%BD%AF%E4%BB%B6/"/>
-    
-    
     <category term="安装报错" scheme="http://example.com/tags/%E5%AE%89%E8%A3%85%E6%8A%A5%E9%94%99/"/>
-    
-    <category term="Win软件" scheme="http://example.com/tags/Win%E8%BD%AF%E4%BB%B6/"/>
     
   </entry>
   
@@ -296,9 +270,35 @@
     <category term="Win软件" scheme="http://example.com/categories/Win%E8%BD%AF%E4%BB%B6/"/>
     
     
+    <category term="Win软件" scheme="http://example.com/tags/Win%E8%BD%AF%E4%BB%B6/"/>
+    
     <category term="安装报错" scheme="http://example.com/tags/%E5%AE%89%E8%A3%85%E6%8A%A5%E9%94%99/"/>
     
+  </entry>
+  
+  <entry>
+    <title>Win系统•阻止软件程序联网(软件工具)•教程步骤</title>
+    <link href="http://example.com/2023/09/16/WIN/WT/010/"/>
+    <id>http://example.com/2023/09/16/WIN/WT/010/</id>
+    <published>2023-09-16T11:55:44.000Z</published>
+    <updated>2023-09-17T13:44:44.782Z</updated>
+    
+    <content type="html"><![CDATA[<div class="tip sync"><p>安装指南：<br>1、建议：<mark class="hl-label blue">安装教程网页地址，复制到手机浏览器里打开</mark> ，一边手机观看安装教程，一边电脑安装软件，会方便很多！<br>2、链接：Win软件目录：<a href="/Win/">点击查看</a> &emsp;    Win软件常见报错问题：<a href="/2023/09/06/WIN/WIN%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E9%97%AE%E9%A2%98%E7%9B%AE%E5%BD%95/">点击查看</a><br>3、客服：若安装报错问题，自己解决不了，打开安装包内的【联系客服】，添加客服QQ，或点击本网页最上面【联系客服】！</p></div><h3 id=""><a href="#" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">报错问题说明：</span>    </p></section></div></h3><details class="folding-tag" cyan open><summary> 报错问题说明 </summary>              <div class='content'>              <p><mark class="hl-label green">报错问题</mark> <b>：WIN系统，阻止软件程序联网(软件工具)•教程步骤</b><br><mark class="hl-label purple">安装环境</mark> ：Win7&#x2F;Win10&#x2F;Win11系统<br><mark class="hl-label purple">系统位数</mark> ：32+64位<br><mark class="hl-label green">亲测安装</mark> ：所有资源皆经严格把关、实机安装测试！</p>              </div>            </details><h3 id="-1"><a href="#-1" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">教程步骤：</span>    </p></section></div></h3><p><b>说明：本教程以【JMP Pro】软件为例，其他软件需要阻止联网，操作步骤一样。</b></p><h4 id="1、复制安装包里面的【禁止程序联网工具-1-1】文件夹。"><a href="#1、复制安装包里面的【禁止程序联网工具-1-1】文件夹。" class="headerlink" title="1、复制安装包里面的【禁止程序联网工具 1.1】文件夹。"></a>1、复制安装包里面的【禁止程序联网工具 1.1】文件夹。</h4><img class="inline-img" src="https://bu.dusays.com/2023/09/17/650701b17299d.png" style="height:300px"/>  <h4 id="2、桌面上，右击软件图标，选择【打开文件所在的位置】。（这里以【JMP-Pro】为例，您要阻止哪个软件联网，就是右击哪个软件）"><a href="#2、桌面上，右击软件图标，选择【打开文件所在的位置】。（这里以【JMP-Pro】为例，您要阻止哪个软件联网，就是右击哪个软件）" class="headerlink" title="2、桌面上，右击软件图标，选择【打开文件所在的位置】。（这里以【JMP Pro】为例，您要阻止哪个软件联网，就是右击哪个软件）"></a>2、桌面上，右击软件图标，选择【打开文件所在的位置】。<b>（这里以【JMP Pro】为例，您要阻止哪个软件联网，就是右击哪个软件）</b></h4><img class="inline-img" src="https://bu.dusays.com/2023/09/17/650701bc74080.png" style="height:400px"/>  <h4 id="3、在空白处，右击粘贴。"><a href="#3、在空白处，右击粘贴。" class="headerlink" title="3、在空白处，右击粘贴。"></a>3、在空白处，右击粘贴。</h4><img class="inline-img" src="https://bu.dusays.com/2023/09/17/650701c09d4af.png" style="height:400px"/>  <h4 id="4、点击【继续】。（没有该提示可以忽略）"><a href="#4、点击【继续】。（没有该提示可以忽略）" class="headerlink" title="4、点击【继续】。（没有该提示可以忽略）"></a>4、点击【继续】。<b>（没有该提示可以忽略）</b></h4><img class="inline-img" src="https://bu.dusays.com/2023/09/17/650701c487040.png" style="height:400px"/>  <h4 id="5、双击打开，粘贴好的【禁止程序联网工具-1-1】文件夹。"><a href="#5、双击打开，粘贴好的【禁止程序联网工具-1-1】文件夹。" class="headerlink" title="5、双击打开，粘贴好的【禁止程序联网工具 1.1】文件夹。"></a>5、双击打开，粘贴好的【禁止程序联网工具 1.1】文件夹。</h4><img class="inline-img" src="https://bu.dusays.com/2023/09/17/650701c8a284b.png" style="height:400px"/>  <h4 id="6、右击【禁止程序联网-1-1-exe】-【以管理员身份运行】。"><a href="#6、右击【禁止程序联网-1-1-exe】-【以管理员身份运行】。" class="headerlink" title="6、右击【禁止程序联网 1.1.exe】-【以管理员身份运行】。"></a>6、右击【禁止程序联网 1.1.exe】-【以管理员身份运行】。</h4><img class="inline-img" src="https://bu.dusays.com/2023/09/17/650701cc86eb9.png" style="height:400px"/>  <h4 id="7、点击【箭头指向的文件夹】按钮。"><a href="#7、点击【箭头指向的文件夹】按钮。" class="headerlink" title="7、点击【箭头指向的文件夹】按钮。"></a>7、点击【箭头指向的文件夹】按钮。</h4><img class="inline-img" src="https://bu.dusays.com/2023/09/17/650701d24df9f.png" style="height:400px"/><h4 id="8、选择要阻止联网的，软件安装位置的文件夹，点击【确定】。（说明：这里要选择的是您软件安装位置的文件夹，不是安装包文件夹，如果您找不到安装位置，看下一步说明）"><a href="#8、选择要阻止联网的，软件安装位置的文件夹，点击【确定】。（说明：这里要选择的是您软件安装位置的文件夹，不是安装包文件夹，如果您找不到安装位置，看下一步说明）" class="headerlink" title="8、选择要阻止联网的，软件安装位置的文件夹，点击【确定】。（说明：这里要选择的是您软件安装位置的文件夹，不是安装包文件夹，如果您找不到安装位置，看下一步说明）"></a>8、选择要阻止联网的，软件安装位置的文件夹，点击【确定】。<b>（说明：这里要选择的是您软件安装位置的文件夹，不是安装包文件夹，如果您找不到安装位置，看下一步说明）</b></h4><img class="inline-img" src="https://bu.dusays.com/2023/09/17/650701d7bf9c5.png" style="height:400px"/>  <h4 id="9、如果您找不到软件安装位置：桌面上，右击【软件图标】-【属性】，目标里，可以看到软件安装到什么地方了。"><a href="#9、如果您找不到软件安装位置：桌面上，右击【软件图标】-【属性】，目标里，可以看到软件安装到什么地方了。" class="headerlink" title="9、如果您找不到软件安装位置：桌面上，右击【软件图标】-【属性】，目标里，可以看到软件安装到什么地方了。"></a>9、<b>如果您找不到软件安装位置：</b>桌面上，右击【软件图标】-【属性】，目标里，可以看到软件安装到什么地方了。</h4><img class="inline-img" src="https://bu.dusays.com/2023/09/17/650701dbea97a.png" style="height:400px"/>  <h4 id="10、红框内显示，您要阻止联网的软件安装文件夹后，点击【禁用网络】。"><a href="#10、红框内显示，您要阻止联网的软件安装文件夹后，点击【禁用网络】。" class="headerlink" title="10、红框内显示，您要阻止联网的软件安装文件夹后，点击【禁用网络】。"></a>10、红框内显示，您要阻止联网的软件安装文件夹后，点击【禁用网络】。</h4><img class="inline-img" src="https://bu.dusays.com/2023/09/17/650701e0314ba.png" style="height:400px"/>  <h4 id="11、等待一会，出现红框内的信息，关闭该工具，然后返回原软件安装教程，继续原软件的后续步骤安装。"><a href="#11、等待一会，出现红框内的信息，关闭该工具，然后返回原软件安装教程，继续原软件的后续步骤安装。" class="headerlink" title="11、等待一会，出现红框内的信息，关闭该工具，然后返回原软件安装教程，继续原软件的后续步骤安装。"></a>11、等待一会，出现红框内的信息，关闭该工具，然后返回原软件安装教程，继续原软件的后续步骤安装。</h4><img class="inline-img" src="https://bu.dusays.com/2023/09/17/65070233aabaf.png" style="height:400px"/>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;div class=&quot;tip sync&quot;&gt;&lt;p&gt;安装指南：&lt;br&gt;1、建议：&lt;mark class=&quot;hl-label blue&quot;&gt;安装教程网页地址，复制到手机浏览器里打开&lt;/mark&gt; ，一边手机观看安装教程，一边电脑安装软件，会方便很多！&lt;br&gt;2、链接：Win软件目录：&lt;</summary>
+      
+    
+    
+    
+    <category term="Win软件" scheme="http://example.com/categories/Win%E8%BD%AF%E4%BB%B6/"/>
+    
+    
     <category term="Win软件" scheme="http://example.com/tags/Win%E8%BD%AF%E4%BB%B6/"/>
+    
+    <category term="安装报错" scheme="http://example.com/tags/%E5%AE%89%E8%A3%85%E6%8A%A5%E9%94%99/"/>
     
   </entry>
   
@@ -326,37 +326,9 @@
     <category term="Win软件" scheme="http://example.com/categories/Win%E8%BD%AF%E4%BB%B6/"/>
     
     
-    <category term="安装报错" scheme="http://example.com/tags/%E5%AE%89%E8%A3%85%E6%8A%A5%E9%94%99/"/>
-    
     <category term="Win软件" scheme="http://example.com/tags/Win%E8%BD%AF%E4%BB%B6/"/>
     
-  </entry>
-  
-  <entry>
-    <title>兼容M1+M2芯片•PS 2023v24.4.1 For Mac版本•软件安装包下载 安装教程步骤</title>
-    <link href="http://example.com/2023/09/02/MAC/MAC-%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B%E6%A8%A1%E7%89%88/"/>
-    <id>http://example.com/2023/09/02/MAC/MAC-%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B%E6%A8%A1%E7%89%88/</id>
-    <published>2023-09-02T11:55:44.000Z</published>
-    <updated>2023-09-11T17:16:38.597Z</updated>
-    
-    <content type="html"><![CDATA[<div class="tip sync"><p>安装指南：<br>1、建议：<mark class="hl-label blue">安装教程网页地址，复制到手机浏览器里打开</mark> ，一边手机观看安装教程，一边电脑安装软件，会方便很多！<br>2、链接：Mac软件目录：<a href="/Mac/">点击查看</a> &emsp;    Mac软件常见报错问题：<a href="/2023/09/02/MAC/Mac%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E9%97%AE%E9%A2%98%E7%9B%AE%E5%BD%95/">点击查看</a><br>3、客服：若安装报错问题，自己解决不了，打开安装包内的【联系客服】，添加客服QQ，或点击本网页最上面【联系客服】！</p></div><img class="inline-img" src="https://bu.dusays.com/2023/09/05/64f622c3e04a1.png" style="height:80px"/>Adobe PhotoShop简称PS 是一款图像处理与编辑软件，这款功能强大的图像处理软件，拥有丰富多样的图片处理功能、超自由的编辑、超快的运行速度、超稳定的性能，在图片处理领域，帮助用户解决各式各样的图片问题。<h3 id=""><a href="#" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">软件详情+下载链接：</span>    </p></section></div></h3><details class="folding-tag" cyan open><summary> 软件详情+下载链接 </summary>              <div class='content'>              <p><mark class="hl-label green">软件名称</mark> <b>：PS 2023 v24.4.1 (Photoshop) For MAC版本•<mark class="hl-label green">激活版</mark> </b><br><mark class="hl-label green">界面语言</mark> ：简体中文+英文<br><mark class="hl-label green">软件简介</mark> ：PS 图片处理编辑软件<br><mark class="hl-label purple">系统版本</mark> ：Mac 11.3-13.x Ventura 或更高<br><mark class="hl-label purple">兼容芯片</mark> ：支持Intel+M1.M2及更高芯片<br><mark class="hl-label green">原生软件</mark> ：原生M芯片运行<br><mark class="hl-label green">亲测安装</mark> ：所有资源皆经严格把关、实机安装测试！</p><p><b> [百度网盘丨下载链接]：</b>8866<br><a href="https://pan.baidu.com/s/13xKmKiAbxLCq7_2ZBlP9Xg?pwd=8866">https://pan.baidu.com/s/13xKmKiAbxLCq7_2ZBlP9Xg?pwd=8866</a><br><b>[夸克网盘丨下载链接]：</b>iBqe<br><a href="https://pan.quark.cn/s/91d82dff267d">https://pan.quark.cn/s/91d82dff267d</a></p><div class='checkbox green checked'><input type="radio" checked="checked"/>            <p>说明：非免费需要购买！下载链接里，每个版本文件夹里都有购买链接！</p>            </div><div class='checkbox green checked'><input type="radio" checked="checked"/>            <p>下载：下载链接里，下载需要安装的版本即可，不用所有版本全部下载！</p>            </div><div class='checkbox green checked'><input type="radio" checked="checked"/>            <p>客服：打开安装包内的 [联系客服]，添加客服QQ，或点击本网页最上面 [联系客服]！</p>            </div>              </div>            </details><h3 id="-1"><a href="#-1" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">安装教程：</span>    </p></section></div></h3><h4 id="1、双击打开，下载到Mac电脑上的【A-XXX-dmg】软件安装包。"><a href="#1、双击打开，下载到Mac电脑上的【A-XXX-dmg】软件安装包。" class="headerlink" title="1、双击打开，下载到Mac电脑上的【A.XXX.dmg】软件安装包。"></a>1、双击打开，下载到Mac电脑上的【A.XXX.dmg】软件安装包。</h4><img class="inline-img" src="https://bu.dusays.com/2023/09/12/64ff44a67cbaa.jpg" style="height:300px"/>  <h4 id="-2"><a href="#-2" class="headerlink" title=""></a><mark class="hl-label red">安装前一定要做的：</mark> </h4><p>●1)、输入软件密码，打开安装包后：双击打开安装包左下角的【修复工具】，修复完成后，再返回本教程安装。<b>修复工具操作教程：<a href="/Mac/">点击查看</a></b></p><img class="inline-img" src="https://bu.dusays.com/2023/09/12/64ff44a6dd274.png" style="height:200px"/><p>●2)、打开安装包左上角内的【必备组件】文件夹，安装组件，2选1，安装其中1个即可。（若Mac电脑里安装过该组件，可以不用重复安装，可忽略这步）<b>AntiCC组件安装教程：<a href="/Mac/">点击查看</a> &emsp;    Creative Cloud组件安装教程：<a href="/Mac/">点击查看</a></b></p><img class="inline-img" src="https://bu.dusays.com/2023/09/12/64ff44a67cbaa.jpg" style="height:300px"/>  <h4 id="：后面需要关闭电脑网络，断网安装。"><a href="#：后面需要关闭电脑网络，断网安装。" class="headerlink" title="：后面需要关闭电脑网络，断网安装。"></a><mark class="hl-label red">特别说明</mark> <b>：后面需要关闭电脑网络，断网安装。</b></h4><h4 id="2、把左面的软件图标，拖拉到右边的文件夹里。"><a href="#2、把左面的软件图标，拖拉到右边的文件夹里。" class="headerlink" title="2、把左面的软件图标，拖拉到右边的文件夹里。"></a>2、把左面的软件图标，拖拉到右边的文件夹里。</h4>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;div class=&quot;tip sync&quot;&gt;&lt;p&gt;安装指南：&lt;br&gt;1、建议：&lt;mark class=&quot;hl-label blue&quot;&gt;安装教程网页地址，复制到手机浏览器里打开&lt;/mark&gt; ，一边手机观看安装教程，一边电脑安装软件，会方便很多！&lt;br&gt;2、链接：Mac软件目录：&lt;</summary>
-      
-    
-    
-    
-    <category term="Mac软件" scheme="http://example.com/categories/Mac%E8%BD%AF%E4%BB%B6/"/>
-    
-    
-    <category term="Mac软件" scheme="http://example.com/tags/Mac%E8%BD%AF%E4%BB%B6/"/>
-    
-    <category term="PhotoShop" scheme="http://example.com/tags/PhotoShop/"/>
-    
-    <category term="PS" scheme="http://example.com/tags/PS/"/>
+    <category term="安装报错" scheme="http://example.com/tags/%E5%AE%89%E8%A3%85%E6%8A%A5%E9%94%99/"/>
     
   </entry>
   
@@ -380,11 +352,39 @@
     <category term="Win软件" scheme="http://example.com/categories/Win%E8%BD%AF%E4%BB%B6/"/>
     
     
+    <category term="Win软件" scheme="http://example.com/tags/Win%E8%BD%AF%E4%BB%B6/"/>
+    
     <category term="PhotoShop" scheme="http://example.com/tags/PhotoShop/"/>
     
     <category term="PS" scheme="http://example.com/tags/PS/"/>
     
-    <category term="Win软件" scheme="http://example.com/tags/Win%E8%BD%AF%E4%BB%B6/"/>
+  </entry>
+  
+  <entry>
+    <title>兼容M1+M2芯片•PS 2023v24.4.1 For Mac版本•软件安装包下载 安装教程步骤</title>
+    <link href="http://example.com/2023/09/02/MAC/MAC-%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B%E6%A8%A1%E7%89%88/"/>
+    <id>http://example.com/2023/09/02/MAC/MAC-%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B%E6%A8%A1%E7%89%88/</id>
+    <published>2023-09-02T11:55:44.000Z</published>
+    <updated>2023-09-11T17:16:38.597Z</updated>
+    
+    <content type="html"><![CDATA[<div class="tip sync"><p>安装指南：<br>1、建议：<mark class="hl-label blue">安装教程网页地址，复制到手机浏览器里打开</mark> ，一边手机观看安装教程，一边电脑安装软件，会方便很多！<br>2、链接：Mac软件目录：<a href="/Mac/">点击查看</a> &emsp;    Mac软件常见报错问题：<a href="/2023/09/02/MAC/Mac%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E9%97%AE%E9%A2%98%E7%9B%AE%E5%BD%95/">点击查看</a><br>3、客服：若安装报错问题，自己解决不了，打开安装包内的【联系客服】，添加客服QQ，或点击本网页最上面【联系客服】！</p></div><img class="inline-img" src="https://bu.dusays.com/2023/09/05/64f622c3e04a1.png" style="height:80px"/>Adobe PhotoShop简称PS 是一款图像处理与编辑软件，这款功能强大的图像处理软件，拥有丰富多样的图片处理功能、超自由的编辑、超快的运行速度、超稳定的性能，在图片处理领域，帮助用户解决各式各样的图片问题。<h3 id=""><a href="#" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">软件详情+下载链接：</span>    </p></section></div></h3><details class="folding-tag" cyan open><summary> 软件详情+下载链接 </summary>              <div class='content'>              <p><mark class="hl-label green">软件名称</mark> <b>：PS 2023 v24.4.1 (Photoshop) For MAC版本•<mark class="hl-label green">激活版</mark> </b><br><mark class="hl-label green">界面语言</mark> ：简体中文+英文<br><mark class="hl-label green">软件简介</mark> ：PS 图片处理编辑软件<br><mark class="hl-label purple">系统版本</mark> ：Mac 11.3-13.x Ventura 或更高<br><mark class="hl-label purple">兼容芯片</mark> ：支持Intel+M1.M2及更高芯片<br><mark class="hl-label green">原生软件</mark> ：原生M芯片运行<br><mark class="hl-label green">亲测安装</mark> ：所有资源皆经严格把关、实机安装测试！</p><p><b> [百度网盘丨下载链接]：</b>8866<br><a href="https://pan.baidu.com/s/13xKmKiAbxLCq7_2ZBlP9Xg?pwd=8866">https://pan.baidu.com/s/13xKmKiAbxLCq7_2ZBlP9Xg?pwd=8866</a><br><b>[夸克网盘丨下载链接]：</b>iBqe<br><a href="https://pan.quark.cn/s/91d82dff267d">https://pan.quark.cn/s/91d82dff267d</a></p><div class='checkbox green checked'><input type="radio" checked="checked"/>            <p>说明：非免费需要购买！下载链接里，每个版本文件夹里都有购买链接！</p>            </div><div class='checkbox green checked'><input type="radio" checked="checked"/>            <p>下载：下载链接里，下载需要安装的版本即可，不用所有版本全部下载！</p>            </div><div class='checkbox green checked'><input type="radio" checked="checked"/>            <p>客服：打开安装包内的 [联系客服]，添加客服QQ，或点击本网页最上面 [联系客服]！</p>            </div>              </div>            </details><h3 id="-1"><a href="#-1" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">安装教程：</span>    </p></section></div></h3><h4 id="1、双击打开，下载到Mac电脑上的【A-XXX-dmg】软件安装包。"><a href="#1、双击打开，下载到Mac电脑上的【A-XXX-dmg】软件安装包。" class="headerlink" title="1、双击打开，下载到Mac电脑上的【A.XXX.dmg】软件安装包。"></a>1、双击打开，下载到Mac电脑上的【A.XXX.dmg】软件安装包。</h4><img class="inline-img" src="https://bu.dusays.com/2023/09/12/64ff44a67cbaa.jpg" style="height:300px"/>  <h4 id="-2"><a href="#-2" class="headerlink" title=""></a><mark class="hl-label red">安装前一定要做的：</mark> </h4><p>●1)、输入软件密码，打开安装包后：双击打开安装包左下角的【修复工具】，修复完成后，再返回本教程安装。<b>修复工具操作教程：<a href="/Mac/">点击查看</a></b></p><img class="inline-img" src="https://bu.dusays.com/2023/09/12/64ff44a6dd274.png" style="height:200px"/><p>●2)、打开安装包左上角内的【必备组件】文件夹，安装组件，2选1，安装其中1个即可。（若Mac电脑里安装过该组件，可以不用重复安装，可忽略这步）<b>AntiCC组件安装教程：<a href="/Mac/">点击查看</a> &emsp;    Creative Cloud组件安装教程：<a href="/Mac/">点击查看</a></b></p><img class="inline-img" src="https://bu.dusays.com/2023/09/12/64ff44a67cbaa.jpg" style="height:300px"/>  <h4 id="：后面需要关闭电脑网络，断网安装。"><a href="#：后面需要关闭电脑网络，断网安装。" class="headerlink" title="：后面需要关闭电脑网络，断网安装。"></a><mark class="hl-label red">特别说明</mark> <b>：后面需要关闭电脑网络，断网安装。</b></h4><h4 id="2、把左面的软件图标，拖拉到右边的文件夹里。"><a href="#2、把左面的软件图标，拖拉到右边的文件夹里。" class="headerlink" title="2、把左面的软件图标，拖拉到右边的文件夹里。"></a>2、把左面的软件图标，拖拉到右边的文件夹里。</h4>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;div class=&quot;tip sync&quot;&gt;&lt;p&gt;安装指南：&lt;br&gt;1、建议：&lt;mark class=&quot;hl-label blue&quot;&gt;安装教程网页地址，复制到手机浏览器里打开&lt;/mark&gt; ，一边手机观看安装教程，一边电脑安装软件，会方便很多！&lt;br&gt;2、链接：Mac软件目录：&lt;</summary>
+      
+    
+    
+    
+    <category term="Mac软件" scheme="http://example.com/categories/Mac%E8%BD%AF%E4%BB%B6/"/>
+    
+    
+    <category term="PhotoShop" scheme="http://example.com/tags/PhotoShop/"/>
+    
+    <category term="PS" scheme="http://example.com/tags/PS/"/>
+    
+    <category term="Mac软件" scheme="http://example.com/tags/Mac%E8%BD%AF%E4%BB%B6/"/>
     
   </entry>
   
@@ -412,9 +412,9 @@
     <category term="Mac软件" scheme="http://example.com/categories/Mac%E8%BD%AF%E4%BB%B6/"/>
     
     
-    <category term="Mac软件" scheme="http://example.com/tags/Mac%E8%BD%AF%E4%BB%B6/"/>
-    
     <category term="安装报错" scheme="http://example.com/tags/%E5%AE%89%E8%A3%85%E6%8A%A5%E9%94%99/"/>
+    
+    <category term="Mac软件" scheme="http://example.com/tags/Mac%E8%BD%AF%E4%BB%B6/"/>
     
   </entry>
   
