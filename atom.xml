@@ -6,7 +6,7 @@
   <link href="http://www.lumingrj.com/atom.xml" rel="self"/>
   
   <link href="http://www.lumingrj.com/"/>
-  <updated>2024-02-22T04:35:36.682Z</updated>
+  <updated>2024-03-03T05:57:56.797Z</updated>
   <id>http://www.lumingrj.com/</id>
   
   <author>
@@ -15,6 +15,268 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>兼容M1~M3芯片•CiteSpace 6.3.R1 For Mac版本•中英文•软件安装包下载 安装教程步骤•苹果系统</title>
+    <link href="http://www.lumingrj.com/2024/03/03/MAC/CiteSpace-6.3.R1/"/>
+    <id>http://www.lumingrj.com/2024/03/03/MAC/CiteSpace-6.3.R1/</id>
+    <published>2024-03-03T05:50:28.000Z</published>
+    <updated>2024-03-03T05:57:56.797Z</updated>
+    
+    <content type="html"><![CDATA[<div class="tip sync"><p>安装指南：<br>1、链接：Mac软件目录：<a href="/Mac/">点击查看</a> &emsp;    Mac软件常见报错问题：<a href="/2023/09/02/MAC/Mac%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E9%97%AE%E9%A2%98%E7%9B%AE%E5%BD%95/">点击查看</a><br>2、客服：若安装报错问题，自己解决不了，打开安装包内的【联系客服】，添加客服QQ，或点击本网页最上面【联系客服】！</p></div><div class="img-wrap"><div class="img-bg"><img class="img" src="https://bu.dusays.com/2023/09/10/64fd9262af793.png" style="width:80px;"/></div></div><h3 id=""><a href="#" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">软件详情+下载链接：</span>    </p></section></div></h3><details class="folding-tag" cyan open><summary> 软件详情+下载链接 </summary>              <div class='content'>              <p><mark class="hl-label green">软件名称</mark> <b>：CiteSpace 6.3.1 Basic 基础版 For MAC版本</b></p><p><mark class="hl-label green">界面语言</mark> ：简体中文+英文</p><p><mark class="hl-label green">软件简介</mark> ：可视化文献分析工具</p><p><mark class="hl-label purple">系统版本</mark> ：Mac 10.13-14.x Sonoma 或更高</p><p><mark class="hl-label purple">兼容芯片</mark> ：支持Intel+M1.M2.M3及更高芯片</p><p><mark class="hl-label green">亲测安装</mark> ：所有资源皆经严格把关、实机安装测试！</p><p><b> [百度网盘丨下载链接]：</b><br><a href="https://pan.baidu.com/s/1gwyTKl5tiW1Ap-Pgqx0EEQ?pwd=8866">https://pan.baidu.com/s/1gwyTKl5tiW1Ap-Pgqx0EEQ?pwd=8866</a><br><b> [123 云盘丨下载链接]：</b><br><a href="https://www.123pan.com/s/LZZBjv-0Y7W.html">https://www.123pan.com/s/LZZBjv-0Y7W.html</a></p><div class='checkbox green checked'><input type="radio" checked="checked"/>            <p>下载：下载链接里，下载需要安装的版本即可，不用所有版本全部下载！</p>            </div><div class='checkbox green checked'><input type="radio" checked="checked"/>            <p>客服：打开安装包内的 [联系客服]，添加客服QQ，或点击本网页最上面 [联系客服]！</p>            </div>              </div>            </details><h3 id="-1"><a href="#-1" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">安装教程：</span>    </p></section></div></h3><p>1、双击打开，下载到Mac电脑上的【A.CiteSpace 6.3.R1 Basic.dmg】软件安装包。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403031356689.png" alt="图片"></p><h4 id="-2"><a href="#-2" class="headerlink" title=""></a><mark class="hl-label red">安装前一定要做的：</mark> </h4><p>●输入软件密码，打开安装包后：双击打开安装包左下角的【修复工具】，修复完成后，再返回本教程安装。<b>修复工具操作教程：<a href="/2023/09/18/MAC/WT/003/">点击查看</a></b></p><div style="display:inline-block;"><img style="float:left;" src=https://bu.dusays.com/2023/09/12/64ff44a6dd274.png></div> <p>2、把左边的软件图标，拖拉到右边的文件夹里。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403031357504.png" alt="图片"></p><p>3、在【启动台】里，打开软件图标。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403031357573.png" alt="图片"></p><p>4、若显示【“CiteSpace”已损坏，无法打开】，点击取消。<strong>（没有显示该窗口，可忽略这步）</strong></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403031357512.png" alt="图片"></p><p>5、安装包内打开【箭头指向的文件】，里面有【“CiteSpace”已损坏，无法打开】解决步骤。<strong>（</strong>没有显示“CiteSpace”已损坏，可忽略这步）</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403031357460.png" alt="图片"></p><p>6、稍等一会。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403031357531.png" alt="图片"></p><p>7、点击【确定】。<strong>（没有可忽略）</strong></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403031357379.png" alt="图片"></p><p>8、点击【Agree】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403031357918.png" alt="图片"></p><p>9、安装完成。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403031357890.png" alt="图片"></p><p>10、<strong>切换中文版本，打开软件时：</strong>点击【English】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403031357229.png" alt="图片"></p><p>11、【English】变为【中文】后，点击【Agree】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403031357640.png" alt="图片"></p><p>12、中文界面。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403031357100.png" alt="图片"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;div class=&quot;tip sync&quot;&gt;&lt;p&gt;安装指南：&lt;br&gt;1、链接：Mac软件目录：&lt;a href=&quot;/Mac/&quot;&gt;点击查看&lt;/a&gt; &amp;emsp;    Mac软件常见报错问题：&lt;a href=&quot;/2023/09/02/MAC/Mac%E8%BD%AF%E4%BB%B6</summary>
+      
+    
+    
+    
+    <category term="Mac软件" scheme="http://www.lumingrj.com/categories/Mac%E8%BD%AF%E4%BB%B6/"/>
+    
+    
+    <category term="Mac软件" scheme="http://www.lumingrj.com/tags/Mac%E8%BD%AF%E4%BB%B6/"/>
+    
+    <category term="CiteSpace" scheme="http://www.lumingrj.com/tags/CiteSpace/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>兼容M1~M3芯片•Convert3D 1.0.0 For Mac版本•英文•软件安装包下载 安装教程步骤•苹果系统</title>
+    <link href="http://www.lumingrj.com/2024/02/27/MAC/Convert3D-1.0.0/"/>
+    <id>http://www.lumingrj.com/2024/02/27/MAC/Convert3D-1.0.0/</id>
+    <published>2024-02-27T03:10:28.000Z</published>
+    <updated>2024-02-27T03:19:18.672Z</updated>
+    
+    <content type="html"><![CDATA[<div class="tip sync"><p>安装指南：<br>1、链接：Mac软件目录：<a href="/Mac/">点击查看</a> &emsp;    Mac软件常见报错问题：<a href="/2023/09/02/MAC/Mac%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E9%97%AE%E9%A2%98%E7%9B%AE%E5%BD%95/">点击查看</a><br>2、客服：若安装报错问题，自己解决不了，打开安装包内的【联系客服】，添加客服QQ，或点击本网页最上面【联系客服】！</p></div><div class="img-wrap"><div class="img-bg"><img class="img" src="https://bu.dusays.com/2024/02/27/65dd546441eeb.png" style="width:80px;"/></div></div><h3 id=""><a href="#" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">软件详情+下载链接：</span>    </p></section></div></h3><details class="folding-tag" cyan open><summary> 软件详情+下载链接 </summary>              <div class='content'>              <p><mark class="hl-label green">软件名称</mark> <b>：Convert3D 1.0.0 For MAC版本</b></p><p><mark class="hl-label green">界面语言</mark> ：英文</p><p><mark class="hl-label green">软件简介</mark> ：医学图像处理软件</p><p><mark class="hl-label purple">系统版本</mark> ：Mac 10.12-14.x Sonoma 或更高</p><p><mark class="hl-label purple">兼容芯片</mark> ：支持Intel+M1.M2.M3及更高芯片</p><p><mark class="hl-label green">亲测安装</mark> ：所有资源皆经严格把关、实机安装测试！</p><p><b> [百度网盘丨下载链接]：</b><br><a href="https://pan.baidu.com/s/1SMj1G95EEumKz1yPCAvmjQ?pwd=8866">https://pan.baidu.com/s/1SMj1G95EEumKz1yPCAvmjQ?pwd=8866</a><br><b> [123 云盘丨下载链接]：</b><br><a href="https://www.123pan.com/s/LZZBjv-EQbW.html">https://www.123pan.com/s/LZZBjv-EQbW.html</a></p><div class='checkbox green checked'><input type="radio" checked="checked"/>            <p>下载：下载链接里，下载需要安装的版本即可，不用所有版本全部下载！</p>            </div><div class='checkbox green checked'><input type="radio" checked="checked"/>            <p>客服：打开安装包内的 [联系客服]，添加客服QQ，或点击本网页最上面 [联系客服]！</p>            </div>              </div>            </details><h3 id="-1"><a href="#-1" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">安装教程：</span>    </p></section></div></h3><p>1、双击打开，下载到Mac电脑上的【A.Convert3D 1.0.0.dmg】软件安装包。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402271118757.png" alt="图片"></p><h4 id="-2"><a href="#-2" class="headerlink" title=""></a><mark class="hl-label red">安装前一定要做的：</mark> </h4><p>●输入软件密码，打开安装包后：双击打开安装包左下角的【修复工具】，修复完成后，再返回本教程安装。<b>修复工具操作教程：<a href="/2023/09/18/MAC/WT/003/">点击查看</a></b></p><div style="display:inline-block;"><img style="float:left;" src=https://bu.dusays.com/2023/09/12/64ff44a6dd274.png></div> <p>2、把左面的软件图标，拖拉到右边的文件夹里。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402271119355.png" alt="图片"></p><p>3、在【启动台】里，打开软件图标。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402271119303.png" alt="图片"></p><p>4、安装完成。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402271119438.png" alt="图片"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;div class=&quot;tip sync&quot;&gt;&lt;p&gt;安装指南：&lt;br&gt;1、链接：Mac软件目录：&lt;a href=&quot;/Mac/&quot;&gt;点击查看&lt;/a&gt; &amp;emsp;    Mac软件常见报错问题：&lt;a href=&quot;/2023/09/02/MAC/Mac%E8%BD%AF%E4%BB%B6</summary>
+      
+    
+    
+    
+    <category term="Mac软件" scheme="http://www.lumingrj.com/categories/Mac%E8%BD%AF%E4%BB%B6/"/>
+    
+    
+    <category term="Mac软件" scheme="http://www.lumingrj.com/tags/Mac%E8%BD%AF%E4%BB%B6/"/>
+    
+    <category term="Convert3D" scheme="http://www.lumingrj.com/tags/Convert3D/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>兼容M1~M3芯片•Graphpad Prism 10.2.0 For Mac版本•英文•软件安装包下载 安装教程步骤•苹果系统</title>
+    <link href="http://www.lumingrj.com/2024/02/27/MAC/Graphpad-Prism-10.2.0/"/>
+    <id>http://www.lumingrj.com/2024/02/27/MAC/Graphpad-Prism-10.2.0/</id>
+    <published>2024-02-27T03:10:28.000Z</published>
+    <updated>2024-02-27T03:11:02.442Z</updated>
+    
+    <content type="html"><![CDATA[<div class="tip sync"><p>安装指南：<br>1、链接：Mac软件目录：<a href="/Mac/">点击查看</a> &emsp;    Mac软件常见报错问题：<a href="/2023/09/02/MAC/Mac%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E9%97%AE%E9%A2%98%E7%9B%AE%E5%BD%95/">点击查看</a><br>2、客服：若安装报错问题，自己解决不了，打开安装包内的【联系客服】，添加客服QQ，或点击本网页最上面【联系客服】！</p></div><div class="img-wrap"><div class="img-bg"><img class="img" src="https://bu.dusays.com/2023/11/05/6547b36536f8e.png" style="width:80px;"/></div></div><h3 id=""><a href="#" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">软件详情+下载链接：</span>    </p></section></div></h3><details class="folding-tag" cyan open><summary> 软件详情+下载链接 </summary>              <div class='content'>              <p><mark class="hl-label green">软件名称</mark> <b>：Graphpad Prism 10.2.0 For MAC版本•<mark class="hl-label green">激活版</mark> </b></p><p><mark class="hl-label green">界面语言</mark> ：英文</p><p><mark class="hl-label green">软件简介</mark> ：科研绘图，数据绘图分析软件</p><p><mark class="hl-label purple">系统版本</mark> ：Mac 10.15-14.x Sonoma 或更高</p><p><mark class="hl-label purple">兼容芯片</mark> ：支持Intel+M1.M2.M3及更高芯片</p><p><mark class="hl-label green">原生软件</mark> ：原生M芯片运行</p><p><mark class="hl-label green">亲测安装</mark> ：所有资源皆经严格把关、实机安装测试！</p><p><b> [百度网盘丨下载链接]：</b><br><a href="https://pan.baidu.com/s/19tw8PwLDrXoaEB1ncth_Jg?pwd=8866">https://pan.baidu.com/s/19tw8PwLDrXoaEB1ncth_Jg?pwd=8866</a><br><b> [123 云盘丨下载链接]：</b><br><a href="https://www.123pan.com/s/LZZBjv-VX7W.html">https://www.123pan.com/s/LZZBjv-VX7W.html</a></p><div class='checkbox green checked'><input type="radio" checked="checked"/>            <p>下载：下载链接里，下载需要安装的版本即可，不用所有版本全部下载！</p>            </div><div class='checkbox green checked'><input type="radio" checked="checked"/>            <p>客服：打开安装包内的 [联系客服]，添加客服QQ，或点击本网页最上面 [联系客服]！</p>            </div>              </div>            </details><h3 id="-1"><a href="#-1" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">安装教程：</span>    </p></section></div></h3><p>1、双击打开，下载到Mac电脑上的【A.Prism 10.2.0.dmg】软件安装包。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402271110490.png" alt="图片"></p><h4 id="-2"><a href="#-2" class="headerlink" title=""></a><mark class="hl-label red">安装前一定要做的：</mark> </h4><p>●输入软件密码，打开安装包后：双击打开安装包左下角的【修复工具】，修复完成后，再返回本教程安装。<b>修复工具操作教程：<a href="/2023/09/18/MAC/WT/003/">点击查看</a></b></p><div style="display:inline-block;"><img style="float:left;" src=https://bu.dusays.com/2023/09/12/64ff44a6dd274.png></div> <p>2、把左边的软件图标，拖拉到右边的文件夹里。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402271110546.png" alt="图片"></p><p>3、在【启动台】里，打开软件图标。**(若有更新弹框，点击【Skip This Version】)**</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402271110798.png" alt="图片"></p><p>4、点击【打开】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402271110479.png" alt="图片"></p><p>5、左面选择自己需要创建的类型，点击【Create】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402271110171.png" alt="图片"></p><p>6、菜单栏上，点击【Prism】-【Settings】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402271110785.png" alt="图片"></p><p>7<strong>、取消勾选</strong>红框内的选项，点击【OK】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402271110674.png" alt="图片"></p><p>8、安装完成。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402271110783.png" alt="图片"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;div class=&quot;tip sync&quot;&gt;&lt;p&gt;安装指南：&lt;br&gt;1、链接：Mac软件目录：&lt;a href=&quot;/Mac/&quot;&gt;点击查看&lt;/a&gt; &amp;emsp;    Mac软件常见报错问题：&lt;a href=&quot;/2023/09/02/MAC/Mac%E8%BD%AF%E4%BB%B6</summary>
+      
+    
+    
+    
+    <category term="Mac软件" scheme="http://www.lumingrj.com/categories/Mac%E8%BD%AF%E4%BB%B6/"/>
+    
+    
+    <category term="Mac软件" scheme="http://www.lumingrj.com/tags/Mac%E8%BD%AF%E4%BB%B6/"/>
+    
+    <category term="Graphpad Prism" scheme="http://www.lumingrj.com/tags/Graphpad-Prism/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>兼容M1~M3芯片•ITK-SNAP 3.8.0 For Mac版本•英文•软件安装包下载 安装教程步骤•苹果系统</title>
+    <link href="http://www.lumingrj.com/2024/02/27/MAC/ITK-SNAP-3.8.0/"/>
+    <id>http://www.lumingrj.com/2024/02/27/MAC/ITK-SNAP-3.8.0/</id>
+    <published>2024-02-27T03:10:28.000Z</published>
+    <updated>2024-02-27T03:17:16.184Z</updated>
+    
+    <content type="html"><![CDATA[<div class="tip sync"><p>安装指南：<br>1、链接：Mac软件目录：<a href="/Mac/">点击查看</a> &emsp;    Mac软件常见报错问题：<a href="/2023/09/02/MAC/Mac%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E9%97%AE%E9%A2%98%E7%9B%AE%E5%BD%95/">点击查看</a><br>2、客服：若安装报错问题，自己解决不了，打开安装包内的【联系客服】，添加客服QQ，或点击本网页最上面【联系客服】！</p></div><div class="img-wrap"><div class="img-bg"><img class="img" src="https://bu.dusays.com/2024/02/27/65dd538d8e5d5.png" style="width:80px;"/></div></div><h3 id=""><a href="#" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">软件详情+下载链接：</span>    </p></section></div></h3><details class="folding-tag" cyan open><summary> 软件详情+下载链接 </summary>              <div class='content'>              <p><mark class="hl-label green">软件名称</mark> <b>：ITK-SNAP 3.8.0 For MAC版本</b></p><p><mark class="hl-label green">界面语言</mark> ：英文</p><p><mark class="hl-label green">软件简介</mark> ：医学图像分割工具</p><p><mark class="hl-label purple">系统版本</mark> ：Mac 10.12-14.x Sonoma 或更高</p><p><mark class="hl-label purple">兼容芯片</mark> ：支持Intel+M1.M2.M3及更高芯片</p><p><mark class="hl-label green">亲测安装</mark> ：所有资源皆经严格把关、实机安装测试！</p><p><b> [百度网盘丨下载链接]：</b><br><a href="https://pan.baidu.com/s/1SMj1G95EEumKz1yPCAvmjQ?pwd=8866">https://pan.baidu.com/s/1SMj1G95EEumKz1yPCAvmjQ?pwd=8866</a><br><b> [123 云盘丨下载链接]：</b><br><a href="https://www.123pan.com/s/LZZBjv-EQbW.html">https://www.123pan.com/s/LZZBjv-EQbW.html</a></p><div class='checkbox green checked'><input type="radio" checked="checked"/>            <p>下载：下载链接里，下载需要安装的版本即可，不用所有版本全部下载！</p>            </div><div class='checkbox green checked'><input type="radio" checked="checked"/>            <p>客服：打开安装包内的 [联系客服]，添加客服QQ，或点击本网页最上面 [联系客服]！</p>            </div>              </div>            </details><h3 id="-1"><a href="#-1" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">安装教程：</span>    </p></section></div></h3><p>1、双击打开，下载到Mac电脑上的【A.ITK-SNAP 3.8.0.dmg】软件安装包。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402271116115.png" alt="图片"></p><h4 id="-2"><a href="#-2" class="headerlink" title=""></a><mark class="hl-label red">安装前一定要做的：</mark> </h4><p>●输入软件密码，打开安装包后：双击打开安装包左下角的【修复工具】，修复完成后，再返回本教程安装。<b>修复工具操作教程：<a href="/2023/09/18/MAC/WT/003/">点击查看</a></b></p><div style="display:inline-block;"><img style="float:left;" src=https://bu.dusays.com/2023/09/12/64ff44a6dd274.png></div> <p>2、把左面的软件图标，拖拉到右边的文件夹里。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402271117898.png" alt="图片"></p><p>3、在【启动台】里，打开软件图标。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402271117759.png" alt="图片"></p><p>4、点击【NO】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402271117531.png" alt="图片"></p><p>5、安装完成。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402271117206.png" alt="图片"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;div class=&quot;tip sync&quot;&gt;&lt;p&gt;安装指南：&lt;br&gt;1、链接：Mac软件目录：&lt;a href=&quot;/Mac/&quot;&gt;点击查看&lt;/a&gt; &amp;emsp;    Mac软件常见报错问题：&lt;a href=&quot;/2023/09/02/MAC/Mac%E8%BD%AF%E4%BB%B6</summary>
+      
+    
+    
+    
+    <category term="Mac软件" scheme="http://www.lumingrj.com/categories/Mac%E8%BD%AF%E4%BB%B6/"/>
+    
+    
+    <category term="Mac软件" scheme="http://www.lumingrj.com/tags/Mac%E8%BD%AF%E4%BB%B6/"/>
+    
+    <category term="ITK-SNAP" scheme="http://www.lumingrj.com/tags/ITK-SNAP/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>兼容M1~M3芯片•ITK-SNAP 4.0.2 For Mac版本•英文•软件安装包下载 安装教程步骤•苹果系统</title>
+    <link href="http://www.lumingrj.com/2024/02/27/MAC/ITK-SNAP-4.0.2/"/>
+    <id>http://www.lumingrj.com/2024/02/27/MAC/ITK-SNAP-4.0.2/</id>
+    <published>2024-02-27T03:10:28.000Z</published>
+    <updated>2024-02-27T03:16:11.087Z</updated>
+    
+    <content type="html"><![CDATA[<div class="tip sync"><p>安装指南：<br>1、链接：Mac软件目录：<a href="/Mac/">点击查看</a> &emsp;    Mac软件常见报错问题：<a href="/2023/09/02/MAC/Mac%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E9%97%AE%E9%A2%98%E7%9B%AE%E5%BD%95/">点击查看</a><br>2、客服：若安装报错问题，自己解决不了，打开安装包内的【联系客服】，添加客服QQ，或点击本网页最上面【联系客服】！</p></div><div class="img-wrap"><div class="img-bg"><img class="img" src="https://bu.dusays.com/2024/02/27/65dd538d8e5d5.png" style="width:80px;"/></div></div><h3 id=""><a href="#" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">软件详情+下载链接：</span>    </p></section></div></h3><details class="folding-tag" cyan open><summary> 软件详情+下载链接 </summary>              <div class='content'>              <p><mark class="hl-label green">软件名称</mark> <b>：ITK-SNAP 4.0.2 For MAC版本</b></p><p><mark class="hl-label green">界面语言</mark> ：英文</p><p><mark class="hl-label green">软件简介</mark> ：医学图像分割工具</p><p><mark class="hl-label purple">系统版本</mark> ：Mac 10.15-14.x Sonoma 或更高</p><p><mark class="hl-label purple">兼容芯片</mark> ：支持Intel+M1.M2.M3及更高芯片</p><p><mark class="hl-label green">原生软件</mark> ：原生M芯片运行</p><p><mark class="hl-label green">亲测安装</mark> ：所有资源皆经严格把关、实机安装测试！</p><p><b> [百度网盘丨下载链接]：</b><br><a href="https://pan.baidu.com/s/1SMj1G95EEumKz1yPCAvmjQ?pwd=8866">https://pan.baidu.com/s/1SMj1G95EEumKz1yPCAvmjQ?pwd=8866</a><br><b> [123 云盘丨下载链接]：</b><br><a href="https://www.123pan.com/s/LZZBjv-EQbW.html">https://www.123pan.com/s/LZZBjv-EQbW.html</a></p><div class='checkbox green checked'><input type="radio" checked="checked"/>            <p>下载：下载链接里，下载需要安装的版本即可，不用所有版本全部下载！</p>            </div><div class='checkbox green checked'><input type="radio" checked="checked"/>            <p>客服：打开安装包内的 [联系客服]，添加客服QQ，或点击本网页最上面 [联系客服]！</p>            </div>              </div>            </details><h3 id="-1"><a href="#-1" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">安装教程：</span>    </p></section></div></h3><p>1、双击打开，下载到Mac电脑上的【A.ITK-SNAP 4.0.2 M.dmg】软件安装包。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402271115199.png" alt="图片"></p><h4 id="-2"><a href="#-2" class="headerlink" title=""></a><mark class="hl-label red">安装前一定要做的：</mark> </h4><p>●输入软件密码，打开安装包后：双击打开安装包左下角的【修复工具】，修复完成后，再返回本教程安装。<b>修复工具操作教程：<a href="/2023/09/18/MAC/WT/003/">点击查看</a></b></p><div style="display:inline-block;"><img style="float:left;" src=https://bu.dusays.com/2023/09/12/64ff44a6dd274.png></div> <p>2、把左面的软件图标，拖拉到右边的文件夹里。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402271115657.png" alt="图片"></p><p>3、在【启动台】里，打开软件图标。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402271115944.png" alt="图片"></p><p>4、点击【NO】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402271115547.png" alt="图片"></p><p>5、选择【Dont remind me again】，点击【NO】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402271115830.png" alt="图片"></p><p>6、安装完成。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402271115099.png" alt="图片"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;div class=&quot;tip sync&quot;&gt;&lt;p&gt;安装指南：&lt;br&gt;1、链接：Mac软件目录：&lt;a href=&quot;/Mac/&quot;&gt;点击查看&lt;/a&gt; &amp;emsp;    Mac软件常见报错问题：&lt;a href=&quot;/2023/09/02/MAC/Mac%E8%BD%AF%E4%BB%B6</summary>
+      
+    
+    
+    
+    <category term="Mac软件" scheme="http://www.lumingrj.com/categories/Mac%E8%BD%AF%E4%BB%B6/"/>
+    
+    
+    <category term="Mac软件" scheme="http://www.lumingrj.com/tags/Mac%E8%BD%AF%E4%BB%B6/"/>
+    
+    <category term="ITK-SNAP" scheme="http://www.lumingrj.com/tags/ITK-SNAP/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>兼容M1~M3芯片• Rhino (犀牛) 8.4 For Mac版本•中英文•软件安装包下载 安装教程步骤•苹果系统</title>
+    <link href="http://www.lumingrj.com/2024/02/27/MAC/Rhino-8.4/"/>
+    <id>http://www.lumingrj.com/2024/02/27/MAC/Rhino-8.4/</id>
+    <published>2024-02-27T03:10:28.000Z</published>
+    <updated>2024-02-27T03:07:40.067Z</updated>
+    
+    <content type="html"><![CDATA[<div class="tip sync"><p>安装指南：<br>1、链接：Mac软件目录：<a href="/Mac/">点击查看</a> &emsp;    Mac软件常见报错问题：<a href="/2023/09/02/MAC/Mac%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E9%97%AE%E9%A2%98%E7%9B%AE%E5%BD%95/">点击查看</a><br>2、客服：若安装报错问题，自己解决不了，打开安装包内的【联系客服】，添加客服QQ，或点击本网页最上面【联系客服】！</p></div><div class="img-wrap"><div class="img-bg"><img class="img" src="https://bu.dusays.com/2024/01/08/659bb5790ddaa.png" style="width:80px;"/></div></div><h3 id=""><a href="#" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">软件详情+下载链接：</span>    </p></section></div></h3><details class="folding-tag" cyan open><summary> 软件详情+下载链接 </summary>              <div class='content'>              <p><mark class="hl-label green">软件名称</mark> <b>：Rhino (犀牛) 8.4 For MAC版本•<mark class="hl-label green">激活版</mark> </b></p><p><mark class="hl-label green">界面语言</mark> ：简体中文+英文</p><p><mark class="hl-label green">软件简介</mark> ：三维建模软件</p><p><mark class="hl-label purple">系统版本</mark> ：Mac 12.4-14.x Sonoma 或更高</p><p><mark class="hl-label purple">兼容芯片</mark> ：支持Intel+M1.M2.M3及更高芯片</p><p><mark class="hl-label green">原生软件</mark> ：原生M芯片运行</p><p><mark class="hl-label green">亲测安装</mark> ：所有资源皆经严格把关、实机安装测试！</p><p><b> [百度网盘丨下载链接]：</b><br><a href="https://pan.baidu.com/s/1mR-SVWu74QJHBkplbnb04w?pwd=8866">https://pan.baidu.com/s/1mR-SVWu74QJHBkplbnb04w?pwd=8866</a><br><b> [123 云盘丨下载链接]：</b><br><a href="https://www.123pan.com/s/LZZBjv-Tn7W.html">https://www.123pan.com/s/LZZBjv-Tn7W.html</a></p><div class='checkbox green checked'><input type="radio" checked="checked"/>            <p>下载：下载链接里，下载需要安装的版本即可，不用所有版本全部下载！</p>            </div><div class='checkbox green checked'><input type="radio" checked="checked"/>            <p>客服：打开安装包内的 [联系客服]，添加客服QQ，或点击本网页最上面 [联系客服]！</p>            </div>              </div>            </details><h3 id="-1"><a href="#-1" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">安装教程：</span>    </p></section></div></h3><p>1、双击打开，下载到Mac电脑上的【A.Rhino 8.4.dmg】软件安装包。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402271106151.png" alt="图片"></p><h4 id="-2"><a href="#-2" class="headerlink" title=""></a><mark class="hl-label red">安装前一定要做的：</mark> </h4><p>●输入软件密码，打开安装包后：双击打开安装包左下角的【修复工具】，修复完成后，再返回本教程安装。<b>修复工具操作教程：<a href="/2023/09/18/MAC/WT/003/">点击查看</a></b></p><div style="display:inline-block;"><img style="float:left;" src=https://bu.dusays.com/2023/09/12/64ff44a6dd274.png></div> <p>2、把左面的软件图标，拖拉到右边的文件夹里。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402271107094.png" alt="图片"></p><p>3、在【启动台】里，打开软件图标。<strong>（若提示更新，点击【跳过这个版本】）</strong></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402271107309.png" alt="图片"></p><p>4、稍等一会。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402271107437.png" alt="图片"></p><p>5、点击【新建模型】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402271107932.png" alt="图片"></p><p>6、安装完成。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402271107513.png" alt="图片"></p><p>7、软件界面语言切换：点击【Rhino 8】-【设置】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402271107470.png" alt="图片"></p><p>8、点击【语言】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402271107270.png" alt="图片"></p><p>9、选择自己需要的语言即可。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402271107260.png" alt="图片"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;div class=&quot;tip sync&quot;&gt;&lt;p&gt;安装指南：&lt;br&gt;1、链接：Mac软件目录：&lt;a href=&quot;/Mac/&quot;&gt;点击查看&lt;/a&gt; &amp;emsp;    Mac软件常见报错问题：&lt;a href=&quot;/2023/09/02/MAC/Mac%E8%BD%AF%E4%BB%B6</summary>
+      
+    
+    
+    
+    <category term="Mac软件" scheme="http://www.lumingrj.com/categories/Mac%E8%BD%AF%E4%BB%B6/"/>
+    
+    
+    <category term="Mac软件" scheme="http://www.lumingrj.com/tags/Mac%E8%BD%AF%E4%BB%B6/"/>
+    
+    <category term="Rhino" scheme="http://www.lumingrj.com/tags/Rhino/"/>
+    
+    <category term="犀牛" scheme="http://www.lumingrj.com/tags/%E7%8A%80%E7%89%9B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>兼容M1~M3芯片•RizomUV 2023.0.53 For Mac版本•英文•软件安装包下载 安装教程步骤•苹果系统</title>
+    <link href="http://www.lumingrj.com/2024/02/27/MAC/RizomUV-2023.0.53/"/>
+    <id>http://www.lumingrj.com/2024/02/27/MAC/RizomUV-2023.0.53/</id>
+    <published>2024-02-27T03:10:28.000Z</published>
+    <updated>2024-02-27T03:13:25.070Z</updated>
+    
+    <content type="html"><![CDATA[<div class="tip sync"><p>安装指南：<br>1、链接：Mac软件目录：<a href="/Mac/">点击查看</a> &emsp;    Mac软件常见报错问题：<a href="/2023/09/02/MAC/Mac%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E9%97%AE%E9%A2%98%E7%9B%AE%E5%BD%95/">点击查看</a><br>2、客服：若安装报错问题，自己解决不了，打开安装包内的【联系客服】，添加客服QQ，或点击本网页最上面【联系客服】！</p></div><div class="img-wrap"><div class="img-bg"><img class="img" src="https://bu.dusays.com/2023/11/04/65460d7931dcf.png" style="width:80px;"/></div></div><h3 id=""><a href="#" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">软件详情+下载链接：</span>    </p></section></div></h3><details class="folding-tag" cyan open><summary> 软件详情+下载链接 </summary>              <div class='content'>              <p><mark class="hl-label green">软件名称</mark> <b>：RizomUV 2023.0.53 For MAC版本•<mark class="hl-label green">激活版</mark> </b></p><p><mark class="hl-label green">界面语言</mark> ：英文</p><p><mark class="hl-label green">软件简介</mark> ：RizomUV 2023.0.53 For MAC版本</p><p><mark class="hl-label purple">系统版本</mark> ：Mac 10.14-14.x Sonoma 或更高</p><p><mark class="hl-label purple">兼容芯片</mark> ：支持Intel+M1.M2.M3及更高芯片</p><p><mark class="hl-label green">原生软件</mark> ：原生M芯片运行</p><p><mark class="hl-label green">亲测安装</mark> ：所有资源皆经严格把关、实机安装测试！</p><p><b> [百度网盘丨下载链接]：</b><br><a href="https://pan.baidu.com/s/1PAz0nNNrDUyaGEQR-eNfrg?pwd=8866">https://pan.baidu.com/s/1PAz0nNNrDUyaGEQR-eNfrg?pwd=8866</a><br><b> [123 云盘丨下载链接]：</b><br><a href="https://www.123pan.com/s/LZZBjv-QQbW.html">https://www.123pan.com/s/LZZBjv-QQbW.html</a></p><div class='checkbox green checked'><input type="radio" checked="checked"/>            <p>下载：下载链接里，下载需要安装的版本即可，不用所有版本全部下载！</p>            </div><div class='checkbox green checked'><input type="radio" checked="checked"/>            <p>客服：打开安装包内的 [联系客服]，添加客服QQ，或点击本网页最上面 [联系客服]！</p>            </div>              </div>            </details><h3 id="-1"><a href="#-1" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">安装教程：</span>    </p></section></div></h3><p>1、双击打开，下载到Mac电脑上的【A.RizomUV 2023.0.53.dmg】软件安装包。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402271112299.png" alt="图片"></p><h4 id="-2"><a href="#-2" class="headerlink" title=""></a><mark class="hl-label red">安装前一定要做的：</mark> </h4><p>●输入软件密码，打开安装包后：双击打开安装包左下角的【修复工具】，修复完成后，再返回本教程安装。<b>修复工具操作教程：<a href="/2023/09/18/MAC/WT/003/">点击查看</a></b></p><div style="display:inline-block;"><img style="float:left;" src=https://bu.dusays.com/2023/09/12/64ff44a6dd274.png></div> <p>2、把左面的软件图标，拖拉到右边的文件夹里。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402271113828.png" alt="图片"></p><p>3、在【启动台】里，打开软件图标。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402271113778.png" alt="图片"></p><p>4、安装完成。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402271113734.png" alt="图片"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;div class=&quot;tip sync&quot;&gt;&lt;p&gt;安装指南：&lt;br&gt;1、链接：Mac软件目录：&lt;a href=&quot;/Mac/&quot;&gt;点击查看&lt;/a&gt; &amp;emsp;    Mac软件常见报错问题：&lt;a href=&quot;/2023/09/02/MAC/Mac%E8%BD%AF%E4%BB%B6</summary>
+      
+    
+    
+    
+    <category term="Mac软件" scheme="http://www.lumingrj.com/categories/Mac%E8%BD%AF%E4%BB%B6/"/>
+    
+    
+    <category term="Mac软件" scheme="http://www.lumingrj.com/tags/Mac%E8%BD%AF%E4%BB%B6/"/>
+    
+    <category term="RizomUV" scheme="http://www.lumingrj.com/tags/RizomUV/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>兼容M1~M3芯片•TBtools-II 最新版 For Mac版本•中英文•软件安装包下载 安装教程步骤•苹果系统</title>
+    <link href="http://www.lumingrj.com/2024/02/27/MAC/TBtools-II2/"/>
+    <id>http://www.lumingrj.com/2024/02/27/MAC/TBtools-II2/</id>
+    <published>2024-02-27T03:10:28.000Z</published>
+    <updated>2024-02-27T03:22:32.021Z</updated>
+    
+    <content type="html"><![CDATA[<div class="tip sync"><p>安装指南：<br>1、链接：Mac软件目录：<a href="/Mac/">点击查看</a> &emsp;    Mac软件常见报错问题：<a href="/2023/09/02/MAC/Mac%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E9%97%AE%E9%A2%98%E7%9B%AE%E5%BD%95/">点击查看</a><br>2、客服：若安装报错问题，自己解决不了，打开安装包内的【联系客服】，添加客服QQ，或点击本网页最上面【联系客服】！</p></div><div class="img-wrap"><div class="img-bg"><img class="img" src="https://bu.dusays.com/2023/11/05/6547b3244362a.png" style="width:80px;"/></div></div><h3 id=""><a href="#" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">软件详情+下载链接：</span>    </p></section></div></h3><details class="folding-tag" cyan open><summary> 软件详情+下载链接 </summary>              <div class='content'>              <p><mark class="hl-label green">软件名称</mark> <b>：TBtools-II 最新版 For MAC版本</b></p><p><mark class="hl-label green">界面语言</mark> ：简体中文+英文</p><p><mark class="hl-label green">软件简介</mark> ：序列提取、生物数据处理软件</p><p><mark class="hl-label purple">系统版本</mark> ：Mac 10.14-14.x Sonoma 或更高</p><p><mark class="hl-label purple">兼容芯片</mark> ：支持Intel+M1.M2.M3及更高芯片</p><p><mark class="hl-label green">亲测安装</mark> ：所有资源皆经严格把关、实机安装测试！</p><p><b> [百度网盘丨下载链接]：</b><br><a href="https://pan.baidu.com/s/1PnnKZo7VsVdZqxPs3TT04w?pwd=8866">https://pan.baidu.com/s/1PnnKZo7VsVdZqxPs3TT04w?pwd=8866</a><br><b> [123 云盘丨下载链接]：</b><br><a href="https://www.123pan.com/s/LZZBjv-uY7W.html">https://www.123pan.com/s/LZZBjv-uY7W.html</a></p><div class='checkbox green checked'><input type="radio" checked="checked"/>            <p>下载：下载链接里，下载需要安装的版本即可，不用所有版本全部下载！</p>            </div><div class='checkbox green checked'><input type="radio" checked="checked"/>            <p>客服：打开安装包内的 [联系客服]，添加客服QQ，或点击本网页最上面 [联系客服]！</p>            </div>              </div>            </details><h3 id="-1"><a href="#-1" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">安装教程：</span>    </p></section></div></h3><p>1、双击打开，下载到Mac电脑上的【A.TBtools-II 2.065.dmg】软件安装包。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402271121788.png" alt="图片"></p><h4 id="-2"><a href="#-2" class="headerlink" title=""></a><mark class="hl-label red">安装前一定要做的：</mark> </h4><p>●输入软件密码，打开安装包后：双击打开安装包左下角的【修复工具】，修复完成后，再返回本教程安装。<b>修复工具操作教程：<a href="/2023/09/18/MAC/WT/003/">点击查看</a></b></p><div style="display:inline-block;"><img style="float:left;" src=https://bu.dusays.com/2023/09/12/64ff44a6dd274.png></div> <p>2、双击打开【TBtools-II Installer】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402271122352.png" alt="图片"></p><p>3、点击【打开】。**(没有可忽略)**</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402271122291.png" alt="图片"></p><p>4、等待软件检查系统环境。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402271122088.png" alt="图片"></p><p>5、点击【Next】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402271122259.png" alt="图片"></p><p>6、点击【Next】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402271122284.png" alt="图片"></p><p>7、<strong>取消勾选</strong>红框内的选项，点击【Next】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402271122199.png" alt="图片"></p><p>8、等待安装完成。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402271122417.png" alt="图片"></p><p>9、点击【Finish】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402271122542.png" alt="图片"></p><p>10、在【启动台】里，打开软件图标。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402271122894.png" alt="图片"></p><p>11、安装完成。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402271122118.png" alt="图片"></p><p>12、<strong>中文界面语言切换：</strong>点击【About】-【International】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402271122307.png" alt="图片"></p><p>13、稍等一会，会自动打开中文版本。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402271122500.png" alt="图片"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;div class=&quot;tip sync&quot;&gt;&lt;p&gt;安装指南：&lt;br&gt;1、链接：Mac软件目录：&lt;a href=&quot;/Mac/&quot;&gt;点击查看&lt;/a&gt; &amp;emsp;    Mac软件常见报错问题：&lt;a href=&quot;/2023/09/02/MAC/Mac%E8%BD%AF%E4%BB%B6</summary>
+      
+    
+    
+    
+    <category term="Mac软件" scheme="http://www.lumingrj.com/categories/Mac%E8%BD%AF%E4%BB%B6/"/>
+    
+    
+    <category term="Mac软件" scheme="http://www.lumingrj.com/tags/Mac%E8%BD%AF%E4%BB%B6/"/>
+    
+    <category term="TBtools-II" scheme="http://www.lumingrj.com/tags/TBtools-II/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>兼容M1~M3芯片•右键助手专业版 3.3.5 For Mac版本•中文•软件安装包下载 安装教程步骤•苹果系统</title>
+    <link href="http://www.lumingrj.com/2024/02/27/MAC/%E5%8F%B3%E9%94%AE%E5%8A%A9%E6%89%8B%E4%B8%93%E4%B8%9A%E7%89%88-3.3.5/"/>
+    <id>http://www.lumingrj.com/2024/02/27/MAC/%E5%8F%B3%E9%94%AE%E5%8A%A9%E6%89%8B%E4%B8%93%E4%B8%9A%E7%89%88-3.3.5/</id>
+    <published>2024-02-27T03:10:28.000Z</published>
+    <updated>2024-02-27T03:25:14.841Z</updated>
+    
+    <content type="html"><![CDATA[<div class="tip sync"><p>安装指南：<br>1、链接：Mac软件目录：<a href="/Mac/">点击查看</a> &emsp;    Mac软件常见报错问题：<a href="/2023/09/02/MAC/Mac%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E9%97%AE%E9%A2%98%E7%9B%AE%E5%BD%95/">点击查看</a><br>2、客服：若安装报错问题，自己解决不了，打开安装包内的【联系客服】，添加客服QQ，或点击本网页最上面【联系客服】！</p></div><div class="img-wrap"><div class="img-bg"><img class="img" src="https://bu.dusays.com/2023/11/04/6545f9662423e.png" style="width:80px;"/></div></div><h3 id=""><a href="#" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">软件详情+下载链接：</span>    </p></section></div></h3><details class="folding-tag" cyan open><summary> 软件详情+下载链接 </summary>              <div class='content'>              <p><mark class="hl-label green">软件名称</mark> <b>：右键助手专业版 3.3.5 For MAC版本•<mark class="hl-label green">激活版</mark> </b></p><p><mark class="hl-label green">界面语言</mark> ：简体中文</p><p><mark class="hl-label green">软件简介</mark> ：强大的Mac右键扩展软件</p><p><mark class="hl-label purple">系统版本</mark> ：Mac 10.15-14.x Sonoma 或更高</p><p><mark class="hl-label purple">兼容芯片</mark> ：支持Intel+M1.M2.M3及更高芯片</p><p><mark class="hl-label green">原生软件</mark> ：原生M芯片运行</p><p><mark class="hl-label green">亲测安装</mark> ：所有资源皆经严格把关、实机安装测试！</p><p><b> [百度网盘丨下载链接]：</b><br><a href="https://pan.baidu.com/s/1tuNNb_qdnBTrAq4qDAB5Gw?pwd=8866">https://pan.baidu.com/s/1tuNNb_qdnBTrAq4qDAB5Gw?pwd=8866</a><br><b> [123 云盘丨下载链接]：</b><br><a href="https://www.123pan.com/s/LZZBjv-kQbW.html">https://www.123pan.com/s/LZZBjv-kQbW.html</a></p><div class='checkbox green checked'><input type="radio" checked="checked"/>            <p>下载：下载链接里，下载需要安装的版本即可，不用所有版本全部下载！</p>            </div><div class='checkbox green checked'><input type="radio" checked="checked"/>            <p>客服：打开安装包内的 [联系客服]，添加客服QQ，或点击本网页最上面 [联系客服]！</p>            </div>              </div>            </details><h3 id="-1"><a href="#-1" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">安装教程：</span>    </p></section></div></h3><p>1、双击打开，下载到Mac电脑上的【A.右键助手专业版 3.3.5.dmg】软件安装包。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402271124720.png" alt="图片"></p><h4 id="-2"><a href="#-2" class="headerlink" title=""></a><mark class="hl-label red">安装前一定要做的：</mark> </h4><p>●输入软件密码，打开安装包后：双击打开安装包左下角的【修复工具】，修复完成后，再返回本教程安装。<b>修复工具操作教程：<a href="/2023/09/18/MAC/WT/003/">点击查看</a></b></p><div style="display:inline-block;"><img style="float:left;" src=https://bu.dusays.com/2023/09/12/64ff44a6dd274.png></div> <p>2、把左面的软件图标，拖拉到右边的文件夹里。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402271124990.png" alt="图片"></p><p>3、在【启动台】里，打开软件图标。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402271124525.png" alt="图片"></p><p>4、点击【打开】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402271124639.png" alt="图片"></p><p>5、点击【打开系统偏好设置】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402271124081.png" alt="图片"></p><p>6、在弹出的【访达扩展】对话框里，勾选【右键助手专业版】-【访达扩展】选项，点击【完成】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402271124361.png" alt="图片"></p><p>7、点击【启用状态栏】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402271124200.png" alt="图片"></p><p>8、安装完成。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402271124841.png" alt="图片"></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402271124006.png" alt="图片"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;div class=&quot;tip sync&quot;&gt;&lt;p&gt;安装指南：&lt;br&gt;1、链接：Mac软件目录：&lt;a href=&quot;/Mac/&quot;&gt;点击查看&lt;/a&gt; &amp;emsp;    Mac软件常见报错问题：&lt;a href=&quot;/2023/09/02/MAC/Mac%E8%BD%AF%E4%BB%B6</summary>
+      
+    
+    
+    
+    <category term="Mac软件" scheme="http://www.lumingrj.com/categories/Mac%E8%BD%AF%E4%BB%B6/"/>
+    
+    
+    <category term="Mac软件" scheme="http://www.lumingrj.com/tags/Mac%E8%BD%AF%E4%BB%B6/"/>
+    
+    <category term="右键助手专业版" scheme="http://www.lumingrj.com/tags/%E5%8F%B3%E9%94%AE%E5%8A%A9%E6%89%8B%E4%B8%93%E4%B8%9A%E7%89%88/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Office 2007 WIN版本•中文•软件安装包下载 安装教程步骤•WIN系统•含Word、Excel、PPT、Access等组件</title>
+    <link href="http://www.lumingrj.com/2024/02/22/WIN/Office-2007/"/>
+    <id>http://www.lumingrj.com/2024/02/22/WIN/Office-2007/</id>
+    <published>2024-02-22T04:30:28.000Z</published>
+    <updated>2024-02-22T04:37:20.737Z</updated>
+    
+    <content type="html"><![CDATA[<div class="tip sync"><p>安装指南：<br>1、链接：Win软件目录：<a href="/Win/">点击查看</a> &emsp;    Win软件常见报错问题：<a href="/2023/09/06/WIN/WIN%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E9%97%AE%E9%A2%98%E7%9B%AE%E5%BD%95/">点击查看</a><br>2、客服：若安装报错问题，自己解决不了，打开安装包内的【联系客服】，添加客服QQ，或点击本网页最上面【联系客服】！</p></div><div class="img-wrap"><div class="img-bg"><img class="img" src="https://bu.dusays.com/2023/11/06/6547c3044833b.png" style="width:80px;"/></div></div><h3 id=""><a href="#" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">软件详情+下载链接：</span>    </p></section></div></h3><details class="folding-tag" cyan open><summary> 软件详情+下载链接 </summary>              <div class='content'>              <p><mark class="hl-label green">软件名称</mark> <b>：Microsoft Office 2007 Professional Plus (专业增强版) WIN版本•<mark class="hl-label green">激活版</mark> </b></p><p><mark class="hl-label green">界面语言</mark> ：简体中文</p><p><mark class="hl-label green">软件简介</mark> ：含Word、Excel、PPT、Access等</p><p><mark class="hl-label purple">安装环境</mark> ：Win7&#x2F;Win8&#x2F;Win10&#x2F;Win11系统</p><p><mark class="hl-label purple">系统位数</mark> ：32+64位</p><p><mark class="hl-label green">亲测安装</mark> ：所有资源皆经严格把关、实机安装测试！</p><p><b> [百度网盘丨下载链接]：</b><br><a href="https://pan.baidu.com/s/1mWw_gQ4cHkt7cW4lWh3VIg?pwd=8866">https://pan.baidu.com/s/1mWw_gQ4cHkt7cW4lWh3VIg?pwd=8866</a><br><b> [123 云盘丨下载链接]：</b><br><a href="https://www.123pan.com/s/LZZBjv-LdbW.html">https://www.123pan.com/s/LZZBjv-LdbW.html</a></p><div class='checkbox green checked'><input type="radio" checked="checked"/>            <p>下载：下载链接里，下载需要安装的版本即可，不用所有版本全部下载！</p>            </div><div class='checkbox green checked'><input type="radio" checked="checked"/>            <p>客服：打开安装包内的 [联系客服]，添加客服QQ，或点击本网页最上面 [联系客服]！</p>            </div>              </div>            </details><h3 id="-1"><a href="#-1" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">安装教程：</span>    </p></section></div></h3><mark class="hl-label green">安装说明</mark> <b>：<p>●若杀毒软件弹窗报毒，删除了文件，请在杀毒软件里面恢复出来，恢复教程：<a href="/2023/09/16/WIN/WT/003/">点击查看</a>。<br>●一定要解压成文件夹再安装，不要在【压缩包】里安装，容易出现安装问题。<br></b></p><p><b><mark class="hl-label red">关闭杀毒：需要关闭杀毒软件，进行安装</mark> </b></p><p>1、右击下载到电脑上的【压缩包】，把压缩包解压成文件夹，然后双击打开【A.Office 2007】文件夹。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402221236044.png" alt="图片"></p><p>2、双击打开【Setup】文件夹。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402221236646.png" alt="图片"></p><p>3、双击打开【Setup.exe】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402221236252.png" alt="图片"></p><p>4、这个窗口先放一边，等下用。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402221236261.png" alt="图片"></p><p>5、返回安装包，双击打开【产品密钥.txt】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402221236070.png" alt="图片"></p><p>6、把【产品密钥.txt】里面的密钥，复制到软件安装页面，点击【继续】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402221236456.png" alt="图片"></p><p>7、勾选【我接受此协议…】，点击【继续】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402221236853.png" alt="图片"></p><p>8、点击【自定义】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402221236002.png" alt="图片"></p><p>9、在【文件位置】里，默认安装位置为C盘，如要安装到别的盘，更改安装路径后，点击【立即安装】。</p><p><strong>1、例如：要安装到D盘，可以直接把该界面路径中，最前面的C改成D</strong></p><p><strong>2、说明：软件安装路径中，不要有中文，会导致有些软件安装完，出现弹窗报错、闪退、打不开等问题。</strong></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402221236059.png" alt="图片"></p><p>10、等待安装完成。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402221236144.png" alt="图片"></p><p>11、点击【关闭】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402221236419.png" alt="图片"></p><p>12、在电脑左下角开始程序里，把需要的组件拖拉到桌面上。<strong>（这里以Word为例，其他一样）</strong></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402221236717.png" alt="图片"></p><p>13、桌面上，双击打开软件图标。<strong>（这里以Word为例，其他一样）</strong></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402221236587.png" alt="图片"></p><p>14、点击【下一步】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402221236399.png" alt="图片"></p><p>15、选择【我不想使用…】，点击【完成】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402221236658.png" alt="图片"></p><p>16、安装完成。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402221236675.png" alt="图片"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;div class=&quot;tip sync&quot;&gt;&lt;p&gt;安装指南：&lt;br&gt;1、链接：Win软件目录：&lt;a href=&quot;/Win/&quot;&gt;点击查看&lt;/a&gt; &amp;emsp;    Win软件常见报错问题：&lt;a href=&quot;/2023/09/06/WIN/WIN%E8%BD%AF%E4%BB%B6</summary>
+      
+    
+    
+    
+    <category term="Win软件" scheme="http://www.lumingrj.com/categories/Win%E8%BD%AF%E4%BB%B6/"/>
+    
+    
+    <category term="Office" scheme="http://www.lumingrj.com/tags/Office/"/>
+    
+    <category term="Win软件" scheme="http://www.lumingrj.com/tags/Win%E8%BD%AF%E4%BB%B6/"/>
+    
+  </entry>
   
   <entry>
     <title>Office 2010 WIN版本•中文英文•软件安装包下载 安装教程步骤•WIN系统•含Word、Excel、PPT、Access等组件</title>
@@ -95,32 +357,6 @@
   </entry>
   
   <entry>
-    <title>Office 2013 WIN版本•中文英文•软件安装包下载 安装教程步骤•WIN系统•含Word、Excel、PPT、Access等组件</title>
-    <link href="http://www.lumingrj.com/2024/02/22/WIN/Office-2013/"/>
-    <id>http://www.lumingrj.com/2024/02/22/WIN/Office-2013/</id>
-    <published>2024-02-22T04:30:28.000Z</published>
-    <updated>2024-02-22T04:33:04.650Z</updated>
-    
-    <content type="html"><![CDATA[<div class="tip sync"><p>安装指南：<br>1、链接：Win软件目录：<a href="/Win/">点击查看</a> &emsp;    Win软件常见报错问题：<a href="/2023/09/06/WIN/WIN%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E9%97%AE%E9%A2%98%E7%9B%AE%E5%BD%95/">点击查看</a><br>2、客服：若安装报错问题，自己解决不了，打开安装包内的【联系客服】，添加客服QQ，或点击本网页最上面【联系客服】！</p></div><div class="img-wrap"><div class="img-bg"><img class="img" src="https://bu.dusays.com/2023/11/06/6547c3044833b.png" style="width:80px;"/></div></div><h3 id=""><a href="#" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">软件详情+下载链接：</span>    </p></section></div></h3><details class="folding-tag" cyan open><summary> 软件详情+下载链接 </summary>              <div class='content'>              <p><mark class="hl-label green">软件名称</mark> <b>：Microsoft Office 2013 Professional Plus (专业增强版) WIN版本•<mark class="hl-label green">激活版</mark> </b></p><p><mark class="hl-label green">界面语言</mark> ：简体中文+英文</p><p><mark class="hl-label green">软件简介</mark> ：含Word、Excel、PPT、Access等</p><p><mark class="hl-label purple">安装环境</mark> ：Win7&#x2F;Win8&#x2F;Win10&#x2F;Win11系统</p><p><mark class="hl-label purple">系统位数</mark> ：32+64位</p><p><mark class="hl-label green">亲测安装</mark> ：所有资源皆经严格把关、实机安装测试！</p><p><b> [百度网盘丨下载链接]：</b><br><a href="https://pan.baidu.com/s/1mWw_gQ4cHkt7cW4lWh3VIg?pwd=8866">https://pan.baidu.com/s/1mWw_gQ4cHkt7cW4lWh3VIg?pwd=8866</a><br><b> [123 云盘丨下载链接]：</b><br><a href="https://www.123pan.com/s/LZZBjv-LdbW.html">https://www.123pan.com/s/LZZBjv-LdbW.html</a></p><div class='checkbox green checked'><input type="radio" checked="checked"/>            <p>下载：下载链接里，下载需要安装的版本即可，不用所有版本全部下载！</p>            </div><div class='checkbox green checked'><input type="radio" checked="checked"/>            <p>客服：打开安装包内的 [联系客服]，添加客服QQ，或点击本网页最上面 [联系客服]！</p>            </div>              </div>            </details><h3 id="-1"><a href="#-1" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">安装教程：</span>    </p></section></div></h3><mark class="hl-label green">安装说明</mark> <b>：<p>●若杀毒软件弹窗报毒，删除了文件，请在杀毒软件里面恢复出来，恢复教程：<a href="/2023/09/16/WIN/WT/003/">点击查看</a>。<br>●一定要解压成文件夹再安装，不要在【压缩包】里安装，容易出现安装问题。<br></b></p><p><b><mark class="hl-label red">关闭杀毒：需要关闭杀毒软件，进行安装</mark> </b></p><p>1、右击下载到电脑上的【压缩包】，把压缩包解压成文件夹，然后双击打开【A.Office 2013】文件夹。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402221231287.png" alt="图片"></p><p>2、双击打开【Setup】文件夹。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402221231078.png" alt="图片"></p><p>3、双击打开【Setup.exe】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402221231566.png" alt="图片"></p><p>4、勾选【我接受此协议…】，点击【继续】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402221231599.png" alt="图片"></p><p>5、点击【自定义】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402221231560.png" alt="图片"></p><p>6、在【文件位置】里，默认安装位置为C盘，如要安装到别的盘，更改安装路径后，点击【立即安装】。</p><p><strong>1、例如：要安装到D盘，可以直接把该界面路径中，最前面的C改成D</strong></p><p><strong>2、说明：软件安装路径中，不要有中文，会导致有些软件安装完，出现弹窗报错、闪退、打不开等问题。</strong></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402221231412.png" alt="图片"></p><p>7、等待安装完成。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402221231174.png" alt="图片"></p><p>8、点击【关闭】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402221231302.png" alt="图片"></p><p>9、返回安装包，双击打开【激活工具】文件夹。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402221231279.png" alt="图片"></p><p>10、<strong>激活工具教程：</strong></p><p>1）安装包内有两种激活工具，若到期后，用其中一个激活工具激活就行。</p><p>2）【HEU KMS Activator】或【KMS VL ALL AIO】<strong>激活完成后，再返回本教程，</strong>激活教程步骤：<a href="/2024/02/21/WIN/Office+Project+Visio-JiHuo/">点击查看</a></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402221231282.png" alt="图片"></p><p>11、激活完成后，在电脑左下角开始程序里，把需要的组件拖拉到桌面上。<strong>（这里以Word为例，其他一样）</strong></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402221231671.png" alt="图片"></p><p>12、桌面上，双击打开软件图标。<strong>（这里以Word为例，其他一样）</strong></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402221231294.png" alt="图片"></p><p>13、选择【稍后询问我】，点击【接受】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402221231374.png" alt="图片"></p><p>14、点击【X】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402221231601.png" alt="图片"></p><p>15、软件界面。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402221231840.png" alt="图片"></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402221231164.png" alt="图片"></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402221231180.png" alt="图片"></p><p>16、<strong>英文界面语言：</strong></p><p>1）默认安装为简体中文，<strong>如果您需要英文界面，需要安装英文语言扩展包，若不需要英文语言界面，不需安装，可忽略后面的步骤</strong>。</p><p>2）返回安装包，双击打开【英文语言扩展包】文件夹。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402221231431.png" alt="图片"></p><p>17、里面有英文语言安装包，<strong>英文语言扩展包与切换教程步骤：</strong><a href="/2024/02/21/WIN/Office+Project+Visio2013-EN/"><strong>点击查看</strong></a></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402221231074.png" alt="图片"></p><p>18、英文界面示例。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402221231208.png" alt="图片"></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;div class=&quot;tip sync&quot;&gt;&lt;p&gt;安装指南：&lt;br&gt;1、链接：Win软件目录：&lt;a href=&quot;/Win/&quot;&gt;点击查看&lt;/a&gt; &amp;emsp;    Win软件常见报错问题：&lt;a href=&quot;/2023/09/06/WIN/WIN%E8%BD%AF%E4%BB%B6</summary>
-      
-    
-    
-    
-    <category term="Win软件" scheme="http://www.lumingrj.com/categories/Win%E8%BD%AF%E4%BB%B6/"/>
-    
-    
-    <category term="Office" scheme="http://www.lumingrj.com/tags/Office/"/>
-    
-    <category term="Win软件" scheme="http://www.lumingrj.com/tags/Win%E8%BD%AF%E4%BB%B6/"/>
-    
-  </entry>
-  
-  <entry>
     <title>Office 2021 WIN版本•中文英文•软件安装包下载 安装教程步骤•WIN系统•含Word、Excel、PPT、Access等组件</title>
     <link href="http://www.lumingrj.com/2024/02/22/WIN/Office-2021/"/>
     <id>http://www.lumingrj.com/2024/02/22/WIN/Office-2021/</id>
@@ -147,13 +383,13 @@
   </entry>
   
   <entry>
-    <title>Office 2007 WIN版本•中文•软件安装包下载 安装教程步骤•WIN系统•含Word、Excel、PPT、Access等组件</title>
-    <link href="http://www.lumingrj.com/2024/02/22/WIN/Office-2007/"/>
-    <id>http://www.lumingrj.com/2024/02/22/WIN/Office-2007/</id>
+    <title>Office 2013 WIN版本•中文英文•软件安装包下载 安装教程步骤•WIN系统•含Word、Excel、PPT、Access等组件</title>
+    <link href="http://www.lumingrj.com/2024/02/22/WIN/Office-2013/"/>
+    <id>http://www.lumingrj.com/2024/02/22/WIN/Office-2013/</id>
     <published>2024-02-22T04:30:28.000Z</published>
-    <updated>2024-02-22T04:37:20.737Z</updated>
+    <updated>2024-02-22T04:33:04.650Z</updated>
     
-    <content type="html"><![CDATA[<div class="tip sync"><p>安装指南：<br>1、链接：Win软件目录：<a href="/Win/">点击查看</a> &emsp;    Win软件常见报错问题：<a href="/2023/09/06/WIN/WIN%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E9%97%AE%E9%A2%98%E7%9B%AE%E5%BD%95/">点击查看</a><br>2、客服：若安装报错问题，自己解决不了，打开安装包内的【联系客服】，添加客服QQ，或点击本网页最上面【联系客服】！</p></div><div class="img-wrap"><div class="img-bg"><img class="img" src="https://bu.dusays.com/2023/11/06/6547c3044833b.png" style="width:80px;"/></div></div><h3 id=""><a href="#" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">软件详情+下载链接：</span>    </p></section></div></h3><details class="folding-tag" cyan open><summary> 软件详情+下载链接 </summary>              <div class='content'>              <p><mark class="hl-label green">软件名称</mark> <b>：Microsoft Office 2007 Professional Plus (专业增强版) WIN版本•<mark class="hl-label green">激活版</mark> </b></p><p><mark class="hl-label green">界面语言</mark> ：简体中文</p><p><mark class="hl-label green">软件简介</mark> ：含Word、Excel、PPT、Access等</p><p><mark class="hl-label purple">安装环境</mark> ：Win7&#x2F;Win8&#x2F;Win10&#x2F;Win11系统</p><p><mark class="hl-label purple">系统位数</mark> ：32+64位</p><p><mark class="hl-label green">亲测安装</mark> ：所有资源皆经严格把关、实机安装测试！</p><p><b> [百度网盘丨下载链接]：</b><br><a href="https://pan.baidu.com/s/1mWw_gQ4cHkt7cW4lWh3VIg?pwd=8866">https://pan.baidu.com/s/1mWw_gQ4cHkt7cW4lWh3VIg?pwd=8866</a><br><b> [123 云盘丨下载链接]：</b><br><a href="https://www.123pan.com/s/LZZBjv-LdbW.html">https://www.123pan.com/s/LZZBjv-LdbW.html</a></p><div class='checkbox green checked'><input type="radio" checked="checked"/>            <p>下载：下载链接里，下载需要安装的版本即可，不用所有版本全部下载！</p>            </div><div class='checkbox green checked'><input type="radio" checked="checked"/>            <p>客服：打开安装包内的 [联系客服]，添加客服QQ，或点击本网页最上面 [联系客服]！</p>            </div>              </div>            </details><h3 id="-1"><a href="#-1" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">安装教程：</span>    </p></section></div></h3><mark class="hl-label green">安装说明</mark> <b>：<p>●若杀毒软件弹窗报毒，删除了文件，请在杀毒软件里面恢复出来，恢复教程：<a href="/2023/09/16/WIN/WT/003/">点击查看</a>。<br>●一定要解压成文件夹再安装，不要在【压缩包】里安装，容易出现安装问题。<br></b></p><p><b><mark class="hl-label red">关闭杀毒：需要关闭杀毒软件，进行安装</mark> </b></p><p>1、右击下载到电脑上的【压缩包】，把压缩包解压成文件夹，然后双击打开【A.Office 2007】文件夹。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402221236044.png" alt="图片"></p><p>2、双击打开【Setup】文件夹。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402221236646.png" alt="图片"></p><p>3、双击打开【Setup.exe】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402221236252.png" alt="图片"></p><p>4、这个窗口先放一边，等下用。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402221236261.png" alt="图片"></p><p>5、返回安装包，双击打开【产品密钥.txt】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402221236070.png" alt="图片"></p><p>6、把【产品密钥.txt】里面的密钥，复制到软件安装页面，点击【继续】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402221236456.png" alt="图片"></p><p>7、勾选【我接受此协议…】，点击【继续】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402221236853.png" alt="图片"></p><p>8、点击【自定义】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402221236002.png" alt="图片"></p><p>9、在【文件位置】里，默认安装位置为C盘，如要安装到别的盘，更改安装路径后，点击【立即安装】。</p><p><strong>1、例如：要安装到D盘，可以直接把该界面路径中，最前面的C改成D</strong></p><p><strong>2、说明：软件安装路径中，不要有中文，会导致有些软件安装完，出现弹窗报错、闪退、打不开等问题。</strong></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402221236059.png" alt="图片"></p><p>10、等待安装完成。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402221236144.png" alt="图片"></p><p>11、点击【关闭】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402221236419.png" alt="图片"></p><p>12、在电脑左下角开始程序里，把需要的组件拖拉到桌面上。<strong>（这里以Word为例，其他一样）</strong></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402221236717.png" alt="图片"></p><p>13、桌面上，双击打开软件图标。<strong>（这里以Word为例，其他一样）</strong></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402221236587.png" alt="图片"></p><p>14、点击【下一步】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402221236399.png" alt="图片"></p><p>15、选择【我不想使用…】，点击【完成】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402221236658.png" alt="图片"></p><p>16、安装完成。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402221236675.png" alt="图片"></p>]]></content>
+    <content type="html"><![CDATA[<div class="tip sync"><p>安装指南：<br>1、链接：Win软件目录：<a href="/Win/">点击查看</a> &emsp;    Win软件常见报错问题：<a href="/2023/09/06/WIN/WIN%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E9%97%AE%E9%A2%98%E7%9B%AE%E5%BD%95/">点击查看</a><br>2、客服：若安装报错问题，自己解决不了，打开安装包内的【联系客服】，添加客服QQ，或点击本网页最上面【联系客服】！</p></div><div class="img-wrap"><div class="img-bg"><img class="img" src="https://bu.dusays.com/2023/11/06/6547c3044833b.png" style="width:80px;"/></div></div><h3 id=""><a href="#" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">软件详情+下载链接：</span>    </p></section></div></h3><details class="folding-tag" cyan open><summary> 软件详情+下载链接 </summary>              <div class='content'>              <p><mark class="hl-label green">软件名称</mark> <b>：Microsoft Office 2013 Professional Plus (专业增强版) WIN版本•<mark class="hl-label green">激活版</mark> </b></p><p><mark class="hl-label green">界面语言</mark> ：简体中文+英文</p><p><mark class="hl-label green">软件简介</mark> ：含Word、Excel、PPT、Access等</p><p><mark class="hl-label purple">安装环境</mark> ：Win7&#x2F;Win8&#x2F;Win10&#x2F;Win11系统</p><p><mark class="hl-label purple">系统位数</mark> ：32+64位</p><p><mark class="hl-label green">亲测安装</mark> ：所有资源皆经严格把关、实机安装测试！</p><p><b> [百度网盘丨下载链接]：</b><br><a href="https://pan.baidu.com/s/1mWw_gQ4cHkt7cW4lWh3VIg?pwd=8866">https://pan.baidu.com/s/1mWw_gQ4cHkt7cW4lWh3VIg?pwd=8866</a><br><b> [123 云盘丨下载链接]：</b><br><a href="https://www.123pan.com/s/LZZBjv-LdbW.html">https://www.123pan.com/s/LZZBjv-LdbW.html</a></p><div class='checkbox green checked'><input type="radio" checked="checked"/>            <p>下载：下载链接里，下载需要安装的版本即可，不用所有版本全部下载！</p>            </div><div class='checkbox green checked'><input type="radio" checked="checked"/>            <p>客服：打开安装包内的 [联系客服]，添加客服QQ，或点击本网页最上面 [联系客服]！</p>            </div>              </div>            </details><h3 id="-1"><a href="#-1" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">安装教程：</span>    </p></section></div></h3><mark class="hl-label green">安装说明</mark> <b>：<p>●若杀毒软件弹窗报毒，删除了文件，请在杀毒软件里面恢复出来，恢复教程：<a href="/2023/09/16/WIN/WT/003/">点击查看</a>。<br>●一定要解压成文件夹再安装，不要在【压缩包】里安装，容易出现安装问题。<br></b></p><p><b><mark class="hl-label red">关闭杀毒：需要关闭杀毒软件，进行安装</mark> </b></p><p>1、右击下载到电脑上的【压缩包】，把压缩包解压成文件夹，然后双击打开【A.Office 2013】文件夹。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402221231287.png" alt="图片"></p><p>2、双击打开【Setup】文件夹。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402221231078.png" alt="图片"></p><p>3、双击打开【Setup.exe】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402221231566.png" alt="图片"></p><p>4、勾选【我接受此协议…】，点击【继续】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402221231599.png" alt="图片"></p><p>5、点击【自定义】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402221231560.png" alt="图片"></p><p>6、在【文件位置】里，默认安装位置为C盘，如要安装到别的盘，更改安装路径后，点击【立即安装】。</p><p><strong>1、例如：要安装到D盘，可以直接把该界面路径中，最前面的C改成D</strong></p><p><strong>2、说明：软件安装路径中，不要有中文，会导致有些软件安装完，出现弹窗报错、闪退、打不开等问题。</strong></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402221231412.png" alt="图片"></p><p>7、等待安装完成。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402221231174.png" alt="图片"></p><p>8、点击【关闭】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402221231302.png" alt="图片"></p><p>9、返回安装包，双击打开【激活工具】文件夹。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402221231279.png" alt="图片"></p><p>10、<strong>激活工具教程：</strong></p><p>1）安装包内有两种激活工具，若到期后，用其中一个激活工具激活就行。</p><p>2）【HEU KMS Activator】或【KMS VL ALL AIO】<strong>激活完成后，再返回本教程，</strong>激活教程步骤：<a href="/2024/02/21/WIN/Office+Project+Visio-JiHuo/">点击查看</a></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402221231282.png" alt="图片"></p><p>11、激活完成后，在电脑左下角开始程序里，把需要的组件拖拉到桌面上。<strong>（这里以Word为例，其他一样）</strong></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402221231671.png" alt="图片"></p><p>12、桌面上，双击打开软件图标。<strong>（这里以Word为例，其他一样）</strong></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402221231294.png" alt="图片"></p><p>13、选择【稍后询问我】，点击【接受】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402221231374.png" alt="图片"></p><p>14、点击【X】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402221231601.png" alt="图片"></p><p>15、软件界面。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402221231840.png" alt="图片"></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402221231164.png" alt="图片"></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402221231180.png" alt="图片"></p><p>16、<strong>英文界面语言：</strong></p><p>1）默认安装为简体中文，<strong>如果您需要英文界面，需要安装英文语言扩展包，若不需要英文语言界面，不需安装，可忽略后面的步骤</strong>。</p><p>2）返回安装包，双击打开【英文语言扩展包】文件夹。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402221231431.png" alt="图片"></p><p>17、里面有英文语言安装包，<strong>英文语言扩展包与切换教程步骤：</strong><a href="/2024/02/21/WIN/Office+Project+Visio2013-EN/"><strong>点击查看</strong></a></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402221231074.png" alt="图片"></p><p>18、英文界面示例。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402221231208.png" alt="图片"></p>]]></content>
     
     
       
@@ -281,96 +517,6 @@
   </entry>
   
   <entry>
-    <title>Office+Project+Visio 2016 英文界面语言扩展包 WIN版本•软件安装包下载 安装教程步骤•WIN系统</title>
-    <link href="http://www.lumingrj.com/2024/02/21/WIN/Office+Project+Visio2016-EN/"/>
-    <id>http://www.lumingrj.com/2024/02/21/WIN/Office+Project+Visio2016-EN/</id>
-    <published>2024-02-21T05:46:28.000Z</published>
-    <updated>2024-02-21T06:09:42.533Z</updated>
-    
-    <content type="html"><![CDATA[<div class="tip sync"><p>安装指南：<br>1、链接：Win软件目录：<a href="/Win/">点击查看</a> &emsp;    Win软件常见报错问题：<a href="/2023/09/06/WIN/WIN%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E9%97%AE%E9%A2%98%E7%9B%AE%E5%BD%95/">点击查看</a><br>2、客服：若安装报错问题，自己解决不了，打开安装包内的【联系客服】，添加客服QQ，或点击本网页最上面【联系客服】！</p></div><h3 id=""><a href="#" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">软件详情+下载链接：</span>    </p></section></div></h3><details class="folding-tag" cyan open><summary> 软件详情+下载链接 </summary>              <div class='content'>              <p><mark class="hl-label green">软件名称</mark> <b>：Microsoft Office+Project+Visio 2016 英文界面语言扩展包 WIN版本</b></p><p><mark class="hl-label green">界面语言</mark> ：英文</p><p><mark class="hl-label green">软件简介</mark> ：切换到英文界面扩展包</p><p><mark class="hl-label purple">安装环境</mark> ：Win7&#x2F;Win8&#x2F;Win10&#x2F;Win11系统</p><p><mark class="hl-label purple">系统位数</mark> ：32+64位</p><p><mark class="hl-label green">亲测安装</mark> ：所有资源皆经严格把关、实机安装测试！</p><p><b> [Office，英文语言]：</b><br><a href="https://pan.baidu.com/s/1mWw_gQ4cHkt7cW4lWh3VIg?pwd=8866">https://pan.baidu.com/s/1mWw_gQ4cHkt7cW4lWh3VIg?pwd=8866</a><br><b> [Project+Visio，英文语言]：</b><br><a href="https://pan.baidu.com/s/1kfr7RKaDF2UrWmJt_KlAvQ?pwd=8866">https://pan.baidu.com/s/1kfr7RKaDF2UrWmJt_KlAvQ?pwd=8866</a></p><div class='checkbox green checked'><input type="radio" checked="checked"/>            <p>下载：下载链接里，下载需要安装的版本即可，不用所有版本全部下载！</p>            </div><div class='checkbox green checked'><input type="radio" checked="checked"/>            <p>客服：打开安装包内的 [联系客服]，添加客服QQ，或点击本网页最上面 [联系客服]！</p>            </div>              </div>            </details><h3 id="-1"><a href="#-1" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">安装教程：</span>    </p></section></div></h3><mark class="hl-label green">安装说明</mark> <b>：<p>●若杀毒软件弹窗报毒，删除了文件，请在杀毒软件里面恢复出来，恢复教程：<a href="/2023/09/16/WIN/WT/003/">点击查看</a>。<br>●一定要解压成文件夹再安装，不要在【压缩包】里安装，容易出现安装问题。<br></b></p><p><strong>说明：</strong></p><p><strong>1、电脑里需已经安装了Office或Project或Visio 2016软件。</strong></p><p><strong>2、本工具和教程只是切换到英文界面的扩展包，不含Office+Project+Visio软件。</strong></p><p><strong>3、支持Office(Word、Excel、PPT、Access等)+Project+Visio软件</strong></p><p>●安装前关闭【Office或Project或Visio】软件。</p><p>1、右击下载到电脑上的【压缩包】，把压缩包解压成文件夹，然后双击打开【A.Office+Project+Visio 2016 英文语言扩展包】文件夹。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402211409817.png" alt="图片"></p><p>2、双击打开【Setup】文件夹。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402211409606.png" alt="图片"></p><p>3、双击打开【Setup.exe】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402211409088.png" alt="图片"></p><p>4、红框内，选择需要安装英文软件，点击【Continue】。<strong>（若需要多个，如：Office和Visio的英文语言，先选择第1个Office进行安装，安装完，再打开安装包，选择第3个Visio进行安装）</strong></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402211409885.png" alt="图片"></p><p>5、选择【I accept the…】，点击【Continue】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402211409821.png" alt="图片"></p><p>6、点击【Customize】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402211409870.png" alt="图片"></p><p>7、默认安装位置为C盘，如要安装到别的盘，更改安装路径后，点击【Install Now】。</p><p><strong>1、例如：要安装到D盘，可以直接把该界面路径中，最前面的C改成D</strong></p><p><strong>2、说明：软件安装路径中，不要有中文，会导致有些软件安装完，出现弹窗报错、闪退、打不开等问题。</strong></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402211409382.png" alt="图片"></p><p>8、等待安装完成。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402211409579.png" alt="图片"></p><p>9、点击【Close】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402211409715.png" alt="图片"></p><p>10、电脑左下角开始程序里，点击【Microsoft Office 2016 工具】-【Office 2016 语言首选项】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402211409872.png" alt="图片"></p><p>11、选择【英语 [English]】，点击【设为默认值】。<strong>（如以后需要切换回中文语言，也是这个地方，把【中文(简体)】设置为默认值即可）</strong></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402211409009.png" alt="图片"></p><p>12、设置为默认后，点击【确定】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402211409467.png" alt="图片"></p><p>13、点击【确定】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402211409702.png" alt="图片"></p><p>14、然后打开软件，就是英文界面了。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402211409996.png" alt="图片"></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402211409983.png" alt="图片"></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402211409557.png" alt="图片"></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;div class=&quot;tip sync&quot;&gt;&lt;p&gt;安装指南：&lt;br&gt;1、链接：Win软件目录：&lt;a href=&quot;/Win/&quot;&gt;点击查看&lt;/a&gt; &amp;emsp;    Win软件常见报错问题：&lt;a href=&quot;/2023/09/06/WIN/WIN%E8%BD%AF%E4%BB%B6</summary>
-      
-    
-    
-    
-    <category term="Win软件" scheme="http://www.lumingrj.com/categories/Win%E8%BD%AF%E4%BB%B6/"/>
-    
-    
-    <category term="Office" scheme="http://www.lumingrj.com/tags/Office/"/>
-    
-    <category term="Win软件" scheme="http://www.lumingrj.com/tags/Win%E8%BD%AF%E4%BB%B6/"/>
-    
-    <category term="Project" scheme="http://www.lumingrj.com/tags/Project/"/>
-    
-    <category term="Visio" scheme="http://www.lumingrj.com/tags/Visio/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Office+Project+Visio 2010 英文界面语言扩展包 WIN版本•软件安装包下载 安装教程步骤•WIN系统</title>
-    <link href="http://www.lumingrj.com/2024/02/21/WIN/Office+Project+Visio2010-EN/"/>
-    <id>http://www.lumingrj.com/2024/02/21/WIN/Office+Project+Visio2010-EN/</id>
-    <published>2024-02-21T05:46:28.000Z</published>
-    <updated>2024-02-21T06:12:20.364Z</updated>
-    
-    <content type="html"><![CDATA[<div class="tip sync"><p>安装指南：<br>1、链接：Win软件目录：<a href="/Win/">点击查看</a> &emsp;    Win软件常见报错问题：<a href="/2023/09/06/WIN/WIN%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E9%97%AE%E9%A2%98%E7%9B%AE%E5%BD%95/">点击查看</a><br>2、客服：若安装报错问题，自己解决不了，打开安装包内的【联系客服】，添加客服QQ，或点击本网页最上面【联系客服】！</p></div><h3 id=""><a href="#" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">软件详情+下载链接：</span>    </p></section></div></h3><details class="folding-tag" cyan open><summary> 软件详情+下载链接 </summary>              <div class='content'>              <p><mark class="hl-label green">软件名称</mark> <b>：Microsoft Office+Project+Visio 2010 英文界面语言扩展包 WIN版本</b></p><p><mark class="hl-label green">界面语言</mark> ：英文</p><p><mark class="hl-label green">软件简介</mark> ：切换到英文界面扩展包</p><p><mark class="hl-label purple">安装环境</mark> ：Win7&#x2F;Win8&#x2F;Win10&#x2F;Win11系统</p><p><mark class="hl-label purple">系统位数</mark> ：32+64位</p><p><mark class="hl-label green">亲测安装</mark> ：所有资源皆经严格把关、实机安装测试！</p><p><b> [Office，英文语言]：</b><br><a href="https://pan.baidu.com/s/1mWw_gQ4cHkt7cW4lWh3VIg?pwd=8866">https://pan.baidu.com/s/1mWw_gQ4cHkt7cW4lWh3VIg?pwd=8866</a><br><b> [Project+Visio，英文语言]：</b><br><a href="https://pan.baidu.com/s/1kfr7RKaDF2UrWmJt_KlAvQ?pwd=8866">https://pan.baidu.com/s/1kfr7RKaDF2UrWmJt_KlAvQ?pwd=8866</a></p><div class='checkbox green checked'><input type="radio" checked="checked"/>            <p>下载：下载链接里，下载需要安装的版本即可，不用所有版本全部下载！</p>            </div><div class='checkbox green checked'><input type="radio" checked="checked"/>            <p>客服：打开安装包内的 [联系客服]，添加客服QQ，或点击本网页最上面 [联系客服]！</p>            </div>              </div>            </details><h3 id="-1"><a href="#-1" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">安装教程：</span>    </p></section></div></h3><mark class="hl-label green">安装说明</mark> <b>：<p>●若杀毒软件弹窗报毒，删除了文件，请在杀毒软件里面恢复出来，恢复教程：<a href="/2023/09/16/WIN/WT/003/">点击查看</a>。<br>●一定要解压成文件夹再安装，不要在【压缩包】里安装，容易出现安装问题。<br></b></p><p><strong>说明：</strong></p><p><strong>1、电脑里需已经安装了Office或Project或Visio 2010软件。</strong></p><p><strong>2、本工具和教程只是切换到英文界面的扩展包，不含Office+Project+Visio软件。</strong></p><p><strong>3、支持Office(Word、Excel、PPT、Access等)+Project+Visio软件</strong></p><p>●安装前关闭【Office或Project或Visio】软件。</p><p>1、右击下载到电脑上的【压缩包】，把压缩包解压成文件夹，然后双击打开【A.Office+Project+Visio 2010 英文语言扩展包】文件夹。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402211411912.png" alt="图片"></p><p>2、双击打开【Setup.exe】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402211411904.png" alt="图片"></p><p>3、等待加载。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402211411894.png" alt="图片"></p><p>4、红框内，选择需要安装英文软件，点击【Continue】。<strong>（若需要多个，如：Office和Visio的英文语言，先选择第1个Office进行安装，安装完，再打开安装包，选择第3个Visio进行安装）</strong></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402211411996.png" alt="图片"></p><p>5、选择【I accept the…】，点击【Continue】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402211411982.png" alt="图片"></p><p>6、点击【Install Now】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402211411010.png" alt="图片"></p><p>7、等待安装完成。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402211411067.png" alt="图片"></p><p>8、点击【Close】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402211411090.png" alt="图片"></p><p>9、电脑左下角开始程序里，点击【Microsoft Office】-【Microsoft Office 2010 语言首选项】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402211411528.png" alt="图片"></p><p>10、选择【英语 [English]】，点击【设为默认值】。<strong>（如以后需要切换回中文语言，也是这个地方，把【中文(简体)】设置为默认值即可）</strong></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402211411623.png" alt="图片"></p><p>11、设置为默认后，点击【确定】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402211411828.png" alt="图片"></p><p>12、点击【确定】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402211411791.png" alt="图片"></p><p>13、然后打开软件，就是英文界面了。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402211411420.png" alt="图片"></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402211411781.png" alt="图片"></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402211411942.png" alt="图片"></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;div class=&quot;tip sync&quot;&gt;&lt;p&gt;安装指南：&lt;br&gt;1、链接：Win软件目录：&lt;a href=&quot;/Win/&quot;&gt;点击查看&lt;/a&gt; &amp;emsp;    Win软件常见报错问题：&lt;a href=&quot;/2023/09/06/WIN/WIN%E8%BD%AF%E4%BB%B6</summary>
-      
-    
-    
-    
-    <category term="Win软件" scheme="http://www.lumingrj.com/categories/Win%E8%BD%AF%E4%BB%B6/"/>
-    
-    
-    <category term="Office" scheme="http://www.lumingrj.com/tags/Office/"/>
-    
-    <category term="Win软件" scheme="http://www.lumingrj.com/tags/Win%E8%BD%AF%E4%BB%B6/"/>
-    
-    <category term="Project" scheme="http://www.lumingrj.com/tags/Project/"/>
-    
-    <category term="Visio" scheme="http://www.lumingrj.com/tags/Visio/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Office+Project+Visio 2019 英文界面语言扩展包 WIN版本•软件安装包下载 安装教程步骤•WIN系统</title>
-    <link href="http://www.lumingrj.com/2024/02/21/WIN/Office+Project+Visio2019-EN/"/>
-    <id>http://www.lumingrj.com/2024/02/21/WIN/Office+Project+Visio2019-EN/</id>
-    <published>2024-02-21T05:46:28.000Z</published>
-    <updated>2024-02-21T06:07:59.229Z</updated>
-    
-    <content type="html"><![CDATA[<div class="tip sync"><p>安装指南：<br>1、链接：Win软件目录：<a href="/Win/">点击查看</a> &emsp;    Win软件常见报错问题：<a href="/2023/09/06/WIN/WIN%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E9%97%AE%E9%A2%98%E7%9B%AE%E5%BD%95/">点击查看</a><br>2、客服：若安装报错问题，自己解决不了，打开安装包内的【联系客服】，添加客服QQ，或点击本网页最上面【联系客服】！</p></div><h3 id=""><a href="#" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">软件详情+下载链接：</span>    </p></section></div></h3><details class="folding-tag" cyan open><summary> 软件详情+下载链接 </summary>              <div class='content'>              <p><mark class="hl-label green">软件名称</mark> <b>：Microsoft Office+Project+Visio 2019 英文界面语言扩展包 WIN版本</b></p><p><mark class="hl-label green">界面语言</mark> ：英文</p><p><mark class="hl-label green">软件简介</mark> ：切换到英文界面扩展包</p><p><mark class="hl-label purple">安装环境</mark> ：Win7&#x2F;Win8&#x2F;Win10&#x2F;Win11系统</p><p><mark class="hl-label purple">系统位数</mark> ：32+64位</p><p><mark class="hl-label green">亲测安装</mark> ：所有资源皆经严格把关、实机安装测试！</p><p><b> [Office，英文语言]：</b><br><a href="https://pan.baidu.com/s/1mWw_gQ4cHkt7cW4lWh3VIg?pwd=8866">https://pan.baidu.com/s/1mWw_gQ4cHkt7cW4lWh3VIg?pwd=8866</a><br><b> [Project+Visio，英文语言]：</b><br><a href="https://pan.baidu.com/s/1kfr7RKaDF2UrWmJt_KlAvQ?pwd=8866">https://pan.baidu.com/s/1kfr7RKaDF2UrWmJt_KlAvQ?pwd=8866</a></p><div class='checkbox green checked'><input type="radio" checked="checked"/>            <p>下载：下载链接里，下载需要安装的版本即可，不用所有版本全部下载！</p>            </div><div class='checkbox green checked'><input type="radio" checked="checked"/>            <p>客服：打开安装包内的 [联系客服]，添加客服QQ，或点击本网页最上面 [联系客服]！</p>            </div>              </div>            </details><h3 id="-1"><a href="#-1" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">安装教程：</span>    </p></section></div></h3><mark class="hl-label green">安装说明</mark> <b>：<p>●若杀毒软件弹窗报毒，删除了文件，请在杀毒软件里面恢复出来，恢复教程：<a href="/2023/09/16/WIN/WT/003/">点击查看</a>。<br>●一定要解压成文件夹再安装，不要在【压缩包】里安装，容易出现安装问题。<br></b></p><p><strong>说明：</strong></p><p><strong>1、电脑里需已经安装了Office或Project或Visio 2019软件。</strong></p><p><strong>2、本工具和教程只是切换到英文界面的扩展包，不含Office+Project+Visio软件。</strong></p><p><strong>3、支持Office(Word、Excel、PPT、Access等)+Project+Visio软件</strong></p><p>●安装前关闭【Office或Project或Visio】软件。</p><p>1、右击下载到电脑上的【压缩包】，把压缩包解压成文件夹，然后双击打开【A.Office+Project+Visio 2019 英文语言扩展包】文件夹。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402211407443.png" alt="图片"></p><p>2、里面有<strong>Office(Word、Excel、PPT、Access等)<strong>英文包和</strong>Project、Visio英文包</strong>，根据自己需要安装即可。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402211407309.png" alt="图片"></p><p>3、双击打开【Office 英文包.exe】。**(教程以Office英文包为例)**</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402211407284.png" alt="图片"></p><p>4、等待安装完成。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402211407584.png" alt="图片"></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402211407622.png" alt="图片"></p><p>5、点击【Close】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402211407531.png" alt="图片"></p><p>6、电脑左下角开始程序里，点击【Microsoft Office Tools】-【Office Language Preferences】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402211407295.png" alt="图片"></p><p>7、选择【英语 [English]】，点击【设置为首选】。<strong>（如以后需要切换回中文语言，也是这个地方，把【中文(简体)】设置为首选即可）</strong></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402211407490.png" alt="图片"></p><p>8、设置为首选后，点击【确定】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402211407463.png" alt="图片"></p><p>9、然后打开软件，就是英文界面了。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402211407825.png" alt="图片"></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402211407946.png" alt="图片"></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402211407514.png" alt="图片"></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;div class=&quot;tip sync&quot;&gt;&lt;p&gt;安装指南：&lt;br&gt;1、链接：Win软件目录：&lt;a href=&quot;/Win/&quot;&gt;点击查看&lt;/a&gt; &amp;emsp;    Win软件常见报错问题：&lt;a href=&quot;/2023/09/06/WIN/WIN%E8%BD%AF%E4%BB%B6</summary>
-      
-    
-    
-    
-    <category term="Win软件" scheme="http://www.lumingrj.com/categories/Win%E8%BD%AF%E4%BB%B6/"/>
-    
-    
-    <category term="Office" scheme="http://www.lumingrj.com/tags/Office/"/>
-    
-    <category term="Win软件" scheme="http://www.lumingrj.com/tags/Win%E8%BD%AF%E4%BB%B6/"/>
-    
-    <category term="Project" scheme="http://www.lumingrj.com/tags/Project/"/>
-    
-    <category term="Visio" scheme="http://www.lumingrj.com/tags/Visio/"/>
-    
-  </entry>
-  
-  <entry>
     <title>Office+Project+Visio 卸载工具 WIN版本•软件安装包下载 安装教程步骤•WIN系统</title>
     <link href="http://www.lumingrj.com/2024/02/21/WIN/Office+Project+Visio-XieZai/"/>
     <id>http://www.lumingrj.com/2024/02/21/WIN/Office+Project+Visio-XieZai/</id>
@@ -397,174 +543,6 @@
     <category term="Project" scheme="http://www.lumingrj.com/tags/Project/"/>
     
     <category term="Visio" scheme="http://www.lumingrj.com/tags/Visio/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Office+Project+Visio 2021 英文界面语言扩展包 WIN版本•软件安装包下载 安装教程步骤•WIN系统</title>
-    <link href="http://www.lumingrj.com/2024/02/21/WIN/Office+Project+Visio2021-EN/"/>
-    <id>http://www.lumingrj.com/2024/02/21/WIN/Office+Project+Visio2021-EN/</id>
-    <published>2024-02-21T05:46:28.000Z</published>
-    <updated>2024-02-21T06:06:47.674Z</updated>
-    
-    <content type="html"><![CDATA[<div class="tip sync"><p>安装指南：<br>1、链接：Win软件目录：<a href="/Win/">点击查看</a> &emsp;    Win软件常见报错问题：<a href="/2023/09/06/WIN/WIN%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E9%97%AE%E9%A2%98%E7%9B%AE%E5%BD%95/">点击查看</a><br>2、客服：若安装报错问题，自己解决不了，打开安装包内的【联系客服】，添加客服QQ，或点击本网页最上面【联系客服】！</p></div><h3 id=""><a href="#" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">软件详情+下载链接：</span>    </p></section></div></h3><details class="folding-tag" cyan open><summary> 软件详情+下载链接 </summary>              <div class='content'>              <p><mark class="hl-label green">软件名称</mark> <b>：Microsoft Office+Project+Visio 2021 英文界面语言扩展包 WIN版本</b></p><p><mark class="hl-label green">界面语言</mark> ：英文</p><p><mark class="hl-label green">软件简介</mark> ：切换到英文界面扩展包</p><p><mark class="hl-label purple">安装环境</mark> ：Win10&#x2F;Win11系统</p><p><mark class="hl-label purple">系统位数</mark> ：64位</p><p><mark class="hl-label green">亲测安装</mark> ：所有资源皆经严格把关、实机安装测试！</p><p><b> [Office，英文语言]：</b><br><a href="https://pan.baidu.com/s/1mWw_gQ4cHkt7cW4lWh3VIg?pwd=8866">https://pan.baidu.com/s/1mWw_gQ4cHkt7cW4lWh3VIg?pwd=8866</a><br><b> [Project+Visio，英文语言]：</b><br><a href="https://pan.baidu.com/s/1kfr7RKaDF2UrWmJt_KlAvQ?pwd=8866">https://pan.baidu.com/s/1kfr7RKaDF2UrWmJt_KlAvQ?pwd=8866</a></p><div class='checkbox green checked'><input type="radio" checked="checked"/>            <p>下载：下载链接里，下载需要安装的版本即可，不用所有版本全部下载！</p>            </div><div class='checkbox green checked'><input type="radio" checked="checked"/>            <p>客服：打开安装包内的 [联系客服]，添加客服QQ，或点击本网页最上面 [联系客服]！</p>            </div>              </div>            </details><h3 id="-1"><a href="#-1" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">安装教程：</span>    </p></section></div></h3><mark class="hl-label green">安装说明</mark> <b>：<p>●若杀毒软件弹窗报毒，删除了文件，请在杀毒软件里面恢复出来，恢复教程：<a href="/2023/09/16/WIN/WT/003/">点击查看</a>。<br>●一定要解压成文件夹再安装，不要在【压缩包】里安装，容易出现安装问题。<br></b></p><p><strong>说明：</strong></p><p><strong>1、电脑里需已经安装了Office或Project或Visio 2021软件。</strong></p><p><strong>2、本工具和教程只是切换到英文界面的扩展包，不含Office+Project+Visio软件。</strong></p><p><strong>3、支持Office(Word、Excel、PPT、Access等)+Project+Visio软件</strong></p><p>●安装前关闭【Office或Project或Visio】软件。</p><p>1、右击下载到电脑上的【压缩包】，把压缩包解压成文件夹，然后双击打开【A.Office+Project+Visio 2021 英文语言扩展包】文件夹。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402211405694.png" alt="图片"></p><p>2、双击打开【Setup.exe】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402211405705.png" alt="图片"></p><p>3、等待安装完成。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402211405679.png" alt="图片"></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402211405746.png" alt="图片"></p><p>4、点击【Close】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402211405802.png" alt="图片"></p><p>5、电脑左下角开始程序里，点击【Microsoft Office Tools】-【Office Language Preferences】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402211405443.png" alt="图片"></p><p>6、选择【英语 [English]】，点击【设置为首选】。<strong>（如以后需要切换回中文语言，也是这个地方，把【中文(简体)】设置为首选即可）</strong></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402211405056.png" alt="图片"></p><p>7、设置为首选后，点击【确定】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402211405147.png" alt="图片"></p><p>8、点击【确定】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402211405530.png" alt="图片"></p><p>9、然后打开软件，就是英文界面了。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402211405544.png" alt="图片"></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402211405721.png" alt="图片"></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402211405380.png" alt="图片"></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;div class=&quot;tip sync&quot;&gt;&lt;p&gt;安装指南：&lt;br&gt;1、链接：Win软件目录：&lt;a href=&quot;/Win/&quot;&gt;点击查看&lt;/a&gt; &amp;emsp;    Win软件常见报错问题：&lt;a href=&quot;/2023/09/06/WIN/WIN%E8%BD%AF%E4%BB%B6</summary>
-      
-    
-    
-    
-    <category term="Win软件" scheme="http://www.lumingrj.com/categories/Win%E8%BD%AF%E4%BB%B6/"/>
-    
-    
-    <category term="Office" scheme="http://www.lumingrj.com/tags/Office/"/>
-    
-    <category term="Win软件" scheme="http://www.lumingrj.com/tags/Win%E8%BD%AF%E4%BB%B6/"/>
-    
-    <category term="Project" scheme="http://www.lumingrj.com/tags/Project/"/>
-    
-    <category term="Visio" scheme="http://www.lumingrj.com/tags/Visio/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Office+Project+Visio 2013 英文界面语言扩展包 WIN版本•软件安装包下载 安装教程步骤•WIN系统</title>
-    <link href="http://www.lumingrj.com/2024/02/21/WIN/Office+Project+Visio2013-EN/"/>
-    <id>http://www.lumingrj.com/2024/02/21/WIN/Office+Project+Visio2013-EN/</id>
-    <published>2024-02-21T05:46:28.000Z</published>
-    <updated>2024-02-21T06:11:03.639Z</updated>
-    
-    <content type="html"><![CDATA[<div class="tip sync"><p>安装指南：<br>1、链接：Win软件目录：<a href="/Win/">点击查看</a> &emsp;    Win软件常见报错问题：<a href="/2023/09/06/WIN/WIN%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E9%97%AE%E9%A2%98%E7%9B%AE%E5%BD%95/">点击查看</a><br>2、客服：若安装报错问题，自己解决不了，打开安装包内的【联系客服】，添加客服QQ，或点击本网页最上面【联系客服】！</p></div><h3 id=""><a href="#" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">软件详情+下载链接：</span>    </p></section></div></h3><details class="folding-tag" cyan open><summary> 软件详情+下载链接 </summary>              <div class='content'>              <p><mark class="hl-label green">软件名称</mark> <b>：Microsoft Office+Project+Visio 2013 英文界面语言扩展包 WIN版本</b></p><p><mark class="hl-label green">界面语言</mark> ：英文</p><p><mark class="hl-label green">软件简介</mark> ：切换到英文界面扩展包</p><p><mark class="hl-label purple">安装环境</mark> ：Win7&#x2F;Win8&#x2F;Win10&#x2F;Win11系统</p><p><mark class="hl-label purple">系统位数</mark> ：32+64位</p><p><mark class="hl-label green">亲测安装</mark> ：所有资源皆经严格把关、实机安装测试！</p><p><b> [Office，英文语言]：</b><br><a href="https://pan.baidu.com/s/1mWw_gQ4cHkt7cW4lWh3VIg?pwd=8866">https://pan.baidu.com/s/1mWw_gQ4cHkt7cW4lWh3VIg?pwd=8866</a><br><b> [Project+Visio，英文语言]：</b><br><a href="https://pan.baidu.com/s/1kfr7RKaDF2UrWmJt_KlAvQ?pwd=8866">https://pan.baidu.com/s/1kfr7RKaDF2UrWmJt_KlAvQ?pwd=8866</a></p><div class='checkbox green checked'><input type="radio" checked="checked"/>            <p>下载：下载链接里，下载需要安装的版本即可，不用所有版本全部下载！</p>            </div><div class='checkbox green checked'><input type="radio" checked="checked"/>            <p>客服：打开安装包内的 [联系客服]，添加客服QQ，或点击本网页最上面 [联系客服]！</p>            </div>              </div>            </details><h3 id="-1"><a href="#-1" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">安装教程：</span>    </p></section></div></h3><mark class="hl-label green">安装说明</mark> <b>：<p>●若杀毒软件弹窗报毒，删除了文件，请在杀毒软件里面恢复出来，恢复教程：<a href="/2023/09/16/WIN/WT/003/">点击查看</a>。<br>●一定要解压成文件夹再安装，不要在【压缩包】里安装，容易出现安装问题。<br></b></p><p><strong>说明：</strong></p><p><strong>1、电脑里需已经安装了Office或Project或Visio 2013软件。</strong></p><p><strong>2、本工具和教程只是切换到英文界面的扩展包，不含Office+Project+Visio软件。</strong></p><p><strong>3、支持Office(Word、Excel、PPT、Access等)+Project+Visio软件</strong></p><p>●安装前关闭【Office或Project或Visio】软件。</p><p>1、右击下载到电脑上的【压缩包】，把压缩包解压成文件夹，然后双击打开【A.Office+Project+Visio 2013 英文语言扩展包】文件夹。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402211410517.png" alt="图片"></p><p>2、双击打开【Setup.exe】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402211410957.png" alt="图片"></p><p>3、红框内，选择需要安装英文软件，点击【Continue】。<strong>（若需要多个，如：Office和Visio的英文语言，先选择第1个Office进行安装，安装完，再打开安装包，选择第3个Visio进行安装）</strong></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402211410063.png" alt="图片"></p><p>4、选择【I accept the…】，点击【Continue】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402211410573.png" alt="图片"></p><p>5、点击【Customize】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402211410792.png" alt="图片"></p><p>6、默认安装位置为C盘，如要安装到别的盘，更改安装路径后，点击【Install Now】。</p><p><strong>1、例如：要安装到D盘，可以直接把该界面路径中，最前面的C改成D</strong></p><p><strong>2、说明：软件安装路径中，不要有中文，会导致有些软件安装完，出现弹窗报错、闪退、打不开等问题。</strong></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402211410108.png" alt="图片"></p><p>7、等待安装完成。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402211410389.png" alt="图片"></p><p>8、点击【Close】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402211410706.png" alt="图片"></p><p>9、电脑左下角开始程序里，点击【Microsoft Office 2013】-【Office 2013 语言首选项】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402211410048.png" alt="图片"></p><p>10、选择【英语 [English]】，点击【设为默认值】。<strong>（如以后需要切换回中文语言，也是这个地方，把【中文(简体)】设置为默认值即可）</strong></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402211410073.png" alt="图片"></p><p>11、设置为默认后，点击【确定】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402211410081.png" alt="图片"></p><p>12、点击【确定】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402211410792.png" alt="图片"></p><p>13、然后打开软件，就是英文界面了。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402211410005.png" alt="图片"></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402211410949.png" alt="图片"></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402211410896.png" alt="图片"></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;div class=&quot;tip sync&quot;&gt;&lt;p&gt;安装指南：&lt;br&gt;1、链接：Win软件目录：&lt;a href=&quot;/Win/&quot;&gt;点击查看&lt;/a&gt; &amp;emsp;    Win软件常见报错问题：&lt;a href=&quot;/2023/09/06/WIN/WIN%E8%BD%AF%E4%BB%B6</summary>
-      
-    
-    
-    
-    <category term="Win软件" scheme="http://www.lumingrj.com/categories/Win%E8%BD%AF%E4%BB%B6/"/>
-    
-    
-    <category term="Office" scheme="http://www.lumingrj.com/tags/Office/"/>
-    
-    <category term="Win软件" scheme="http://www.lumingrj.com/tags/Win%E8%BD%AF%E4%BB%B6/"/>
-    
-    <category term="Project" scheme="http://www.lumingrj.com/tags/Project/"/>
-    
-    <category term="Visio" scheme="http://www.lumingrj.com/tags/Visio/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>WIN系统•CaseViewer 安装已中止 以及 因残留问题导致 安装失败报错问题•解决教程步骤</title>
-    <link href="http://www.lumingrj.com/2024/02/19/WIN/CaseViewer%E5%AE%89%E8%A3%85%E5%B7%B2%E4%B8%AD%E6%AD%A2/"/>
-    <id>http://www.lumingrj.com/2024/02/19/WIN/CaseViewer%E5%AE%89%E8%A3%85%E5%B7%B2%E4%B8%AD%E6%AD%A2/</id>
-    <published>2024-02-19T15:18:28.000Z</published>
-    <updated>2024-02-19T16:00:42.062Z</updated>
-    
-    <content type="html"><![CDATA[<div class="tip sync"><p>安装指南：<br>1、链接：Win软件目录：<a href="/Win/">点击查看</a> &emsp;    Win软件常见报错问题：<a href="/2023/09/06/WIN/WIN%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E9%97%AE%E9%A2%98%E7%9B%AE%E5%BD%95/">点击查看</a><br>2、客服：若安装报错问题，自己解决不了，打开安装包内的【联系客服】，添加客服QQ，或点击本网页最上面【联系客服】！</p></div><h3 id=""><a href="#" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">报错问题说明：</span>    </p></section></div></h3><details class="folding-tag" cyan open><summary> 报错问题说明 </summary>              <div class='content'>              <p><mark class="hl-label green">报错问题</mark> <b>：CaseViewer 安装已中止以及安装失败问题，解决教程</b></p><p><mark class="hl-label purple">安装环境</mark> ：Win7&#x2F;Win10&#x2F;Win11系统</p><p><mark class="hl-label purple">系统位数</mark> ：32+64位</p><p><mark class="hl-label green">亲测安装</mark> ：所有资源皆经严格把关、实机安装测试！</p><p><b> [百度网盘丨下载链接]：</b><br><a href="https://pan.baidu.com/s/1R1y_vxJuEYVtjTP1sgS29w?pwd=8866">https://pan.baidu.com/s/1R1y_vxJuEYVtjTP1sgS29w?pwd=8866</a></p><p><b> [123 云盘丨下载链接]：</b><br><a href="https://www.123pan.com/s/LZZBjv-Vj7W.html">https://www.123pan.com/s/LZZBjv-Vj7W.html</a></p><div class='checkbox green checked'><input type="radio" checked="checked"/>            <p>说明：该问题工具包在：上方【下载链接】-【报错问题】文件夹里。</p>            </div>              </div>            </details><h3 id="-1"><a href="#-1" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">问题截图：</span>    </p></section></div></h3><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402192359849.png" alt="图片"></p><h3 id="-2"><a href="#-2" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">教程步骤：</span>    </p></section></div></h3><p>1、右击下载到电脑上的【压缩包】，把压缩包解压成文件夹，然后双击打开【CaseViewer 安装失败 修复工具】文件夹。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402200000792.png" alt="图片"></p><p>2、里面有【解决教程】和【修复工具】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402200000786.png" alt="图片"></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;div class=&quot;tip sync&quot;&gt;&lt;p&gt;安装指南：&lt;br&gt;1、链接：Win软件目录：&lt;a href=&quot;/Win/&quot;&gt;点击查看&lt;/a&gt; &amp;emsp;    Win软件常见报错问题：&lt;a href=&quot;/2023/09/06/WIN/WIN%E8%BD%AF%E4%BB%B6</summary>
-      
-    
-    
-    
-    <category term="Win软件" scheme="http://www.lumingrj.com/categories/Win%E8%BD%AF%E4%BB%B6/"/>
-    
-    
-    <category term="安装报错" scheme="http://www.lumingrj.com/tags/%E5%AE%89%E8%A3%85%E6%8A%A5%E9%94%99/"/>
-    
-    <category term="Win软件" scheme="http://www.lumingrj.com/tags/Win%E8%BD%AF%E4%BB%B6/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>ChemOffice 2018v18.2.0 WIN版本•英文•软件安装包下载 安装教程步骤•WIN系统•ChemDraw</title>
-    <link href="http://www.lumingrj.com/2024/02/19/WIN/ChemOffice-2018v18.2.0/"/>
-    <id>http://www.lumingrj.com/2024/02/19/WIN/ChemOffice-2018v18.2.0/</id>
-    <published>2024-02-19T15:18:28.000Z</published>
-    <updated>2024-02-20T05:38:50.778Z</updated>
-    
-    <content type="html"><![CDATA[<div class="tip sync"><p>安装指南：<br>1、链接：Win软件目录：<a href="/Win/">点击查看</a> &emsp;    Win软件常见报错问题：<a href="/2023/09/06/WIN/WIN%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E9%97%AE%E9%A2%98%E7%9B%AE%E5%BD%95/">点击查看</a><br>2、客服：若安装报错问题，自己解决不了，打开安装包内的【联系客服】，添加客服QQ，或点击本网页最上面【联系客服】！</p></div><div class="img-wrap"><div class="img-bg"><img class="img" src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402192334158.png" style="width:80px;"/></div></div><h3 id=""><a href="#" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">软件详情+下载链接：</span>    </p></section></div></h3><details class="folding-tag" cyan open><summary> 软件详情+下载链接 </summary>              <div class='content'>              <p><mark class="hl-label green">软件名称</mark> <b>：ChemOffice 2018 v18.2.0 (含ChemDraw、Chem3D、ChemFinder) WIN版本•<mark class="hl-label green">激活版</mark> </b></p><p><mark class="hl-label green">界面语言</mark> ：英文</p><p><mark class="hl-label green">软件简介</mark> ：化学结构绘图软件</p><p><mark class="hl-label purple">安装环境</mark> ：Win7&#x2F;Win8&#x2F;Win10&#x2F;Win11系统</p><p><mark class="hl-label purple">系统位数</mark> ：32+64位</p><p><mark class="hl-label green">亲测安装</mark> ：所有资源皆经严格把关、实机安装测试！</p><p><b> [百度网盘丨下载链接]：</b><br><a href="https://pan.baidu.com/s/17YbtY4OJ2IZ2Kbkik56GHw?pwd=8866">https://pan.baidu.com/s/17YbtY4OJ2IZ2Kbkik56GHw?pwd=8866</a><br><b> [123 云盘丨下载链接]：</b><br><a href="https://www.123pan.com/s/LZZBjv-6j7W.html">https://www.123pan.com/s/LZZBjv-6j7W.html</a></p><div class='checkbox green checked'><input type="radio" checked="checked"/>            <p>下载：下载链接里，下载需要安装的版本即可，不用所有版本全部下载！</p>            </div><div class='checkbox green checked'><input type="radio" checked="checked"/>            <p>客服：打开安装包内的 [联系客服]，添加客服QQ，或点击本网页最上面 [联系客服]！</p>            </div>              </div>            </details><h3 id="-1"><a href="#-1" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">安装教程：</span>    </p></section></div></h3><mark class="hl-label green">安装说明</mark> <b>：<p>●若杀毒软件弹窗报毒，删除了文件，请在杀毒软件里面恢复出来，恢复教程：<a href="/2023/09/16/WIN/WT/003/">点击查看</a>。<br>●一定要解压成文件夹再安装，不要在【压缩包】里安装，容易出现安装问题。<br></b></p><p>1、右击下载到电脑上的【压缩包】，把压缩包解压成文件夹，然后双击打开【A.ChemOffice 2018v18.2.0】文件夹。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402192354363.png" alt="图片"></p><p>2、双击打开【Setup.exe】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402192354843.png" alt="图片"></p><p>3、在桌面上，新建一个文件夹，然后点击安装界面后面的【文件夹按钮】，选择桌面上新建的文件夹，点击【OK】。<strong>（这步是软件释放安装文件，软件安装完后，桌面上新建的这个文件夹，可以删除）</strong></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402192354090.png" alt="图片"></p><p>4、等待一会。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402192354430.png" alt="图片"></p><p>5、点击【More Options】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402192354096.png" alt="图片"></p><p>6、选择【Trial (10free lauches left)】，点击【Avtivate】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402192354984.png" alt="图片"></p><p>7、点击【确定】。<strong>（若弹出网页，关闭网页即可）</strong></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402192354345.png" alt="图片"></p><p>8、点击【NEXT】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402192354209.png" alt="图片"></p><p>9、安装界面右边，把进度条拉到最下面，选择【I accept the…】，点击【NEXT】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402192354507.png" alt="图片"></p><p>10、默认安装位置为C盘，如要安装到别的盘，更改安装路径后，点击【NEXT】。</p><p><strong>1、例如：要安装到D盘，可以直接把该界面路径中，最前面的C改成D</strong></p><p><strong>2、说明：软件安装路径中，不要有中文，会导致有些软件安装完，出现弹窗报错、闪退、打不开等问题。</strong></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402192354089.png" alt="图片"></p><p>11、点击【NEXT】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402192354809.png" alt="图片"></p><p>12、点击【NEXT】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402192354553.png" alt="图片"></p><p>13、点击【Install】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402192354909.png" alt="图片"></p><p>14、等待安装完成。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402192354059.png" alt="图片"></p><p>15、点击【Finish】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402192354226.png" alt="图片"></p><p>16、返回安装包，双击打开【Crack】文件夹。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402192354187.png" alt="图片"></p><p>17、<strong>复制</strong>红框内的文件。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402192354267.png" alt="图片"></p><p>18、桌面上，右击【软件图标】-【打开文件所在的位置】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402192354356.png" alt="图片"></p><p>19、弹出的文件夹，在路径地址栏上，点击【ChemOffice2018】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402192354397.png" alt="图片"></p><p>20、在【ChemOffice2018】文件夹，空白处，右击【粘贴】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402192354508.png" alt="图片"></p><p>21、点击【替换目标中的文件】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402192354357.png" alt="图片"></p><p>22、勾选【为所有当前项目…】，点击【继续】。<strong>（没有可忽略）</strong></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402192354580.png" alt="图片"></p><p>23、桌面上，双击打开软件图标。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402192354317.png" alt="图片"></p><p>24、安装完成。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402192354597.png" alt="图片"></p><p>25、若需要【Chem3D】和【ChemFinder】组件，在开始程序里，把【软件图标】拖拉到电脑桌面上即可。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402192354071.png" alt="图片"></p><p>26、Chem3D软件界面。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402192354104.png" alt="图片"></p><p>27、ChemFinder软件界面。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402192354093.png" alt="图片"></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;div class=&quot;tip sync&quot;&gt;&lt;p&gt;安装指南：&lt;br&gt;1、链接：Win软件目录：&lt;a href=&quot;/Win/&quot;&gt;点击查看&lt;/a&gt; &amp;emsp;    Win软件常见报错问题：&lt;a href=&quot;/2023/09/06/WIN/WIN%E8%BD%AF%E4%BB%B6</summary>
-      
-    
-    
-    
-    <category term="Win软件" scheme="http://www.lumingrj.com/categories/Win%E8%BD%AF%E4%BB%B6/"/>
-    
-    
-    <category term="ChemDraw Pro" scheme="http://www.lumingrj.com/tags/ChemDraw-Pro/"/>
-    
-    <category term="Win软件" scheme="http://www.lumingrj.com/tags/Win%E8%BD%AF%E4%BB%B6/"/>
-    
-    <category term="ChemOffice" scheme="http://www.lumingrj.com/tags/ChemOffice/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>CaseViewer 2.4.0 WIN版本•英文•软件安装包下载 安装教程步骤•WIN系统•幻灯片数字显微镜查看软件</title>
-    <link href="http://www.lumingrj.com/2024/02/19/WIN/CaseViewer-2.4.0/"/>
-    <id>http://www.lumingrj.com/2024/02/19/WIN/CaseViewer-2.4.0/</id>
-    <published>2024-02-19T15:18:28.000Z</published>
-    <updated>2024-02-20T05:39:58.486Z</updated>
-    
-    <content type="html"><![CDATA[<div class="tip sync"><p>安装指南：<br>1、链接：Win软件目录：<a href="/Win/">点击查看</a> &emsp;    Win软件常见报错问题：<a href="/2023/09/06/WIN/WIN%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E9%97%AE%E9%A2%98%E7%9B%AE%E5%BD%95/">点击查看</a><br>2、客服：若安装报错问题，自己解决不了，打开安装包内的【联系客服】，添加客服QQ，或点击本网页最上面【联系客服】！</p></div><div class="img-wrap"><div class="img-bg"><img class="img" src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402192356418.png" style="width:80px;"/></div></div><h3 id=""><a href="#" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">软件详情+下载链接：</span>    </p></section></div></h3><details class="folding-tag" cyan open><summary> 软件详情+下载链接 </summary>              <div class='content'>              <p><mark class="hl-label green">软件名称</mark> <b>：CaseViewer 2.4.0 WIN版本</b></p><p><mark class="hl-label green">界面语言</mark> ：英文</p><p><mark class="hl-label green">软件简介</mark> ：幻灯片数字显微镜查看工具</p><p><mark class="hl-label purple">安装环境</mark> ：Win7&#x2F;Win8&#x2F;Win10&#x2F;Win11系统</p><p><mark class="hl-label purple">系统位数</mark> ：32+64位</p><p><mark class="hl-label green">亲测安装</mark> ：所有资源皆经严格把关、实机安装测试！</p><p><b> [百度网盘丨下载链接]：</b><br><a href="https://pan.baidu.com/s/1R1y_vxJuEYVtjTP1sgS29w?pwd=8866">https://pan.baidu.com/s/1R1y_vxJuEYVtjTP1sgS29w?pwd=8866</a><br><b> [123 云盘丨下载链接]：</b><br><a href="https://www.123pan.com/s/LZZBjv-Vj7W.html">https://www.123pan.com/s/LZZBjv-Vj7W.html</a></p><div class='checkbox green checked'><input type="radio" checked="checked"/>            <p>下载：下载链接里，下载需要安装的版本即可，不用所有版本全部下载！</p>            </div><div class='checkbox green checked'><input type="radio" checked="checked"/>            <p>客服：打开安装包内的 [联系客服]，添加客服QQ，或点击本网页最上面 [联系客服]！</p>            </div>              </div>            </details><h3 id="-1"><a href="#-1" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">安装教程：</span>    </p></section></div></h3><mark class="hl-label green">安装说明</mark> <b>：<p>●若杀毒软件弹窗报毒，删除了文件，请在杀毒软件里面恢复出来，恢复教程：<a href="/2023/09/16/WIN/WT/003/">点击查看</a>。<br>●一定要解压成文件夹再安装，不要在【压缩包】里安装，容易出现安装问题。<br></b></p><p>1、右击下载到电脑上的【压缩包】，把压缩包解压成文件夹，然后双击打开【A.CaseViewer 2.4.0 x64】文件夹。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402192358999.png" alt="图片"></p><p>2、双击打开【Setup.exe】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402192358020.png" alt="图片"></p><p>3、点击【NEXT】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402192358597.png" alt="图片"></p><p>4、选择【I accept the…】，点击【NEXT】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402192358072.png" alt="图片"></p><p>5、点击【NEXT】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402192358092.png" alt="图片"></p><p>6、点击【NEXT】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402192358714.png" alt="图片"></p><p>7、默认安装位置为C盘，如要安装到别的盘，更改安装路径后，点击【NEXT】。</p><p><strong>1、例如：要安装到D盘，可以直接把该界面路径中，最前面的C改成D</strong></p><p><strong>2、说明：软件安装路径中，不要有中文，会导致有些软件安装完，出现弹窗报错、闪退、打不开等问题。</strong></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402192358037.png" alt="图片"></p><p>8、点击【NEXT】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402192358014.png" alt="图片"></p><p>9、点击【Install】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402192358041.png" alt="图片"></p><p>10、等待安装完成。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402192358140.png" alt="图片"></p><p>11、点击【Finish】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402192358059.png" alt="图片"></p><p>12、桌面上，双击打开软件图标。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402192358110.png" alt="图片"></p><p>13、安装完成。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402192358564.png" alt="图片"></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;div class=&quot;tip sync&quot;&gt;&lt;p&gt;安装指南：&lt;br&gt;1、链接：Win软件目录：&lt;a href=&quot;/Win/&quot;&gt;点击查看&lt;/a&gt; &amp;emsp;    Win软件常见报错问题：&lt;a href=&quot;/2023/09/06/WIN/WIN%E8%BD%AF%E4%BB%B6</summary>
-      
-    
-    
-    
-    <category term="Win软件" scheme="http://www.lumingrj.com/categories/Win%E8%BD%AF%E4%BB%B6/"/>
-    
-    
-    <category term="Win软件" scheme="http://www.lumingrj.com/tags/Win%E8%BD%AF%E4%BB%B6/"/>
-    
-    <category term="CaseViewer" scheme="http://www.lumingrj.com/tags/CaseViewer/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>ChemOffice 2020v20.1.1 WIN版本•英文•软件安装包下载 安装教程步骤•WIN系统•ChemDraw</title>
-    <link href="http://www.lumingrj.com/2024/02/19/WIN/ChemOffice-2020v20.1.1/"/>
-    <id>http://www.lumingrj.com/2024/02/19/WIN/ChemOffice-2020v20.1.1/</id>
-    <published>2024-02-19T15:18:28.000Z</published>
-    <updated>2024-02-20T05:39:10.338Z</updated>
-    
-    <content type="html"><![CDATA[<div class="tip sync"><p>安装指南：<br>1、链接：Win软件目录：<a href="/Win/">点击查看</a> &emsp;    Win软件常见报错问题：<a href="/2023/09/06/WIN/WIN%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E9%97%AE%E9%A2%98%E7%9B%AE%E5%BD%95/">点击查看</a><br>2、客服：若安装报错问题，自己解决不了，打开安装包内的【联系客服】，添加客服QQ，或点击本网页最上面【联系客服】！</p></div><div class="img-wrap"><div class="img-bg"><img class="img" src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402192334158.png" style="width:80px;"/></div></div><h3 id=""><a href="#" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">软件详情+下载链接：</span>    </p></section></div></h3><details class="folding-tag" cyan open><summary> 软件详情+下载链接 </summary>              <div class='content'>              <p><mark class="hl-label green">软件名称</mark> <b>：ChemOffice 2020v20.1.1 (含ChemDraw、Chem3D、ChemFinder) WIN版本•<mark class="hl-label green">激活版</mark> </b></p><p><mark class="hl-label green">界面语言</mark> ：英文</p><p><mark class="hl-label green">软件简介</mark> ：化学结构绘图软件</p><p><mark class="hl-label purple">安装环境</mark> ：Win7&#x2F;Win8&#x2F;Win10&#x2F;Win11系统</p><p><mark class="hl-label purple">系统位数</mark> ：32+64位</p><p><mark class="hl-label green">亲测安装</mark> ：所有资源皆经严格把关、实机安装测试！</p><p><b> [百度网盘丨下载链接]：</b><br><a href="https://pan.baidu.com/s/17YbtY4OJ2IZ2Kbkik56GHw?pwd=8866">https://pan.baidu.com/s/17YbtY4OJ2IZ2Kbkik56GHw?pwd=8866</a><br><b> [123 云盘丨下载链接]：</b><br><a href="https://www.123pan.com/s/LZZBjv-6j7W.html">https://www.123pan.com/s/LZZBjv-6j7W.html</a></p><div class='checkbox green checked'><input type="radio" checked="checked"/>            <p>下载：下载链接里，下载需要安装的版本即可，不用所有版本全部下载！</p>            </div><div class='checkbox green checked'><input type="radio" checked="checked"/>            <p>客服：打开安装包内的 [联系客服]，添加客服QQ，或点击本网页最上面 [联系客服]！</p>            </div>              </div>            </details><h3 id="-1"><a href="#-1" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">安装教程：</span>    </p></section></div></h3><mark class="hl-label green">安装说明</mark> <b>：<p>●若杀毒软件弹窗报毒，删除了文件，请在杀毒软件里面恢复出来，恢复教程：<a href="/2023/09/16/WIN/WT/003/">点击查看</a>。<br>●一定要解压成文件夹再安装，不要在【压缩包】里安装，容易出现安装问题。<br></b></p><p>1、右击下载到电脑上的【压缩包】，把压缩包解压成文件夹，然后双击打开【A.ChemOffice 2020v20.1.1】文件夹。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402192347797.png" alt="图片"></p><p>2、双击打开【Setup.exe】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402192347770.png" alt="图片"></p><p>3、在桌面上，新建一个文件夹，然后点击安装界面后面的【文件夹按钮】，选择桌面上新建的文件夹，点击【OK】。<strong>（这步是软件释放安装文件，软件安装完后，桌面上新建的这个文件夹，可以删除）</strong></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402192347940.png" alt="图片"></p><p>4、等待一会。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402192347660.png" alt="图片"></p><p>5、点击【More Options】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402192347005.png" alt="图片"></p><p>6、选择【Trial (10free lauches left)】，点击【Avtivate】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402192347735.png" alt="图片"></p><p>7、点击【确定】。<strong>（若弹出网页，关闭网页即可）</strong></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402192347583.png" alt="图片"></p><p>8、点击【NEXT】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402192347861.png" alt="图片"></p><p>9、安装界面右边，把进度条拉到最下面，选择【I accept the…】，点击【NEXT】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402192347123.png" alt="图片"></p><p>10、默认安装位置为C盘，如要安装到别的盘，更改安装路径后，点击【NEXT】。</p><p><strong>1、例如：要安装到D盘，可以直接把该界面路径中，最前面的C改成D</strong></p><p><strong>2、说明：软件安装路径中，不要有中文，会导致有些软件安装完，出现弹窗报错、闪退、打不开等问题。</strong></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402192347128.png" alt="图片"></p><p>11、点击【NEXT】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402192347157.png" alt="图片"></p><p>12、点击【NEXT】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402192347436.png" alt="图片"></p><p>13、点击【Install】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402192347621.png" alt="图片"></p><p>14、等待安装完成。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402192347659.png" alt="图片"></p><p>15、点击【Finish】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402192347144.png" alt="图片"></p><p>16、返回安装包，双击打开【Crack】文件夹。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402192347277.png" alt="图片"></p><p>17、<strong>复制</strong>红框内的文件。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402192347358.png" alt="图片"></p><p>18、桌面上，右击【软件图标】-【打开文件所在的位置】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402192347254.png" alt="图片"></p><p>19、弹出的文件夹，在路径地址栏上，点击【ChemOffice2020】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402192347047.png" alt="图片"></p><p>20、在【ChemOffice2020】文件夹，空白处，右击【粘贴】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402192347378.png" alt="图片"></p><p>21、点击【替换目标中的文件】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402192347854.png" alt="图片"></p><p>22、勾选【为所有当前项目…】，点击【继续】。<strong>（没有可忽略）</strong></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402192347199.png" alt="图片"></p><p>23、桌面上，双击打开软件图标。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402192347208.png" alt="图片"></p><p>24、安装完成。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402192347320.png" alt="图片"></p><p>25、若需要【Chem3D】和【ChemFinder】组件，在开始程序里，把【软件图标】拖拉到电脑桌面上即可。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402192347128.png" alt="图片"></p><p>26、Chem3D软件界面。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402192347710.png" alt="图片"></p><p>27、ChemFinder软件界面。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202402192347126.png" alt="图片"></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;div class=&quot;tip sync&quot;&gt;&lt;p&gt;安装指南：&lt;br&gt;1、链接：Win软件目录：&lt;a href=&quot;/Win/&quot;&gt;点击查看&lt;/a&gt; &amp;emsp;    Win软件常见报错问题：&lt;a href=&quot;/2023/09/06/WIN/WIN%E8%BD%AF%E4%BB%B6</summary>
-      
-    
-    
-    
-    <category term="Win软件" scheme="http://www.lumingrj.com/categories/Win%E8%BD%AF%E4%BB%B6/"/>
-    
-    
-    <category term="ChemDraw Pro" scheme="http://www.lumingrj.com/tags/ChemDraw-Pro/"/>
-    
-    <category term="Win软件" scheme="http://www.lumingrj.com/tags/Win%E8%BD%AF%E4%BB%B6/"/>
-    
-    <category term="ChemOffice" scheme="http://www.lumingrj.com/tags/ChemOffice/"/>
     
   </entry>
   
