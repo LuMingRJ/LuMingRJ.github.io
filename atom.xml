@@ -6,7 +6,7 @@
   <link href="http://www.lumingrj.com/atom.xml" rel="self"/>
   
   <link href="http://www.lumingrj.com/"/>
-  <updated>2024-03-31T13:09:46.349Z</updated>
+  <updated>2024-04-02T15:46:03.002Z</updated>
   <id>http://www.lumingrj.com/</id>
   
   <author>
@@ -15,6 +15,164 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>兼容M1~M3芯片•Anaconda3 2024.02-1 For Mac版本•软件安装包下载 安装教程步骤•苹果系统</title>
+    <link href="http://www.lumingrj.com/2024/04/03/MAC/Anaconda3-2024.02-1/"/>
+    <id>http://www.lumingrj.com/2024/04/03/MAC/Anaconda3-2024.02-1/</id>
+    <published>2024-04-03T04:45:28.000Z</published>
+    <updated>2024-04-02T15:46:03.002Z</updated>
+    
+    <content type="html"><![CDATA[<div class="tip sync"><p>安装指南：<br>1、链接：Mac软件目录：<a href="/Mac/">点击查看</a> &emsp;    Mac软件常见报错问题：<a href="/2023/09/02/MAC/Mac%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E9%97%AE%E9%A2%98%E7%9B%AE%E5%BD%95/">点击查看</a><br>2、客服：若安装报错问题，自己解决不了，打开安装包内的【联系客服】，添加客服QQ，或点击本网页最上面【联系客服】！</p></div><div class="img-wrap"><div class="img-bg"><img class="img" src="https://bu.dusays.com/2023/11/04/654604cc31813.png" style="width:80px;"/></div></div><h3 id=""><a href="#" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">软件详情+下载链接：</span>    </p></section></div></h3><details class="folding-tag" cyan open><summary> 软件详情+下载链接 </summary>              <div class='content'>              <p><mark class="hl-label green">软件名称</mark> <b>：Anaconda3 2024.02-1 For MAC版本•以及Spyder安装升级和中文切换教程</b></p><p><mark class="hl-label green">界面语言</mark> ：-</p><p><mark class="hl-label green">软件简介</mark> ：Python编码数据分析软件</p><p><mark class="hl-label purple">系统版本</mark> ：Mac 10.15-14.x Sonoma 或更高</p><p><mark class="hl-label purple">兼容芯片</mark> ：支持Intel+M1.M2.M3及更高芯片</p><p><mark class="hl-label green">亲测安装</mark> ：所有资源皆经严格把关、实机安装测试！</p><p><b> [百度网盘丨下载链接]：</b><br><a href="https://pan.baidu.com/s/1LoSOitfSnubtQ1XxE8oRUA?pwd=8866">https://pan.baidu.com/s/1LoSOitfSnubtQ1XxE8oRUA?pwd=8866</a><br><b> [123 云盘丨下载链接]：</b><br><a href="https://www.123pan.com/s/LZZBjv-lG7W.html">https://www.123pan.com/s/LZZBjv-lG7W.html</a></p><div class='checkbox green checked'><input type="radio" checked="checked"/>            <p>下载：下载链接里，下载需要安装的版本即可，不用所有版本全部下载！</p>            </div><div class='checkbox green checked'><input type="radio" checked="checked"/>            <p>客服：打开安装包内的 [联系客服]，添加客服QQ，或点击本网页最上面 [联系客服]！</p>            </div>              </div>            </details><h3 id="-1"><a href="#-1" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">安装教程：</span>    </p></section></div></h3><p>1、双击打开，下载到Mac电脑上的【A.Anaconda3 2024.02-1 M.dmg】软件安装包。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202404022344808.webp" alt="图片"></p><h4 id="-2"><a href="#-2" class="headerlink" title=""></a><mark class="hl-label red">安装前一定要做的：</mark> </h4><p>●输入软件密码，打开安装包后：双击打开安装包左下角的【修复工具】，修复完成后，再返回本教程安装。<b>修复工具操作教程：<a href="/2023/09/18/MAC/WT/003/">点击查看</a></b></p><div style="display:inline-block;"><img style="float:left;" src=https://bu.dusays.com/2023/09/12/64ff44a6dd274.png></div> <p>2、双击打开【Install.pkg】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202404022344391.webp" alt="图片"></p><p>3、点击【允许】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202404022344503.webp" alt="图片"></p><p>4、点击【继续】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202404022344689.png" alt="图片"></p><p>5、点击【继续】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202404022344713.webp" alt="图片"></p><p>6、点击【继续】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202404022344489.webp" alt="图片"></p><p>7、点击【同意】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202404022344381.webp" alt="图片"></p><p>8、点击【继续】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202404022344095.webp" alt="图片"></p><p>9、点击【安装】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202404022344178.webp" alt="图片"></p><p>10、输入【开机密码】，点击【安装软件】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202404022344216.webp" alt="图片"></p><p>11、等待安装完成。<strong>（安装时间会比较长，耐心等待安装完成）</strong></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202404022344988.webp" alt="图片"></p><p>12、点击【Noi,dont show again】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202404022344411.webp" alt="图片"></p><p>13、点击【X】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202404022344367.webp" alt="图片"></p><p>14、点击【继续】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202404022344246.webp" alt="图片"></p><p>15、点击【关闭】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202404022344338.webp" alt="图片"></p><p>16、安装完成。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202404022344639.webp" alt="图片"></p><p><strong>下面教程介绍Spyder安装升级以及中文汉化界面切换：</strong></p><p>1、点击打开【Spyder】下面的【Launch】按钮。**(如果打不开【Spyder】，是因为内置的【Spyder】版本低了，按下面教程，进行升级。)**</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202404022344250.webp" alt="图片"></p><p>2、点击打开【Spyder】，右上角的【设置】-【Install specific version】，选择里面的最高版本。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202404022344239.webp" alt="图片"></p><p>3、等待【Spyder】软件自动下载和升级。<strong>（过程比较慢，耐心等待）</strong></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202404022345444.webp" alt="图片"></p><p>4、升级完成后，点击打开【Spyder】下面的【Launch】按钮。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202404022344210.webp" alt="图片"></p><p>5、英文界面。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202404022344370.webp" alt="图片"></p><p>6、<strong>中文界面切换：</strong>电脑最上面的菜单栏，点击【python】-【Preferences】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202404022344127.webp" alt="图片"></p><p>7、点击【Application】-【Advanced settings】，选择【简体中文】，点击【OK】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202404022344288.webp" alt="图片"></p><p>8、点击【YES】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202404022344460.webp" alt="图片"></p><p>9、软件自动重启后，中文界面切换完成。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202404022345019.webp" alt="图片"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;div class=&quot;tip sync&quot;&gt;&lt;p&gt;安装指南：&lt;br&gt;1、链接：Mac软件目录：&lt;a href=&quot;/Mac/&quot;&gt;点击查看&lt;/a&gt; &amp;emsp;    Mac软件常见报错问题：&lt;a href=&quot;/2023/09/02/MAC/Mac%E8%BD%AF%E4%BB%B6</summary>
+      
+    
+    
+    
+    <category term="Mac软件" scheme="http://www.lumingrj.com/categories/Mac%E8%BD%AF%E4%BB%B6/"/>
+    
+    
+    <category term="Mac软件" scheme="http://www.lumingrj.com/tags/Mac%E8%BD%AF%E4%BB%B6/"/>
+    
+    <category term="Anaconda3" scheme="http://www.lumingrj.com/tags/Anaconda3/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>兼容M1~M3芯片•AutoCAD 2025 For Mac版本•中英文•软件安装包下载 安装教程步骤•苹果系统 CAD2025</title>
+    <link href="http://www.lumingrj.com/2024/04/03/MAC/AutoCAD-2025/"/>
+    <id>http://www.lumingrj.com/2024/04/03/MAC/AutoCAD-2025/</id>
+    <published>2024-04-03T04:45:28.000Z</published>
+    <updated>2024-04-02T15:34:32.220Z</updated>
+    
+    <content type="html"><![CDATA[<div class="tip sync"><p>安装指南：<br>1、链接：Mac软件目录：<a href="/Mac/">点击查看</a> &emsp;    Mac软件常见报错问题：<a href="/2023/09/02/MAC/Mac%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E9%97%AE%E9%A2%98%E7%9B%AE%E5%BD%95/">点击查看</a><br>2、客服：若安装报错问题，自己解决不了，打开安装包内的【联系客服】，添加客服QQ，或点击本网页最上面【联系客服】！</p></div><div class="img-wrap"><div class="img-bg"><img class="img" src="https://bu.dusays.com/2024/03/16/65f479dd5a750.png" style="width:80px;"/></div></div><h3 id=""><a href="#" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">软件详情+下载链接：</span>    </p></section></div></h3><details class="folding-tag" cyan open><summary> 软件详情+下载链接 </summary>              <div class='content'>              <p><mark class="hl-label green">软件名称</mark> <b>：Autodesk AutoCAD 2025 For MAC版本•<mark class="hl-label green">激活版</mark> </b></p><p><mark class="hl-label green">界面语言</mark> ：简体中文+英文</p><p><mark class="hl-label green">软件简介</mark> ：CAD、二维、三维绘图软件</p><p><mark class="hl-label purple">系统版本</mark> ：Mac 12.0-14.x Sonoma 或更高</p><p><mark class="hl-label purple">兼容芯片</mark> ：支持Intel+M1.M2.M3及更高芯片</p><p><mark class="hl-label green">亲测安装</mark> ：所有资源皆经严格把关、实机安装测试！</p><p><b> [M芯片丨百度网盘丨下载链接]：</b><br><a href="https://pan.baidu.com/s/1xb1bXcx0CHbzcxZO-b5iwg?pwd=8866">https://pan.baidu.com/s/1xb1bXcx0CHbzcxZO-b5iwg?pwd=8866</a><br><b> [M芯片丨123 云盘丨下载链接]：</b><br><a href="https://www.123pan.com/s/LZZBjv-RwbW.html">https://www.123pan.com/s/LZZBjv-RwbW.html</a></p><p><b> [Intel芯片丨百度网盘丨下载链接]：</b><br><a href="https://pan.baidu.com/s/1cdteECKzlD8wTJO17Jqv_Q?pwd=8866">https://pan.baidu.com/s/1cdteECKzlD8wTJO17Jqv_Q?pwd=8866</a><br><b> [Intel芯片丨123 云盘丨下载链接]：</b><br><a href="https://www.123pan.com/s/LZZBjv-OwbW.html">https://www.123pan.com/s/LZZBjv-OwbW.html</a></p><div class='checkbox green checked'><input type="radio" checked="checked"/>            <p>下载：下载链接里，下载需要安装的版本即可，不用所有版本全部下载！</p>            </div><div class='checkbox green checked'><input type="radio" checked="checked"/>            <p>客服：打开安装包内的 [联系客服]，添加客服QQ，或点击本网页最上面 [联系客服]！</p>            </div>              </div>            </details><h3 id="-1"><a href="#-1" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">安装教程：</span>    </p></section></div></h3><p>1、双击打开，下载到Mac电脑上的【A.AutoCAD 2025 M.dmg】软件安装包。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202404022333556.png" alt="图片"></p><h4 id="-2"><a href="#-2" class="headerlink" title=""></a><mark class="hl-label red">安装前一定要做的：</mark> </h4><p>●输入软件密码，打开安装包后：双击打开安装包左下角的【修复工具】，修复完成后，再返回本教程安装。<b>修复工具操作教程：<a href="/2023/09/18/MAC/WT/003/">点击查看</a></b></p><div style="display:inline-block;"><img style="float:left;" src=https://bu.dusays.com/2023/09/12/64ff44a6dd274.png></div> <p>2、双击打开【Install】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202404022333363.png" alt="图片"></p><p>3、等待加载安装程序。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202404022333247.png" alt="图片"></p><p>4、输入【开机密码】，点击【好】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202404022333467.png" alt="图片"></p><p>5、<strong>勾选</strong>【我同意使用条款】，点击【下一步】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202404022333556.png" alt="图片"></p><p>6、点击【安装】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202404022333331.png" alt="图片"></p><p>7、等待安装完成。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202404022333421.png" alt="图片"></p><p>8、安装完成后，点击【X】，关闭该窗口。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202404022333217.png" alt="图片"></p><p>9、返回安装包，打开【替换路径】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202404022333299.png" alt="图片"></p><p>10、<strong>复制</strong>红框内的路径。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202404022333399.png" alt="图片"></p><p>11、电脑最上面的菜单栏，点击【前往】-【前往文件夹】。<strong>（若菜单栏上不显示【前往】，在电脑桌面上点击一下，上面就显示了）</strong></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202404022333215.png" alt="图片"></p><p>12、在红框内粘贴刚才复制的路径，按【回车键】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202404022333470.png" alt="图片"></p><p>13、把安装包内的【AutoCAD】文件，拖拉到打开的【MacOS】文件夹里。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202404022333727.png" alt="图片"></p><p>14、点击【替换】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202404022333184.png" alt="图片"></p><p>15、输入【开机密码】，点击【好】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202404022333395.png" alt="图片"></p><p>16、在【启动台】里，打开【Autodesk(其他)】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202404022333403.png" alt="图片"></p><p>17、打开【AutoCAD 2025】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202404022333509.png" alt="图片"></p><p>18、点击【新建】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202404022333751.png" alt="图片"></p><p>19、安装完成。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202404022333793.png" alt="图片"></p><p>20、软件界面语言切换：</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202404022334074.png" alt="图片"></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202404022334083.png" alt="图片"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;div class=&quot;tip sync&quot;&gt;&lt;p&gt;安装指南：&lt;br&gt;1、链接：Mac软件目录：&lt;a href=&quot;/Mac/&quot;&gt;点击查看&lt;/a&gt; &amp;emsp;    Mac软件常见报错问题：&lt;a href=&quot;/2023/09/02/MAC/Mac%E8%BD%AF%E4%BB%B6</summary>
+      
+    
+    
+    
+    <category term="Mac软件" scheme="http://www.lumingrj.com/categories/Mac%E8%BD%AF%E4%BB%B6/"/>
+    
+    
+    <category term="Mac软件" scheme="http://www.lumingrj.com/tags/Mac%E8%BD%AF%E4%BB%B6/"/>
+    
+    <category term="AutoCAD" scheme="http://www.lumingrj.com/tags/AutoCAD/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>兼容M1~M3芯片•K-Viewer 1.0.2 For Mac版本•中文•软件安装包下载 安装教程步骤•苹果系统KFB切片查看</title>
+    <link href="http://www.lumingrj.com/2024/04/03/MAC/K-Viewer-1.0.2/"/>
+    <id>http://www.lumingrj.com/2024/04/03/MAC/K-Viewer-1.0.2/</id>
+    <published>2024-04-03T04:45:28.000Z</published>
+    <updated>2024-04-02T15:48:25.193Z</updated>
+    
+    <content type="html"><![CDATA[<div class="tip sync"><p>安装指南：<br>1、链接：Mac软件目录：<a href="/Mac/">点击查看</a> &emsp;    Mac软件常见报错问题：<a href="/2023/09/02/MAC/Mac%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E9%97%AE%E9%A2%98%E7%9B%AE%E5%BD%95/">点击查看</a><br>2、客服：若安装报错问题，自己解决不了，打开安装包内的【联系客服】，添加客服QQ，或点击本网页最上面【联系客服】！</p></div><div class="img-wrap"><div class="img-bg"><img class="img" src="https://bu.dusays.com/2024/03/31/660960da69812.png" style="width:80px;"/></div></div><h3 id=""><a href="#" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">软件详情+下载链接：</span>    </p></section></div></h3><details class="folding-tag" cyan open><summary> 软件详情+下载链接 </summary>              <div class='content'>              <p><mark class="hl-label green">软件名称</mark> <b>：K-Viewer 1.0.2 For MAC版本</b></p><p><mark class="hl-label green">界面语言</mark> ：简体中文</p><p><mark class="hl-label green">软件简介</mark> ：KFB医学病理切片查看软件</p><p><mark class="hl-label purple">系统版本</mark> ：Mac 10.12-14.x Sonoma 或更高</p><p><mark class="hl-label purple">兼容芯片</mark> ：支持Intel+M1.M2.M3及更高芯片</p><p><mark class="hl-label green">亲测安装</mark> ：所有资源皆经严格把关、实机安装测试！</p><p><b> [百度网盘丨下载链接]：</b><br><a href="https://pan.baidu.com/s/1FVx7HWI3mRUJx8XqTEhHsg?pwd=8866">https://pan.baidu.com/s/1FVx7HWI3mRUJx8XqTEhHsg?pwd=8866</a><br><b> [123 云盘丨下载链接]：</b><br><a href="https://www.123pan.com/s/LZZBjv-U6bW.html">https://www.123pan.com/s/LZZBjv-U6bW.html</a></p><div class='checkbox green checked'><input type="radio" checked="checked"/>            <p>下载：下载链接里，下载需要安装的版本即可，不用所有版本全部下载！</p>            </div><div class='checkbox green checked'><input type="radio" checked="checked"/>            <p>客服：打开安装包内的 [联系客服]，添加客服QQ，或点击本网页最上面 [联系客服]！</p>            </div>              </div>            </details><h3 id="-1"><a href="#-1" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">安装教程：</span>    </p></section></div></h3><p>1、双击打开，下载到Mac电脑上的【A.K-Viewer 1.0.2.dmg】软件安装包。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202404022348668.png" alt="图片"></p><h4 id="-2"><a href="#-2" class="headerlink" title=""></a><mark class="hl-label red">安装前一定要做的：</mark> </h4><p>●输入软件密码，打开安装包后：双击打开安装包左下角的【修复工具】，修复完成后，再返回本教程安装。<b>修复工具操作教程：<a href="/2023/09/18/MAC/WT/003/">点击查看</a></b></p><div style="display:inline-block;"><img style="float:left;" src=https://bu.dusays.com/2023/09/12/64ff44a6dd274.png></div> <p>2、把左面的软件图标，拖拉到右边的文件夹里。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202404022348673.png" alt="图片"></p><p>3、在【启动台】里，打开软件图标。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202404022348629.png" alt="图片"></p><p>4、安装完成。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202404022348683.png" alt="图片"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;div class=&quot;tip sync&quot;&gt;&lt;p&gt;安装指南：&lt;br&gt;1、链接：Mac软件目录：&lt;a href=&quot;/Mac/&quot;&gt;点击查看&lt;/a&gt; &amp;emsp;    Mac软件常见报错问题：&lt;a href=&quot;/2023/09/02/MAC/Mac%E8%BD%AF%E4%BB%B6</summary>
+      
+    
+    
+    
+    <category term="Mac软件" scheme="http://www.lumingrj.com/categories/Mac%E8%BD%AF%E4%BB%B6/"/>
+    
+    
+    <category term="Mac软件" scheme="http://www.lumingrj.com/tags/Mac%E8%BD%AF%E4%BB%B6/"/>
+    
+    <category term="K-Viewer" scheme="http://www.lumingrj.com/tags/K-Viewer/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>兼容M1~M3芯片•Maya 2025 For Mac版本•中英文•软件安装包下载 安装教程步骤•苹果系统 玛雅MAYA2025</title>
+    <link href="http://www.lumingrj.com/2024/04/03/MAC/Maya-2025/"/>
+    <id>http://www.lumingrj.com/2024/04/03/MAC/Maya-2025/</id>
+    <published>2024-04-03T04:45:28.000Z</published>
+    <updated>2024-04-02T15:38:25.979Z</updated>
+    
+    <content type="html"><![CDATA[<div class="tip sync"><p>安装指南：<br>1、链接：Mac软件目录：<a href="/Mac/">点击查看</a> &emsp;    Mac软件常见报错问题：<a href="/2023/09/02/MAC/Mac%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E9%97%AE%E9%A2%98%E7%9B%AE%E5%BD%95/">点击查看</a><br>2、客服：若安装报错问题，自己解决不了，打开安装包内的【联系客服】，添加客服QQ，或点击本网页最上面【联系客服】！</p></div><div class="img-wrap"><div class="img-bg"><img class="img" src="https://bu.dusays.com/2024/04/02/660c25bbb1ad6.png" style="width:80px;"/></div></div><h3 id=""><a href="#" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">软件详情+下载链接：</span>    </p></section></div></h3><details class="folding-tag" cyan open><summary> 软件详情+下载链接 </summary>              <div class='content'>              <p><mark class="hl-label green">软件名称</mark> <b>：Autodesk Maya 2025 For MAC版本•<mark class="hl-label green">激活版</mark> </b></p><p><mark class="hl-label green">界面语言</mark> ：简体中文+英文</p><p><mark class="hl-label green">软件简介</mark> ：三维动画制作软件</p><p><mark class="hl-label purple">系统版本</mark> ：Mac 12.0-14.x Sonoma 或更高</p><p><mark class="hl-label purple">兼容芯片</mark> ：支持Intel+M1.M2.M3及更高芯片</p><p><mark class="hl-label green">亲测安装</mark> ：所有资源皆经严格把关、实机安装测试！</p><p><b> [M芯片丨百度网盘丨下载链接]：</b><br><a href="https://pan.baidu.com/s/1NNxanD_Bj-RuF7Ep2upWCg?pwd=8866">https://pan.baidu.com/s/1NNxanD_Bj-RuF7Ep2upWCg?pwd=8866</a><br><b> [M芯片丨123 云盘丨下载链接]：</b><br><a href="https://www.123pan.com/s/LZZBjv-06bW.html">https://www.123pan.com/s/LZZBjv-06bW.html</a></p><p><b> [Intel芯片丨百度网盘丨下载链接]：</b><br><a href="https://pan.baidu.com/s/1kux9PyPq2mXc5hZkzbcvug?pwd=8866">https://pan.baidu.com/s/1kux9PyPq2mXc5hZkzbcvug?pwd=8866</a><br><b> [Intel芯片丨123 云盘丨下载链接]：</b><br><a href="https://www.123pan.com/s/LZZBjv-K6bW.html">https://www.123pan.com/s/LZZBjv-K6bW.html</a></p><div class='checkbox green checked'><input type="radio" checked="checked"/>            <p>下载：下载链接里，下载需要安装的版本即可，不用所有版本全部下载！</p>            </div><div class='checkbox green checked'><input type="radio" checked="checked"/>            <p>客服：打开安装包内的 [联系客服]，添加客服QQ，或点击本网页最上面 [联系客服]！</p>            </div>              </div>            </details><h3 id="-1"><a href="#-1" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">安装教程：</span>    </p></section></div></h3><p>1、双击打开，下载到Mac电脑上的【A.Maya 2025 M.dmg】软件安装包。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202404022336518.png" alt="图片"></p><h4 id="-2"><a href="#-2" class="headerlink" title=""></a><mark class="hl-label red">安装前一定要做的：</mark> </h4><p>●输入软件密码，打开安装包后：双击打开安装包左下角的【修复工具】，修复完成后，再返回本教程安装。<b>修复工具操作教程：<a href="/2023/09/18/MAC/WT/003/">点击查看</a></b></p><div style="display:inline-block;"><img style="float:left;" src=https://bu.dusays.com/2023/09/12/64ff44a6dd274.png></div> <p>2、双击打开【Install】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202404022337234.png" alt="图片"></p><p>3、输入【开机密码】，点击【好】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202404022337476.png" alt="图片"></p><p>4、<strong>勾选</strong>【我同意使用条款】，点击【下一步】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202404022337417.png" alt="图片"></p><p>5、点击【下一步】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202404022337320.png" alt="图片"></p><p>6、点击【安装】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202404022337305.png" alt="图片"></p><p>7、等待安装完成。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202404022337332.png" alt="图片"></p><p>8、安装完成后，点击【X】，关闭该窗口。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202404022337961.png" alt="图片"></p><p>9、返回安装包，双击打开【替换路径】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202404022337045.png" alt="图片"></p><p>10、<strong>复制</strong>红框内的路径。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202404022337073.png" alt="图片"></p><p>11、电脑菜单栏上，点击【前往】-【前往文件夹】。<strong>（若菜单栏上，不显示【前往】，在MAC桌面上，点击一下）</strong></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202404022337735.png" alt="图片"></p><p>12、在红框内，粘贴刚才复制的路径，按【回车键】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202404022337012.png" alt="图片"></p><p>13、把安装包里面<strong>红框内的两个文件</strong>，拖拉进刚才打开的【MacOS】文件夹里。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202404022338670.png" alt="图片"></p><p>14、<strong>勾选</strong>【全部应用】，点击【替换】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202404022337655.png" alt="图片"></p><p>15、输入【开机密码】，点击【好】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202404022337803.png" alt="图片"></p><p>16、在【启动台】里，打开【Autodesk(其他)】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202404022337024.png" alt="图片"></p><p>17、打开【Maya】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202404022337547.png" alt="图片"></p><p>18、点击【确定】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202404022337731.png" alt="图片"></p><p>19、等待软件加载。<strong>（第一次打开会比较慢，耐心等待）</strong></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202404022337145.png" alt="图片"></p><p>20、点击【经验丰富】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202404022337560.png" alt="图片"></p><p>21、点击【新建】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202404022337595.png" alt="图片"></p><p>22、安装完成。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202404022337726.png" alt="图片"></p><p>23、<strong>软件切换英文界面:</strong></p><p>在【&#x2F;Applications&#x2F;Autodesk&#x2F;maya2025&#x2F;Maya.app&#x2F;Contents&#x2F;Resources】路径里，找到【zh_CN.lproj】文件夹。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202404022337482.png" alt="图片"></p><p>24、右击【zh_CN.lproj】-【重新命名】，如：把【zh_CN.lproj】改成【zh_CN<strong>88</strong>.lproj】。<strong>（后期若要切换回中文版本，把添加的数字删除掉就行）</strong></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202404022337605.png" alt="图片"></p><p>25、英文界面。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202404022337008.png" alt="图片"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;div class=&quot;tip sync&quot;&gt;&lt;p&gt;安装指南：&lt;br&gt;1、链接：Mac软件目录：&lt;a href=&quot;/Mac/&quot;&gt;点击查看&lt;/a&gt; &amp;emsp;    Mac软件常见报错问题：&lt;a href=&quot;/2023/09/02/MAC/Mac%E8%BD%AF%E4%BB%B6</summary>
+      
+    
+    
+    
+    <category term="Mac软件" scheme="http://www.lumingrj.com/categories/Mac%E8%BD%AF%E4%BB%B6/"/>
+    
+    
+    <category term="Mac软件" scheme="http://www.lumingrj.com/tags/Mac%E8%BD%AF%E4%BB%B6/"/>
+    
+    <category term="Maya" scheme="http://www.lumingrj.com/tags/Maya/"/>
+    
+    <category term="玛雅" scheme="http://www.lumingrj.com/tags/%E7%8E%9B%E9%9B%85/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>兼容M1~M3芯片•VESTA 3.90.0 For Mac版本•英文•软件安装包下载 安装教程步骤•苹果系统 晶体结构可视化</title>
+    <link href="http://www.lumingrj.com/2024/04/03/MAC/VESTA-3.90.0/"/>
+    <id>http://www.lumingrj.com/2024/04/03/MAC/VESTA-3.90.0/</id>
+    <published>2024-04-03T04:45:28.000Z</published>
+    <updated>2024-04-02T15:40:20.243Z</updated>
+    
+    <content type="html"><![CDATA[<div class="tip sync"><p>安装指南：<br>1、链接：Mac软件目录：<a href="/Mac/">点击查看</a> &emsp;    Mac软件常见报错问题：<a href="/2023/09/02/MAC/Mac%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E9%97%AE%E9%A2%98%E7%9B%AE%E5%BD%95/">点击查看</a><br>2、客服：若安装报错问题，自己解决不了，打开安装包内的【联系客服】，添加客服QQ，或点击本网页最上面【联系客服】！</p></div><div class="img-wrap"><div class="img-bg"><img class="img" src="https://bu.dusays.com/2023/11/04/65465bdca4f12.png" style="width:80px;"/></div></div><h3 id=""><a href="#" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">软件详情+下载链接：</span>    </p></section></div></h3><details class="folding-tag" cyan open><summary> 软件详情+下载链接 </summary>              <div class='content'>              <p><mark class="hl-label green">软件名称</mark> <b>：VESTA 3.90.0a For MAC版本</b></p><p><mark class="hl-label green">界面语言</mark> ：英文</p><p><mark class="hl-label green">软件简介</mark> ：晶体结构可视化软件</p><p><mark class="hl-label purple">系统版本</mark> ：Mac 10.12-14.x Sonoma 或更高</p><p><mark class="hl-label purple">兼容芯片</mark> ：支持Intel+M1.M2.M3及更高芯片</p><p><mark class="hl-label green">亲测安装</mark> ：所有资源皆经严格把关、实机安装测试！</p><p><b> [百度网盘丨下载链接]：</b><br><a href="https://pan.baidu.com/s/1BuduyRUeT8BGGCcIMKVt9w?pwd=8866">https://pan.baidu.com/s/1BuduyRUeT8BGGCcIMKVt9w?pwd=8866</a><br><b> [123 云盘丨下载链接]：</b><br><a href="https://www.123pan.com/s/LZZBjv-u6bW.html">https://www.123pan.com/s/LZZBjv-u6bW.html</a></p><div class='checkbox green checked'><input type="radio" checked="checked"/>            <p>下载：下载链接里，下载需要安装的版本即可，不用所有版本全部下载！</p>            </div><div class='checkbox green checked'><input type="radio" checked="checked"/>            <p>客服：打开安装包内的 [联系客服]，添加客服QQ，或点击本网页最上面 [联系客服]！</p>            </div>              </div>            </details><h3 id="-1"><a href="#-1" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">安装教程：</span>    </p></section></div></h3><p>1、双击打开，下载到Mac电脑上的【A.VESTA 3.90.0.dmg】软件安装包。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202404022339263.png" alt="图片"></p><h4 id="-2"><a href="#-2" class="headerlink" title=""></a><mark class="hl-label red">安装前一定要做的：</mark> </h4><p>●输入软件密码，打开安装包后：双击打开安装包左下角的【修复工具】，修复完成后，再返回本教程安装。<b>修复工具操作教程：<a href="/2023/09/18/MAC/WT/003/">点击查看</a></b></p><div style="display:inline-block;"><img style="float:left;" src=https://bu.dusays.com/2023/09/12/64ff44a6dd274.png></div> <p>2、把左面的文件夹，拖拉到右边的文件夹里。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202404022340087.png" alt="图片"></p><p>3、在【启动台】里，打开软件图标。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202404022340345.png" alt="图片"></p><p>4、安装完成。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202404022340309.png" alt="图片"></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202404022340528.png" alt="图片"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;div class=&quot;tip sync&quot;&gt;&lt;p&gt;安装指南：&lt;br&gt;1、链接：Mac软件目录：&lt;a href=&quot;/Mac/&quot;&gt;点击查看&lt;/a&gt; &amp;emsp;    Mac软件常见报错问题：&lt;a href=&quot;/2023/09/02/MAC/Mac%E8%BD%AF%E4%BB%B6</summary>
+      
+    
+    
+    
+    <category term="Mac软件" scheme="http://www.lumingrj.com/categories/Mac%E8%BD%AF%E4%BB%B6/"/>
+    
+    
+    <category term="Mac软件" scheme="http://www.lumingrj.com/tags/Mac%E8%BD%AF%E4%BB%B6/"/>
+    
+    <category term="VESTA" scheme="http://www.lumingrj.com/tags/VESTA/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>兼容M1~M3芯片•draw.io 24.1.0 For Mac版本•中英文•软件安装包下载 安装教程步骤•苹果系统 思维导图</title>
+    <link href="http://www.lumingrj.com/2024/04/03/MAC/draw.io-24.1.0/"/>
+    <id>http://www.lumingrj.com/2024/04/03/MAC/draw.io-24.1.0/</id>
+    <published>2024-04-03T04:45:28.000Z</published>
+    <updated>2024-04-02T15:42:31.104Z</updated>
+    
+    <content type="html"><![CDATA[<div class="tip sync"><p>安装指南：<br>1、链接：Mac软件目录：<a href="/Mac/">点击查看</a> &emsp;    Mac软件常见报错问题：<a href="/2023/09/02/MAC/Mac%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E9%97%AE%E9%A2%98%E7%9B%AE%E5%BD%95/">点击查看</a><br>2、客服：若安装报错问题，自己解决不了，打开安装包内的【联系客服】，添加客服QQ，或点击本网页最上面【联系客服】！</p></div><div class="img-wrap"><div class="img-bg"><img class="img" src="https://bu.dusays.com/2023/09/10/64fd92643a234.png" style="width:80px;"/></div></div><h3 id=""><a href="#" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">软件详情+下载链接：</span>    </p></section></div></h3><details class="folding-tag" cyan open><summary> 软件详情+下载链接 </summary>              <div class='content'>              <p><mark class="hl-label green">软件名称</mark> <b>：draw.io 24.1.0 For MAC版本</b></p><p><mark class="hl-label green">界面语言</mark> ：简体中文+英文</p><p><mark class="hl-label green">软件简介</mark> ：流程图、思维导图等绘图</p><p><mark class="hl-label purple">系统版本</mark> ：Mac 10.15-14.x Sonoma 或更高</p><p><mark class="hl-label purple">兼容芯片</mark> ：支持Intel+M1.M2.M3及更高芯片</p><p><mark class="hl-label green">亲测安装</mark> ：所有资源皆经严格把关、实机安装测试！</p><p><b> [百度网盘丨下载链接]：</b><br><a href="https://pan.baidu.com/s/1i6_8xTlRNgMWD_KY_AlMwA?pwd=8866">https://pan.baidu.com/s/1i6_8xTlRNgMWD_KY_AlMwA?pwd=8866</a><br><b> [123 云盘丨下载链接]：</b><br><a href="https://www.123pan.com/s/LZZBjv-0O7W.html">https://www.123pan.com/s/LZZBjv-0O7W.html</a></p><div class='checkbox green checked'><input type="radio" checked="checked"/>            <p>下载：下载链接里，下载需要安装的版本即可，不用所有版本全部下载！</p>            </div><div class='checkbox green checked'><input type="radio" checked="checked"/>            <p>客服：打开安装包内的 [联系客服]，添加客服QQ，或点击本网页最上面 [联系客服]！</p>            </div>              </div>            </details><h3 id="-1"><a href="#-1" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">安装教程：</span>    </p></section></div></h3><p>1、双击打开，下载到Mac电脑上的【A.draw.io 24.1.0.dmg】软件安装包。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202404022342881.webp" alt="图片"></p><h4 id="-2"><a href="#-2" class="headerlink" title=""></a><mark class="hl-label red">安装前一定要做的：</mark> </h4><p>●输入软件密码，打开安装包后：双击打开安装包左下角的【修复工具】，修复完成后，再返回本教程安装。<b>修复工具操作教程：<a href="/2023/09/18/MAC/WT/003/">点击查看</a></b></p><div style="display:inline-block;"><img style="float:left;" src=https://bu.dusays.com/2023/09/12/64ff44a6dd274.png></div> <p>2、把左面的软件图标，拖拉到右边的文件夹里。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202404022342200.webp" alt="图片"></p><p>3、在【启动台】里，打开软件图标。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202404022342205.webp" alt="图片"></p><p>4、右下角，点击【语言】，选择软件界面语言，点击【创建新绘图】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202404022342085.webp" alt="图片"></p><p>5、点击【创建】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202404022342226.png" alt="图片"></p><p>6、安装完成。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202404022342185.webp" alt="图片"></p><p>7、软件界面语言切换。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202404022342479.png" alt="图片"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;div class=&quot;tip sync&quot;&gt;&lt;p&gt;安装指南：&lt;br&gt;1、链接：Mac软件目录：&lt;a href=&quot;/Mac/&quot;&gt;点击查看&lt;/a&gt; &amp;emsp;    Mac软件常见报错问题：&lt;a href=&quot;/2023/09/02/MAC/Mac%E8%BD%AF%E4%BB%B6</summary>
+      
+    
+    
+    
+    <category term="Mac软件" scheme="http://www.lumingrj.com/categories/Mac%E8%BD%AF%E4%BB%B6/"/>
+    
+    
+    <category term="Mac软件" scheme="http://www.lumingrj.com/tags/Mac%E8%BD%AF%E4%BB%B6/"/>
+    
+    <category term="draw.io" scheme="http://www.lumingrj.com/tags/draw-io/"/>
+    
+  </entry>
   
   <entry>
     <title>Blender 4.1.0 WIN版本•中文英文•软件安装包下载 安装教程步骤•WIN系统•3D动画制作软件</title>
@@ -36,35 +194,9 @@
     <category term="Win软件" scheme="http://www.lumingrj.com/categories/Win%E8%BD%AF%E4%BB%B6/"/>
     
     
-    <category term="Win软件" scheme="http://www.lumingrj.com/tags/Win%E8%BD%AF%E4%BB%B6/"/>
-    
     <category term="Blender" scheme="http://www.lumingrj.com/tags/Blender/"/>
     
-  </entry>
-  
-  <entry>
-    <title>K-Viewer 1.5.3.1 WIN版本•中文英文•软件安装包下载 安装教程步骤•WIN系统•医学病理切片查看软件</title>
-    <link href="http://www.lumingrj.com/2024/04/01/WIN/K-Viewer-1.5.3.1/"/>
-    <id>http://www.lumingrj.com/2024/04/01/WIN/K-Viewer-1.5.3.1/</id>
-    <published>2024-04-01T04:30:28.000Z</published>
-    <updated>2024-03-31T13:13:29.763Z</updated>
-    
-    <content type="html"><![CDATA[<div class="tip sync"><p>安装指南：<br>1、链接：Win软件目录：<a href="/Win/">点击查看</a> &emsp;    Win软件常见报错问题：<a href="/2023/09/06/WIN/WIN%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E9%97%AE%E9%A2%98%E7%9B%AE%E5%BD%95/">点击查看</a><br>2、客服：若安装报错问题，自己解决不了，打开安装包内的【联系客服】，添加客服QQ，或点击本网页最上面【联系客服】！</p></div><div class="img-wrap"><div class="img-bg"><img class="img" src="https://bu.dusays.com/2024/03/31/660960da69812.png" style="width:80px;"/></div></div><h3 id=""><a href="#" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">软件详情+下载链接：</span>    </p></section></div></h3><details class="folding-tag" cyan open><summary> 软件详情+下载链接 </summary>              <div class='content'>              <p><mark class="hl-label green">软件名称</mark> <b>：K-Viewer 1.5.3.1 WIN版本</b></p><p><mark class="hl-label green">界面语言</mark> ：简体中文+英文</p><p><mark class="hl-label green">软件简介</mark> ：KFB医学病理切片查看软件</p><p><mark class="hl-label purple">安装环境</mark> ：WinXP&#x2F;Win7&#x2F;Win8&#x2F;Win10&#x2F;Win11系统</p><p><mark class="hl-label purple">系统位数</mark> ：32+64位</p><p><mark class="hl-label green">亲测安装</mark> ：所有资源皆经严格把关、实机安装测试！</p><p><b> [百度网盘丨下载链接]：</b><br><a href="https://pan.baidu.com/s/1u8sP9Bk3M3BJ_uH3QnoPHA?pwd=8866">https://pan.baidu.com/s/1u8sP9Bk3M3BJ_uH3QnoPHA?pwd=8866</a><br><b> [123 云盘丨下载链接]：</b><br><a href="https://www.123pan.com/s/LZZBjv-f5bW.html">https://www.123pan.com/s/LZZBjv-f5bW.html</a></p><div class='checkbox green checked'><input type="radio" checked="checked"/>            <p>下载：下载链接里，下载需要安装的版本即可，不用所有版本全部下载！</p>            </div><div class='checkbox green checked'><input type="radio" checked="checked"/>            <p>客服：打开安装包内的 [联系客服]，添加客服QQ，或点击本网页最上面 [联系客服]！</p>            </div>              </div>            </details><h3 id="-1"><a href="#-1" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">安装教程：</span>    </p></section></div></h3><mark class="hl-label green">安装说明</mark> <b>：<p>●若杀毒软件弹窗报毒，删除了文件，请在杀毒软件里面恢复出来，恢复教程：<a href="/2023/09/16/WIN/WT/003/">点击查看</a>。<br>●一定要解压成文件夹再安装，不要在【压缩包】里安装，容易出现安装问题。<br></b></p><p>1、右击下载到电脑上的【安装包】，把压缩包解压成文件夹，然后双击打开【A.K-Viewer 1.5.3.1】文件夹。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403312113519.png" alt="图片"></p><p>2、双击打开【Setup.exe】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403312113523.png" alt="图片"></p><p>3、等待一会。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403312113622.png" alt="图片"></p><p>4、点击【下一步】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403312113632.png" alt="图片"></p><p>5、选择【我接受该许可证…】，点击【下一步】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403312113587.png" alt="图片"></p><p>6、默认安装位置为C盘，如要安装到别的盘，更改安装路径后，点击【下一步】。</p><p><strong>1、例如：要安装到D盘，在D盘或D盘其他文件夹里，新建一个英文名+版本号文件夹，然后该安装界面里，点击【更改】，选择到新建的文件夹即可。</strong></p><p><strong>2、说明：软件安装路径中，不要有中文，会导致有些软件安装完，出现弹窗报错、闪退、打不开等问题。</strong></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403312113566.png" alt="图片"></p><p>7、点击【安装】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403312113133.png" alt="图片"></p><p>8、等待安装完成。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403312113124.png" alt="图片"></p><p>9、点击【完成】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403312113402.png" alt="图片"></p><p>10、桌面上，双击打开软件图标。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403312113199.png" alt="图片"></p><p>11、安装完成。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403312113829.png" alt="图片"></p><p>12、软件界面语言切换。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403312113781.png" alt="图片"></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;div class=&quot;tip sync&quot;&gt;&lt;p&gt;安装指南：&lt;br&gt;1、链接：Win软件目录：&lt;a href=&quot;/Win/&quot;&gt;点击查看&lt;/a&gt; &amp;emsp;    Win软件常见报错问题：&lt;a href=&quot;/2023/09/06/WIN/WIN%E8%BD%AF%E4%BB%B6</summary>
-      
-    
-    
-    
-    <category term="Win软件" scheme="http://www.lumingrj.com/categories/Win%E8%BD%AF%E4%BB%B6/"/>
-    
-    
     <category term="Win软件" scheme="http://www.lumingrj.com/tags/Win%E8%BD%AF%E4%BB%B6/"/>
-    
-    <category term="K-Viewer" scheme="http://www.lumingrj.com/tags/K-Viewer/"/>
     
   </entry>
   
@@ -88,9 +220,35 @@
     <category term="Win软件" scheme="http://www.lumingrj.com/categories/Win%E8%BD%AF%E4%BB%B6/"/>
     
     
+    <category term="K-Viewer" scheme="http://www.lumingrj.com/tags/K-Viewer/"/>
+    
     <category term="Win软件" scheme="http://www.lumingrj.com/tags/Win%E8%BD%AF%E4%BB%B6/"/>
     
+  </entry>
+  
+  <entry>
+    <title>K-Viewer 1.5.3.1 WIN版本•中文英文•软件安装包下载 安装教程步骤•WIN系统•医学病理切片查看软件</title>
+    <link href="http://www.lumingrj.com/2024/04/01/WIN/K-Viewer-1.5.3.1/"/>
+    <id>http://www.lumingrj.com/2024/04/01/WIN/K-Viewer-1.5.3.1/</id>
+    <published>2024-04-01T04:30:28.000Z</published>
+    <updated>2024-03-31T13:13:29.763Z</updated>
+    
+    <content type="html"><![CDATA[<div class="tip sync"><p>安装指南：<br>1、链接：Win软件目录：<a href="/Win/">点击查看</a> &emsp;    Win软件常见报错问题：<a href="/2023/09/06/WIN/WIN%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E9%97%AE%E9%A2%98%E7%9B%AE%E5%BD%95/">点击查看</a><br>2、客服：若安装报错问题，自己解决不了，打开安装包内的【联系客服】，添加客服QQ，或点击本网页最上面【联系客服】！</p></div><div class="img-wrap"><div class="img-bg"><img class="img" src="https://bu.dusays.com/2024/03/31/660960da69812.png" style="width:80px;"/></div></div><h3 id=""><a href="#" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">软件详情+下载链接：</span>    </p></section></div></h3><details class="folding-tag" cyan open><summary> 软件详情+下载链接 </summary>              <div class='content'>              <p><mark class="hl-label green">软件名称</mark> <b>：K-Viewer 1.5.3.1 WIN版本</b></p><p><mark class="hl-label green">界面语言</mark> ：简体中文+英文</p><p><mark class="hl-label green">软件简介</mark> ：KFB医学病理切片查看软件</p><p><mark class="hl-label purple">安装环境</mark> ：WinXP&#x2F;Win7&#x2F;Win8&#x2F;Win10&#x2F;Win11系统</p><p><mark class="hl-label purple">系统位数</mark> ：32+64位</p><p><mark class="hl-label green">亲测安装</mark> ：所有资源皆经严格把关、实机安装测试！</p><p><b> [百度网盘丨下载链接]：</b><br><a href="https://pan.baidu.com/s/1u8sP9Bk3M3BJ_uH3QnoPHA?pwd=8866">https://pan.baidu.com/s/1u8sP9Bk3M3BJ_uH3QnoPHA?pwd=8866</a><br><b> [123 云盘丨下载链接]：</b><br><a href="https://www.123pan.com/s/LZZBjv-f5bW.html">https://www.123pan.com/s/LZZBjv-f5bW.html</a></p><div class='checkbox green checked'><input type="radio" checked="checked"/>            <p>下载：下载链接里，下载需要安装的版本即可，不用所有版本全部下载！</p>            </div><div class='checkbox green checked'><input type="radio" checked="checked"/>            <p>客服：打开安装包内的 [联系客服]，添加客服QQ，或点击本网页最上面 [联系客服]！</p>            </div>              </div>            </details><h3 id="-1"><a href="#-1" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">安装教程：</span>    </p></section></div></h3><mark class="hl-label green">安装说明</mark> <b>：<p>●若杀毒软件弹窗报毒，删除了文件，请在杀毒软件里面恢复出来，恢复教程：<a href="/2023/09/16/WIN/WT/003/">点击查看</a>。<br>●一定要解压成文件夹再安装，不要在【压缩包】里安装，容易出现安装问题。<br></b></p><p>1、右击下载到电脑上的【安装包】，把压缩包解压成文件夹，然后双击打开【A.K-Viewer 1.5.3.1】文件夹。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403312113519.png" alt="图片"></p><p>2、双击打开【Setup.exe】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403312113523.png" alt="图片"></p><p>3、等待一会。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403312113622.png" alt="图片"></p><p>4、点击【下一步】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403312113632.png" alt="图片"></p><p>5、选择【我接受该许可证…】，点击【下一步】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403312113587.png" alt="图片"></p><p>6、默认安装位置为C盘，如要安装到别的盘，更改安装路径后，点击【下一步】。</p><p><strong>1、例如：要安装到D盘，在D盘或D盘其他文件夹里，新建一个英文名+版本号文件夹，然后该安装界面里，点击【更改】，选择到新建的文件夹即可。</strong></p><p><strong>2、说明：软件安装路径中，不要有中文，会导致有些软件安装完，出现弹窗报错、闪退、打不开等问题。</strong></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403312113566.png" alt="图片"></p><p>7、点击【安装】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403312113133.png" alt="图片"></p><p>8、等待安装完成。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403312113124.png" alt="图片"></p><p>9、点击【完成】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403312113402.png" alt="图片"></p><p>10、桌面上，双击打开软件图标。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403312113199.png" alt="图片"></p><p>11、安装完成。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403312113829.png" alt="图片"></p><p>12、软件界面语言切换。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403312113781.png" alt="图片"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;div class=&quot;tip sync&quot;&gt;&lt;p&gt;安装指南：&lt;br&gt;1、链接：Win软件目录：&lt;a href=&quot;/Win/&quot;&gt;点击查看&lt;/a&gt; &amp;emsp;    Win软件常见报错问题：&lt;a href=&quot;/2023/09/06/WIN/WIN%E8%BD%AF%E4%BB%B6</summary>
+      
+    
+    
+    
+    <category term="Win软件" scheme="http://www.lumingrj.com/categories/Win%E8%BD%AF%E4%BB%B6/"/>
+    
+    
     <category term="K-Viewer" scheme="http://www.lumingrj.com/tags/K-Viewer/"/>
+    
+    <category term="Win软件" scheme="http://www.lumingrj.com/tags/Win%E8%BD%AF%E4%BB%B6/"/>
     
   </entry>
   
@@ -224,9 +382,9 @@
     <category term="Win软件" scheme="http://www.lumingrj.com/categories/Win%E8%BD%AF%E4%BB%B6/"/>
     
     
-    <category term="Win软件" scheme="http://www.lumingrj.com/tags/Win%E8%BD%AF%E4%BB%B6/"/>
-    
     <category term="VESTA" scheme="http://www.lumingrj.com/tags/VESTA/"/>
+    
+    <category term="Win软件" scheme="http://www.lumingrj.com/tags/Win%E8%BD%AF%E4%BB%B6/"/>
     
   </entry>
   
@@ -250,11 +408,11 @@
     <category term="Mac软件" scheme="http://www.lumingrj.com/categories/Mac%E8%BD%AF%E4%BB%B6/"/>
     
     
+    <category term="Mac软件" scheme="http://www.lumingrj.com/tags/Mac%E8%BD%AF%E4%BB%B6/"/>
+    
     <category term="AI" scheme="http://www.lumingrj.com/tags/AI/"/>
     
     <category term="Illustrator" scheme="http://www.lumingrj.com/tags/Illustrator/"/>
-    
-    <category term="Mac软件" scheme="http://www.lumingrj.com/tags/Mac%E8%BD%AF%E4%BB%B6/"/>
     
   </entry>
   
@@ -278,9 +436,9 @@
     <category term="Mac软件" scheme="http://www.lumingrj.com/categories/Mac%E8%BD%AF%E4%BB%B6/"/>
     
     
-    <category term="Blender" scheme="http://www.lumingrj.com/tags/Blender/"/>
-    
     <category term="Mac软件" scheme="http://www.lumingrj.com/tags/Mac%E8%BD%AF%E4%BB%B6/"/>
+    
+    <category term="Blender" scheme="http://www.lumingrj.com/tags/Blender/"/>
     
   </entry>
   
@@ -304,9 +462,9 @@
     <category term="Mac软件" scheme="http://www.lumingrj.com/categories/Mac%E8%BD%AF%E4%BB%B6/"/>
     
     
-    <category term="CSP" scheme="http://www.lumingrj.com/tags/CSP/"/>
-    
     <category term="Mac软件" scheme="http://www.lumingrj.com/tags/Mac%E8%BD%AF%E4%BB%B6/"/>
+    
+    <category term="CSP" scheme="http://www.lumingrj.com/tags/CSP/"/>
     
   </entry>
   
@@ -330,9 +488,9 @@
     <category term="Mac软件" scheme="http://www.lumingrj.com/categories/Mac%E8%BD%AF%E4%BB%B6/"/>
     
     
-    <category term="Fiji" scheme="http://www.lumingrj.com/tags/Fiji/"/>
-    
     <category term="Mac软件" scheme="http://www.lumingrj.com/tags/Mac%E8%BD%AF%E4%BB%B6/"/>
+    
+    <category term="Fiji" scheme="http://www.lumingrj.com/tags/Fiji/"/>
     
   </entry>
   
@@ -356,9 +514,9 @@
     <category term="Mac软件" scheme="http://www.lumingrj.com/categories/Mac%E8%BD%AF%E4%BB%B6/"/>
     
     
-    <category term="ImageJ" scheme="http://www.lumingrj.com/tags/ImageJ/"/>
-    
     <category term="Mac软件" scheme="http://www.lumingrj.com/tags/Mac%E8%BD%AF%E4%BB%B6/"/>
+    
+    <category term="ImageJ" scheme="http://www.lumingrj.com/tags/ImageJ/"/>
     
   </entry>
   
@@ -385,166 +543,6 @@
     <category term="Mac软件" scheme="http://www.lumingrj.com/tags/Mac%E8%BD%AF%E4%BB%B6/"/>
     
     <category term="MacTeX" scheme="http://www.lumingrj.com/tags/MacTeX/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>兼容M1~M3芯片•Neural Filters 神经网络滤镜 For Mac版本•中文•软件安装包下载 安装教程步骤•苹果系统</title>
-    <link href="http://www.lumingrj.com/2024/03/31/MAC/Neural-Filters-2024.2/"/>
-    <id>http://www.lumingrj.com/2024/03/31/MAC/Neural-Filters-2024.2/</id>
-    <published>2024-03-31T04:45:28.000Z</published>
-    <updated>2024-03-30T13:24:54.578Z</updated>
-    
-    <content type="html"><![CDATA[<div class="tip sync"><p>安装指南：<br>1、链接：Mac软件目录：<a href="/Mac/">点击查看</a> &emsp;    Mac软件常见报错问题：<a href="/2023/09/02/MAC/Mac%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E9%97%AE%E9%A2%98%E7%9B%AE%E5%BD%95/">点击查看</a><br>2、客服：若安装报错问题，自己解决不了，打开安装包内的【联系客服】，添加客服QQ，或点击本网页最上面【联系客服】！</p></div><div class="img-wrap"><div class="img-bg"><img class="img" src="https://bu.dusays.com/2024/03/10/65ed55e325431.png" style="width:80px;"/></div></div><h3 id=""><a href="#" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">软件详情+下载链接：</span>    </p></section></div></h3><details class="folding-tag" cyan open><summary> 软件详情+下载链接 </summary>              <div class='content'>              <p><mark class="hl-label green">软件名称</mark> <b>：Neural Filters 神经网络滤镜 2024年2月版•<mark class="hl-label green">激活版</mark> </b></p><p><mark class="hl-label green">界面语言</mark> ：简体中文</p><p><mark class="hl-label green">软件兼容</mark> ：支持PS 2022-2024 及更高版本</p><p><mark class="hl-label purple">系统版本</mark> ：Mac 10.15-14.x Sonoma 或更高</p><p><mark class="hl-label purple">兼容芯片</mark> ：支持Intel+M1.M2.M3及更高芯片</p><p><mark class="hl-label green">亲测安装</mark> ：所有资源皆经严格把关、实机安装测试！</p><p><b> [百度网盘丨下载链接]：</b><br><a href="https://pan.baidu.com/s/1pY8PwTp8DtDdEWAC6Vx2rg?pwd=8866">https://pan.baidu.com/s/1pY8PwTp8DtDdEWAC6Vx2rg?pwd=8866</a><br><b> [123 云盘丨下载链接]：</b><br><a href="https://www.123pan.com/s/LZZBjv-8G7W.html">https://www.123pan.com/s/LZZBjv-8G7W.html</a></p><div class='checkbox green checked'><input type="radio" checked="checked"/>            <p>下载：下载链接里，下载需要安装的版本即可，不用所有版本全部下载！</p>            </div><div class='checkbox green checked'><input type="radio" checked="checked"/>            <p>客服：打开安装包内的 [联系客服]，添加客服QQ，或点击本网页最上面 [联系客服]！</p>            </div>              </div>            </details><h3 id="-1"><a href="#-1" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">安装教程：</span>    </p></section></div></h3><h4 id="-2"><a href="#-2" class="headerlink" title=""></a><mark class="hl-label red">说明</mark> </h4><p><b>电脑上需要已经安装了PS软件，支持PS 2022-2024及更高版本</b></p><p>1、关闭PS软件。双击打开，下载到Mac电脑上的【A.Neural Filters 神经网络滤镜.dmg】软件安装包。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403302123283.webp" alt="图片"></p><p>2、双击打开【文件路径】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403302124024.webp" alt="图片"></p><p>3、<strong>复制</strong>里面的路径。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403302124177.webp" alt="图片"></p><p>4、电脑最上面的菜单栏上，点击【前往】-【前往文件夹】。<strong>（若菜单栏上，不显示【前往】，在电脑桌面上，点击一下就显示了）</strong></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403302124185.webp" alt="图片"></p><p>5、红框内，粘贴路径，按【回车键】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403302124156.webp" alt="图片"></p><p>6、双击打开PS版本号文件夹。<strong>（安装的PS版本不一样，打开的文件夹不一样：PS2022是23、PS2023是24、PS2024是25）</strong></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403302124151.webp" alt="图片"></p><p>7、双击打开【Internal】文件夹。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403302124159.webp" alt="图片"></p><p>8、把安装包内的【com.adobe.nfp.gallery】文件夹，拖拉到打开的【Internal】文件夹里。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403302124536.webp" alt="图片"></p><p>9、点击【替换】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403302124540.webp" alt="图片"></p><p>10、等待复制完成。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403302124539.webp" alt="图片"></p><p>11、在【启动台】里，打开PS软件图标。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403302124797.webp" alt="图片"></p><p>12、菜单栏上，点击【帮助】，看下有没有登录【Adobe ID】。<strong>（没有登录，需要登录下）</strong></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403302124836.webp" alt="图片"></p><p>13、菜单栏上，点击【滤镜】-【Neural Filters】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403302124805.webp" alt="图片"></p><p>14、安装完成。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403302124831.webp" alt="图片"></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403302124894.webp" alt="图片"></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;div class=&quot;tip sync&quot;&gt;&lt;p&gt;安装指南：&lt;br&gt;1、链接：Mac软件目录：&lt;a href=&quot;/Mac/&quot;&gt;点击查看&lt;/a&gt; &amp;emsp;    Mac软件常见报错问题：&lt;a href=&quot;/2023/09/02/MAC/Mac%E8%BD%AF%E4%BB%B6</summary>
-      
-    
-    
-    
-    <category term="Mac软件" scheme="http://www.lumingrj.com/categories/Mac%E8%BD%AF%E4%BB%B6/"/>
-    
-    
-    <category term="Neural Filters" scheme="http://www.lumingrj.com/tags/Neural-Filters/"/>
-    
-    <category term="Mac软件" scheme="http://www.lumingrj.com/tags/Mac%E8%BD%AF%E4%BB%B6/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>兼容M1~M3芯片•PS 2024v25.4 For Mac版本•中文•软件安装包下载 安装教程步骤•苹果系统PhotoShop</title>
-    <link href="http://www.lumingrj.com/2024/03/31/MAC/PS-2024v25.4/"/>
-    <id>http://www.lumingrj.com/2024/03/31/MAC/PS-2024v25.4/</id>
-    <published>2024-03-31T04:45:28.000Z</published>
-    <updated>2024-03-30T13:18:40.081Z</updated>
-    
-    <content type="html"><![CDATA[<div class="tip sync"><p>安装指南：<br>1、链接：Mac软件目录：<a href="/Mac/">点击查看</a> &emsp;    Mac软件常见报错问题：<a href="/2023/09/02/MAC/Mac%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E9%97%AE%E9%A2%98%E7%9B%AE%E5%BD%95/">点击查看</a><br>2、客服：若安装报错问题，自己解决不了，打开安装包内的【联系客服】，添加客服QQ，或点击本网页最上面【联系客服】！</p></div><div class="img-wrap"><div class="img-bg"><img class="img" src="https://bu.dusays.com/2023/11/06/6547d65dc1b9d.png" style="width:80px;"/></div></div><h3 id=""><a href="#" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">软件详情+下载链接：</span>    </p></section></div></h3><details class="folding-tag" cyan open><summary> 软件详情+下载链接 </summary>              <div class='content'>              <p><mark class="hl-label green">软件名称</mark> <b>：PS 2024 v25.4 (PhotoShop) For MAC版本•<mark class="hl-label green">激活版</mark> </b></p><p><mark class="hl-label green">界面语言</mark> ：简体中文</p><p><mark class="hl-label green">软件简介</mark> ：PS 图片处理编辑软件</p><p><mark class="hl-label purple">系统版本</mark> ：Mac 11.0-14.x Sonoma 或更高</p><p><mark class="hl-label purple">兼容芯片</mark> ：支持Intel+M1.M2.M3及更高芯片</p><p><mark class="hl-label green">亲测安装</mark> ：所有资源皆经严格把关、实机安装测试！</p><p><b> [百度网盘丨下载链接]：</b><br><a href="https://pan.baidu.com/s/1pY8PwTp8DtDdEWAC6Vx2rg?pwd=8866">https://pan.baidu.com/s/1pY8PwTp8DtDdEWAC6Vx2rg?pwd=8866</a><br><b> [123 云盘丨下载链接]：</b><br><a href="https://www.123pan.com/s/LZZBjv-8G7W.html">https://www.123pan.com/s/LZZBjv-8G7W.html</a></p><div class='checkbox green checked'><input type="radio" checked="checked"/>            <p>下载：下载链接里，下载需要安装的版本即可，不用所有版本全部下载！</p>            </div><div class='checkbox green checked'><input type="radio" checked="checked"/>            <p>客服：打开安装包内的 [联系客服]，添加客服QQ，或点击本网页最上面 [联系客服]！</p>            </div>              </div>            </details><h3 id="-1"><a href="#-1" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">安装教程：</span>    </p></section></div></h3><p>1、双击打开，下载到Mac电脑上的【A.PS 2024v25.4.dmg】软件安装包。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403302116996.webp" alt="图片"></p><h4 id="-2"><a href="#-2" class="headerlink" title=""></a><mark class="hl-label red">安装前一定要做的：</mark> </h4><p>●1)、输入软件密码，打开安装包后：双击打开安装包左下角的【修复工具】，修复完成后，再返回本教程安装。<b>修复工具操作教程：<a href="/2023/09/18/MAC/WT/003/">点击查看</a></b></p><div style="display:inline-block;"><img style="float:left;" src=https://bu.dusays.com/2023/09/12/64ff44a6dd274.png></div> <p>●2)、打开安装包左上角内的【必备组件】文件夹，安装组件，2选1，安装其中1个即可。（若Mac电脑里安装过该组件，可以不用重复安装，可忽略这步）<b>AntiCC组件安装教程：<a href="/2023/09/23/MAC/AntiCC-6.1/">点击查看</a> &emsp;    Creative Cloud组件安装教程：<a href="/2023/09/23/MAC/Creative%20Cloud/">点击查看</a></b></p><div style="display:inline-block;"><img style="float:left;" src=https://bu.dusays.com/2023/09/12/64ff44a67cbaa.jpg></div> <p>2、双击打开【Install】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403302117449.webp" alt="图片"></p><p>3、输入字母【<strong>Y</strong>】，按【回车键】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403302117383.webp" alt="图片"></p><p>4、输入【开机密码】，按【回车键】。<strong>（这里输入开机密码的时候，是不显示开机密码的，正常输入就行）</strong></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403302117389.webp" alt="图片"></p><p>5、等待安装完成。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403302117408.webp" alt="图片"></p><p>6、显示【进程已完成】，关闭该窗口。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403302117403.webp" alt="图片"></p><p>7、返回安装包，双击打开【激活】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403302117423.webp" alt="图片"></p><p>8、点击【继续】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403302117024.webp" alt="图片"></p><p>9、点击【继续】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403302117978.webp" alt="图片"></p><p>10、<strong>只勾选【Photoshop v25.4】</strong>，点击【安装】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403302117054.webp" alt="图片"></p><p>11、输入【开机密码】，点击【安装软件】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403302117225.webp" alt="图片"></p><p>12、点击【关闭】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403302117558.webp" alt="图片"></p><p>13、返回安装包，双击打开【Clean】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403302117732.webp" alt="图片"></p><p>14、点击【继续】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403302117364.webp" alt="图片"></p><p>15、点击【继续】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403302117495.webp" alt="图片"></p><p>16、<strong>只勾选第2项【Remove Genuine Service】</strong>，点击【安装】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403302117444.webp" alt="图片"></p><p>17、输入【开机密码】，点击【安装软件】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403302117691.webp" alt="图片"></p><p>18、点击【关闭】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403302117357.webp" alt="图片"></p><p>19、在【启动台】里，打开软件图标。<strong>（若有访问权限弹窗，全部点击【好】&#x2F;【允许】）</strong></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403302117308.webp" alt="图片"></p><p>20、安装完成。**(注：若电脑里安装了【Creative Cloud】组件，需要关闭自动更新，关闭更新教程：**<a href="/2023/09/23/MAC/Creative%20Cloud%E5%8F%96%E6%B6%88%E6%9B%B4%E6%96%B0/"><strong>点击查看</strong></a><strong>)</strong></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403302117632.webp" alt="图片"></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403302117907.webp" alt="图片"></p><p>21、<strong>Neural Filters 神经网络滤镜：</strong>菜单栏上，点击【帮助】，看下有没有登录【Adobe ID】。<strong>（没有登录，需要登录下）</strong></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403302117062.webp" alt="图片"></p><p>22、菜单栏上，点击【滤镜】-【Neural Filters】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403302117182.png" alt="图片"></p><p>23、选择滤镜，点击【下载】。<strong>（说明：若在PS软件内下载不了。PS下载链接里，有Neural Filters离线包，直接安装Neural Filters离线包即可）</strong></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403302117773.webp" alt="图片"></p><p>24、等待下载完成。<strong>（说明：若在PS软件内下载不了。PS下载链接里，有Neural Filters离线包，直接安装Neural Filters离线包即可）</strong></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403302117870.webp" alt="图片"></p><p>25、下载完成后就可以用了。<strong>（说明：若在PS软件内下载不了。PS下载链接里，有Neural Filters离线包，直接安装Neural Filters离线包即可）</strong></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403302117338.png" alt="图片"></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;div class=&quot;tip sync&quot;&gt;&lt;p&gt;安装指南：&lt;br&gt;1、链接：Mac软件目录：&lt;a href=&quot;/Mac/&quot;&gt;点击查看&lt;/a&gt; &amp;emsp;    Mac软件常见报错问题：&lt;a href=&quot;/2023/09/02/MAC/Mac%E8%BD%AF%E4%BB%B6</summary>
-      
-    
-    
-    
-    <category term="Mac软件" scheme="http://www.lumingrj.com/categories/Mac%E8%BD%AF%E4%BB%B6/"/>
-    
-    
-    <category term="PS" scheme="http://www.lumingrj.com/tags/PS/"/>
-    
-    <category term="PhotoShop" scheme="http://www.lumingrj.com/tags/PhotoShop/"/>
-    
-    <category term="Mac软件" scheme="http://www.lumingrj.com/tags/Mac%E8%BD%AF%E4%BB%B6/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Adobe Acrobat Pro 2024 WIN版本•中文英文•软件安装包下载 安装教程步骤•WIN系统•PDF编辑阅读转换</title>
-    <link href="http://www.lumingrj.com/2024/03/28/WIN/Acrobat-Pro-2024/"/>
-    <id>http://www.lumingrj.com/2024/03/28/WIN/Acrobat-Pro-2024/</id>
-    <published>2024-03-28T04:30:28.000Z</published>
-    <updated>2024-03-27T15:28:36.992Z</updated>
-    
-    <content type="html"><![CDATA[<div class="tip sync"><p>安装指南：<br>1、链接：Win软件目录：<a href="/Win/">点击查看</a> &emsp;    Win软件常见报错问题：<a href="/2023/09/06/WIN/WIN%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E9%97%AE%E9%A2%98%E7%9B%AE%E5%BD%95/">点击查看</a><br>2、客服：若安装报错问题，自己解决不了，打开安装包内的【联系客服】，添加客服QQ，或点击本网页最上面【联系客服】！</p></div><div class="img-wrap"><div class="img-bg"><img class="img" src="https://bu.dusays.com/2023/09/08/64fb4434c2f75.png" style="width:80px;"/></div></div><h3 id=""><a href="#" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">软件详情+下载链接：</span>    </p></section></div></h3><details class="folding-tag" cyan open><summary> 软件详情+下载链接 </summary>              <div class='content'>              <p><mark class="hl-label green">软件名称</mark> <b>：Acrobat Pro 2024.001.20615 WIN版本•<mark class="hl-label green">激活版</mark> </b></p><p><mark class="hl-label green">界面语言</mark> ：简体中文+英文</p><p><mark class="hl-label green">软件简介</mark> ：PDF编辑、阅读、格式转换</p><p><mark class="hl-label purple">安装环境</mark> ：Win10&#x2F;Win11系统</p><p><mark class="hl-label purple">系统位数</mark> ：64位</p><p><mark class="hl-label green">亲测安装</mark> ：所有资源皆经严格把关、实机安装测试！</p><p><b> [百度网盘丨下载链接]：</b><br><a href="https://pan.baidu.com/s/107BZtbiM5X5QxusARknsNg?pwd=8866">https://pan.baidu.com/s/107BZtbiM5X5QxusARknsNg?pwd=8866</a><br><b> [123 云盘丨下载链接]：</b><br><a href="https://www.123pan.com/s/LZZBjv-vZbW.html">https://www.123pan.com/s/LZZBjv-vZbW.html</a></p><div class='checkbox green checked'><input type="radio" checked="checked"/>            <p>下载：下载链接里，下载需要安装的版本即可，不用所有版本全部下载！</p>            </div><div class='checkbox green checked'><input type="radio" checked="checked"/>            <p>客服：打开安装包内的 [联系客服]，添加客服QQ，或点击本网页最上面 [联系客服]！</p>            </div>              </div>            </details><h3 id="-1"><a href="#-1" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">安装教程：</span>    </p></section></div></h3><mark class="hl-label green">安装说明</mark> <b>：<p>●若杀毒软件弹窗报毒，删除了文件，请在杀毒软件里面恢复出来，恢复教程：<a href="/2023/09/16/WIN/WT/003/">点击查看</a>。<br>●一定要解压成文件夹再安装，不要在【压缩包】里安装，容易出现安装问题。<br></b></p><p><b><mark class="hl-label red">断网安装：需要关闭电脑网络，断网安装</mark> </b>，<b><mark class="hl-label red">关闭杀毒：需要关闭杀毒软件，进行安装</mark> </b></p><p>1、右击下载到电脑上的【压缩包】，把压缩包解压成文件夹，然后双击打开【A.Acrobat Pro 2024.001.20615】文件夹。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403272327523.png" alt="图片"></p><p>2、双击打开【Setup】文件夹。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403272327517.png" alt="图片"></p><p>3、双击【autoplay.exe】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403272327565.png" alt="图片"></p><p>4、点击【Install】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403272327601.png" alt="图片"></p><p>5、等待一会。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403272327547.png" alt="图片"></p><p>6、点击【自定义】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403272327542.png" alt="图片"></p><p>7、默认安装位置为C盘，如要安装到别的盘，更改安装路径后，点击【安装】。</p><p><strong>1、例如：要安装到D盘，在D盘或D盘其他文件夹里，新建一个英文名+版本号文件夹，然后该安装界面里，点击【更改】，选择到新建的文件夹即可。</strong></p><p><strong>2、说明：软件安装路径中，不要有中文，会导致有些软件安装完，出现弹窗报错、闪退、打不开等问题。</strong></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403272327977.png" alt="图片"></p><p>8、等待安装完成。<strong>（安装比较慢，耐心等待）</strong></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403272327017.png" alt="图片"></p><p>9、点击【完成】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403272327158.png" alt="图片"></p><p>10、返回安装包，双击打开【修复OCR中文语言.exe】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403272327728.png" alt="图片"></p><p>11、点击【是】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403272327766.png" alt="图片"></p><p>12、等待安装完成。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403272327796.png" alt="图片"></p><p>13、点击【是】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403272327563.png" alt="图片"></p><p>14、返回安装包，<strong>复制</strong>【Crack.exe】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403272327611.png" alt="图片"></p><p>15、电脑左下角，开始程序里，把软件图标，拖拉到桌面上。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403272327007.png" alt="图片"></p><p>16、桌面上，右击【软件图标】-【打开文件所在的位置】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403272327236.png" alt="图片"></p><p>17、在空白处，右击粘贴。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403272327614.png" alt="图片"></p><p>18、点击【继续】。<strong>（没有可忽略）</strong></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403272327317.png" alt="图片"></p><p>19、右击粘贴好的【Crack.exe】-【以管理员身份运行】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403272328220.png" alt="图片"></p><p>20、点击【应用】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403272327994.png" alt="图片"></p><p>21、出现红框内的选项，点击【X】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403272327513.png" alt="图片"></p><p>22、桌面上，双击打开软件图标。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403272327717.png" alt="图片"></p><p>23、安装完成。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403272327028.png" alt="图片"></p><p>24、软件界面语言切换：</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403272327711.png" alt="图片"></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403272327697.png" alt="图片"></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403272327923.png" alt="图片"></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;div class=&quot;tip sync&quot;&gt;&lt;p&gt;安装指南：&lt;br&gt;1、链接：Win软件目录：&lt;a href=&quot;/Win/&quot;&gt;点击查看&lt;/a&gt; &amp;emsp;    Win软件常见报错问题：&lt;a href=&quot;/2023/09/06/WIN/WIN%E8%BD%AF%E4%BB%B6</summary>
-      
-    
-    
-    
-    <category term="Win软件" scheme="http://www.lumingrj.com/categories/Win%E8%BD%AF%E4%BB%B6/"/>
-    
-    
-    <category term="Win软件" scheme="http://www.lumingrj.com/tags/Win%E8%BD%AF%E4%BB%B6/"/>
-    
-    <category term="Acrobat Pro" scheme="http://www.lumingrj.com/tags/Acrobat-Pro/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>BR 2024 v14.0.2 WIN版本•中文英文•软件安装包下载 安装教程步骤•WIN系统•Bridge图像浏览设计管理软件</title>
-    <link href="http://www.lumingrj.com/2024/03/28/WIN/BR-2024v14.0.2/"/>
-    <id>http://www.lumingrj.com/2024/03/28/WIN/BR-2024v14.0.2/</id>
-    <published>2024-03-28T04:30:28.000Z</published>
-    <updated>2024-03-27T15:30:45.250Z</updated>
-    
-    <content type="html"><![CDATA[<div class="tip sync"><p>安装指南：<br>1、链接：Win软件目录：<a href="/Win/">点击查看</a> &emsp;    Win软件常见报错问题：<a href="/2023/09/06/WIN/WIN%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E9%97%AE%E9%A2%98%E7%9B%AE%E5%BD%95/">点击查看</a><br>2、客服：若安装报错问题，自己解决不了，打开安装包内的【联系客服】，添加客服QQ，或点击本网页最上面【联系客服】！</p></div><div class="img-wrap"><div class="img-bg"><img class="img" src="https://bu.dusays.com/2023/11/06/6547d5c0907f0.png" style="width:80px;"/></div></div><h3 id=""><a href="#" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">软件详情+下载链接：</span>    </p></section></div></h3><details class="folding-tag" cyan open><summary> 软件详情+下载链接 </summary>              <div class='content'>              <p><mark class="hl-label green">软件名称</mark> <b>：BR 2024v14.0.2 (Bridge) WIN版本•<mark class="hl-label green">激活版</mark> </b></p><p><mark class="hl-label green">界面语言</mark> ：简体中文+英文</p><p><mark class="hl-label green">软件简介</mark> ：BR 图像浏览设计管理软件</p><p><mark class="hl-label purple">安装环境</mark> ：Win10&#x2F;Win11系统</p><p><mark class="hl-label purple">系统位数</mark> ：64位</p><p><mark class="hl-label green">亲测安装</mark> ：所有资源皆经严格把关、实机安装测试！</p><p><b> [百度网盘丨下载链接]：</b><br><a href="https://pan.baidu.com/s/1n2NIXh9Zmx997gDQ1zeu1A?pwd=8866">https://pan.baidu.com/s/1n2NIXh9Zmx997gDQ1zeu1A?pwd=8866</a><br><b> [123 云盘丨下载链接]：</b><br><a href="https://www.123pan.com/s/LZZBjv-dZbW.html">https://www.123pan.com/s/LZZBjv-dZbW.html</a></p><div class='checkbox green checked'><input type="radio" checked="checked"/>            <p>下载：下载链接里，下载需要安装的版本即可，不用所有版本全部下载！</p>            </div><div class='checkbox green checked'><input type="radio" checked="checked"/>            <p>客服：打开安装包内的 [联系客服]，添加客服QQ，或点击本网页最上面 [联系客服]！</p>            </div>              </div>            </details><h3 id="-1"><a href="#-1" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">安装教程：</span>    </p></section></div></h3><mark class="hl-label green">安装说明</mark> <b>：<p>●若杀毒软件弹窗报毒，删除了文件，请在杀毒软件里面恢复出来，恢复教程：<a href="/2023/09/16/WIN/WT/003/">点击查看</a>。<br>●一定要解压成文件夹再安装，不要在【压缩包】里安装，容易出现安装问题。<br></b></p><p><b><mark class="hl-label red">断网安装：需要关闭电脑网络，断网安装</mark> </b>，<b><mark class="hl-label red">关闭杀毒：需要关闭杀毒软件，进行安装</mark> </b></p><p>1、右击下载到电脑上的【压缩包】，把压缩包解压成文件夹，然后双击打开【A.BR 2024 v14.0.2】文件夹。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403272330533.png" alt="图片"></p><p>2、双击【autoplay.exe】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403272330537.png" alt="图片"></p><p>3、点击【Install】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403272330585.png" alt="图片"></p><p>4、默认安装位置为C盘，如需更改安装位置，点击红框内的文件夹按钮，更改完安装位置，点击【继续】。</p><p><strong>1）、若未弹出该窗口，打开安装包内【Adobe 2024】文件夹，双击打开【Set-up.exe】文件也可以；</strong></p><p><strong>2）、软件安装路径，不要有中文和特殊符号，会导致有些软件出现报错、闪退等问题。</strong></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403272330579.png" alt="图片"></p><p>5、等待安装完成。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403272330628.png" alt="图片"></p><p>6、点击【关闭】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403272330642.png" alt="图片"></p><p>7、电脑左下角，开始程序里，把【BR 2024】软件图标，拖拉到电脑桌面上。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403272330409.png" alt="图片"></p><p>8、桌面上，双击打开软件图标。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403272330339.png" alt="图片"></p><p>9、点击【X】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403272330608.png" alt="图片"></p><p>10、安装完成。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403272330795.png" alt="图片"></p><p>11、软件界面语言切换。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403272330841.png" alt="图片"></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403272330006.png" alt="图片"></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;div class=&quot;tip sync&quot;&gt;&lt;p&gt;安装指南：&lt;br&gt;1、链接：Win软件目录：&lt;a href=&quot;/Win/&quot;&gt;点击查看&lt;/a&gt; &amp;emsp;    Win软件常见报错问题：&lt;a href=&quot;/2023/09/06/WIN/WIN%E8%BD%AF%E4%BB%B6</summary>
-      
-    
-    
-    
-    <category term="Win软件" scheme="http://www.lumingrj.com/categories/Win%E8%BD%AF%E4%BB%B6/"/>
-    
-    
-    <category term="Win软件" scheme="http://www.lumingrj.com/tags/Win%E8%BD%AF%E4%BB%B6/"/>
-    
-    <category term="BR" scheme="http://www.lumingrj.com/tags/BR/"/>
-    
-    <category term="Bridge" scheme="http://www.lumingrj.com/tags/Bridge/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Diamond 4.6.6 WIN版本•英文•软件安装包下载 安装教程步骤•WIN系统•晶体结构可视化软件</title>
-    <link href="http://www.lumingrj.com/2024/03/28/WIN/Diamond-4.6.6/"/>
-    <id>http://www.lumingrj.com/2024/03/28/WIN/Diamond-4.6.6/</id>
-    <published>2024-03-28T04:30:28.000Z</published>
-    <updated>2024-03-27T15:36:51.379Z</updated>
-    
-    <content type="html"><![CDATA[<div class="tip sync"><p>安装指南：<br>1、链接：Win软件目录：<a href="/Win/">点击查看</a> &emsp;    Win软件常见报错问题：<a href="/2023/09/06/WIN/WIN%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E9%97%AE%E9%A2%98%E7%9B%AE%E5%BD%95/">点击查看</a><br>2、客服：若安装报错问题，自己解决不了，打开安装包内的【联系客服】，添加客服QQ，或点击本网页最上面【联系客服】！</p></div><div class="img-wrap"><div class="img-bg"><img class="img" src="https://bu.dusays.com/2024/03/27/66043c4bc3088.png" style="width:80px;"/></div></div><h3 id=""><a href="#" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">软件详情+下载链接：</span>    </p></section></div></h3><details class="folding-tag" cyan open><summary> 软件详情+下载链接 </summary>              <div class='content'>              <p><mark class="hl-label green">软件名称</mark> <b>：Diamond 4.6.6 WIN版本•<mark class="hl-label green">激活版</mark> </b></p><p><mark class="hl-label green">界面语言</mark> ：英文</p><p><mark class="hl-label green">软件简介</mark> ：晶体结构可视化软件</p><p><mark class="hl-label purple">安装环境</mark> ：Win7&#x2F;Win8&#x2F;Win10&#x2F;Win11系统</p><p><mark class="hl-label purple">系统位数</mark> ：32+64位</p><p><mark class="hl-label green">亲测安装</mark> ：所有资源皆经严格把关、实机安装测试！</p><p><b> [百度网盘丨下载链接]：</b><br><a href="https://pan.baidu.com/s/173CdcIPPJ3pSmUyMxBJa9Q?pwd=8866">https://pan.baidu.com/s/173CdcIPPJ3pSmUyMxBJa9Q?pwd=8866</a><br><b> [123 云盘丨下载链接]：</b><br><a href="https://www.123pan.com/s/LZZBjv-3ZbW.html">https://www.123pan.com/s/LZZBjv-3ZbW.html</a></p><div class='checkbox green checked'><input type="radio" checked="checked"/>            <p>下载：下载链接里，下载需要安装的版本即可，不用所有版本全部下载！</p>            </div><div class='checkbox green checked'><input type="radio" checked="checked"/>            <p>客服：打开安装包内的 [联系客服]，添加客服QQ，或点击本网页最上面 [联系客服]！</p>            </div>              </div>            </details><h3 id="-1"><a href="#-1" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">安装教程：</span>    </p></section></div></h3><mark class="hl-label green">安装说明</mark> <b>：<p>●若杀毒软件弹窗报毒，删除了文件，请在杀毒软件里面恢复出来，恢复教程：<a href="/2023/09/16/WIN/WT/003/">点击查看</a>。<br>●一定要解压成文件夹再安装，不要在【压缩包】里安装，容易出现安装问题。<br></b></p><p>1、右击下载到电脑上的【压缩包】，把压缩包解压成文件夹，然后双击打开【A.Diamond 4.6.6】文件夹。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403272336838.webp" alt="图片"></p><p>2、<strong>复制</strong>【Diamond 4.6.6】文件夹。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403272336843.webp" alt="图片"></p><p>3、在软件常安装位置里粘贴，然后双击打开粘贴好的【Diamond 4.6.6】文件夹。</p><p><strong>注1：此版本为免安装版本，复制粘贴到哪就是安装到哪。</strong></p><p><strong>注2：软件安装路径，不要有中文和特殊符号，会导致有些软件出现报错、闪退等问题。</strong></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403272336554.webp" alt="图片"></p><p>4、右击【Diamond.exe】-【发送到】-【桌面快捷键】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403272336341.png" alt="图片"></p><p>5、电脑桌面上，这个图标快捷键的名字，可以根据自己需要更改。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403272336852.png" alt="图片"></p><p>6、桌面上，双击打开软件图标。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403272336946.webp" alt="图片"></p><p>7、点击【否】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403272336375.webp" alt="图片"></p><p>8、软件菜单栏上，点击【Tools】-【Options】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403272336658.webp" alt="图片"></p><p>9、在【Desktop】里，<strong>取消勾选</strong>【Check for available updates】，点击【确定】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403272336653.webp" alt="图片"></p><p>10、安装完成。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403272336108.webp" alt="图片"></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403272336710.webp" alt="图片"></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;div class=&quot;tip sync&quot;&gt;&lt;p&gt;安装指南：&lt;br&gt;1、链接：Win软件目录：&lt;a href=&quot;/Win/&quot;&gt;点击查看&lt;/a&gt; &amp;emsp;    Win软件常见报错问题：&lt;a href=&quot;/2023/09/06/WIN/WIN%E8%BD%AF%E4%BB%B6</summary>
-      
-    
-    
-    
-    <category term="Win软件" scheme="http://www.lumingrj.com/categories/Win%E8%BD%AF%E4%BB%B6/"/>
-    
-    
-    <category term="Win软件" scheme="http://www.lumingrj.com/tags/Win%E8%BD%AF%E4%BB%B6/"/>
-    
-    <category term="Diamond" scheme="http://www.lumingrj.com/tags/Diamond/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Diamond 3.2 WIN版本•英文•软件安装包下载 安装教程步骤•WIN系统•晶体结构可视化软件</title>
-    <link href="http://www.lumingrj.com/2024/03/28/WIN/Diamond-3.2/"/>
-    <id>http://www.lumingrj.com/2024/03/28/WIN/Diamond-3.2/</id>
-    <published>2024-03-28T04:30:28.000Z</published>
-    <updated>2024-03-27T15:38:12.745Z</updated>
-    
-    <content type="html"><![CDATA[<div class="tip sync"><p>安装指南：<br>1、链接：Win软件目录：<a href="/Win/">点击查看</a> &emsp;    Win软件常见报错问题：<a href="/2023/09/06/WIN/WIN%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E9%97%AE%E9%A2%98%E7%9B%AE%E5%BD%95/">点击查看</a><br>2、客服：若安装报错问题，自己解决不了，打开安装包内的【联系客服】，添加客服QQ，或点击本网页最上面【联系客服】！</p></div><div class="img-wrap"><div class="img-bg"><img class="img" src="https://bu.dusays.com/2024/03/27/66043c4bc3088.png" style="width:80px;"/></div></div><h3 id=""><a href="#" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">软件详情+下载链接：</span>    </p></section></div></h3><details class="folding-tag" cyan open><summary> 软件详情+下载链接 </summary>              <div class='content'>              <p><mark class="hl-label green">软件名称</mark> <b>：Diamond 3.2 WIN版本•<mark class="hl-label green">激活版</mark> </b></p><p><mark class="hl-label green">界面语言</mark> ：英文</p><p><mark class="hl-label green">软件简介</mark> ：晶体结构可视化软件</p><p><mark class="hl-label purple">安装环境</mark> ：Win7&#x2F;Win8&#x2F;Win10&#x2F;Win11系统</p><p><mark class="hl-label purple">系统位数</mark> ：32+64位</p><p><mark class="hl-label green">亲测安装</mark> ：所有资源皆经严格把关、实机安装测试！</p><p><b> [百度网盘丨下载链接]：</b><br><a href="https://pan.baidu.com/s/173CdcIPPJ3pSmUyMxBJa9Q?pwd=8866">https://pan.baidu.com/s/173CdcIPPJ3pSmUyMxBJa9Q?pwd=8866</a><br><b> [123 云盘丨下载链接]：</b><br><a href="https://www.123pan.com/s/LZZBjv-3ZbW.html">https://www.123pan.com/s/LZZBjv-3ZbW.html</a></p><div class='checkbox green checked'><input type="radio" checked="checked"/>            <p>下载：下载链接里，下载需要安装的版本即可，不用所有版本全部下载！</p>            </div><div class='checkbox green checked'><input type="radio" checked="checked"/>            <p>客服：打开安装包内的 [联系客服]，添加客服QQ，或点击本网页最上面 [联系客服]！</p>            </div>              </div>            </details><h3 id="-1"><a href="#-1" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">安装教程：</span>    </p></section></div></h3><mark class="hl-label green">安装说明</mark> <b>：<p>●若杀毒软件弹窗报毒，删除了文件，请在杀毒软件里面恢复出来，恢复教程：<a href="/2023/09/16/WIN/WT/003/">点击查看</a>。<br>●一定要解压成文件夹再安装，不要在【压缩包】里安装，容易出现安装问题。<br></b></p><p><b><mark class="hl-label red">关闭杀毒：需要关闭杀毒软件，进行安装</mark> </b></p><p>1、右击下载到电脑上的【压缩包】，把压缩包解压成文件夹，然后双击打开【A.Diamond 3.2】文件夹。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403272337702.png" alt="图片"></p><p>2、双击打开【Setup.exe】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403272337776.webp" alt="图片"></p><p>3、点击【NEXT】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403272337770.webp" alt="图片"></p><p>4、选择【I accept the…】，点击【NEXT】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403272337808.webp" alt="图片"></p><p>5、默认安装位置为C盘，如要安装到别的盘，更改安装路径后，点击【NEXT】。</p><p><strong>1、例如：要安装到D盘，在D盘或D盘其他文件夹里，新建一个英文名+版本号文件夹，然后该安装界面里，点击【Change】，选择到新建的文件夹即可。</strong></p><p><strong>2、说明：软件安装路径中，不要有中文，会导致有些软件安装完，出现弹窗报错、闪退、打不开等问题。</strong></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403272337758.webp" alt="图片"></p><p>6、点击【Install】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403272337748.webp" alt="图片"></p><p>7、等待安装完成。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403272337290.webp" alt="图片"></p><p>8、<strong>取消勾选</strong>红框内的选项，点击【Finish】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403272337346.png" alt="图片"></p><p>9、返回安装包，双击打开【Crack】文件夹。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403272337538.png" alt="图片"></p><p>10、<strong>复制</strong>里面的文件。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403272337949.webp" alt="图片"></p><p>11、在软件安装位置文件夹空白处，右击粘贴。（教程第5步的软件安装位置路径）</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403272337263.webp" alt="图片"></p><p>12、点击【替换目标中的文件】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403272337259.webp" alt="图片"></p><p>13、点击【继续】。<strong>（没有可忽略）</strong></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403272337797.webp" alt="图片"></p><p>14、桌面上，双击打开软件图标。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403272337891.png" alt="图片"></p><p>15、点击【否】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403272337082.webp" alt="图片"></p><p>16、软件菜单栏上，点击【Tools】-【Options】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403272337533.webp" alt="图片"></p><p>17、在【Desktop】里，<strong>取消勾选</strong>【Check for available updates】，点击【确定】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403272337653.webp" alt="图片"></p><p>18、安装完成。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403272337839.webp" alt="图片"></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202403272337265.png" alt="图片"></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;div class=&quot;tip sync&quot;&gt;&lt;p&gt;安装指南：&lt;br&gt;1、链接：Win软件目录：&lt;a href=&quot;/Win/&quot;&gt;点击查看&lt;/a&gt; &amp;emsp;    Win软件常见报错问题：&lt;a href=&quot;/2023/09/06/WIN/WIN%E8%BD%AF%E4%BB%B6</summary>
-      
-    
-    
-    
-    <category term="Win软件" scheme="http://www.lumingrj.com/categories/Win%E8%BD%AF%E4%BB%B6/"/>
-    
-    
-    <category term="Win软件" scheme="http://www.lumingrj.com/tags/Win%E8%BD%AF%E4%BB%B6/"/>
-    
-    <category term="Diamond" scheme="http://www.lumingrj.com/tags/Diamond/"/>
     
   </entry>
   
