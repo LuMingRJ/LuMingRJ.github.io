@@ -6,7 +6,7 @@
   <link href="http://www.lumingrj.com/atom.xml" rel="self"/>
   
   <link href="http://www.lumingrj.com/"/>
-  <updated>2025-02-08T07:31:02.423Z</updated>
+  <updated>2025-02-08T07:37:43.654Z</updated>
   <id>http://www.lumingrj.com/</id>
   
   <author>
@@ -15,110 +15,6 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>Mac系统•Adobe系列（PS、PR、AI、AU、LrC等）软件自动更新后，打开不软件•解决教程步骤</title>
-    <link href="http://www.lumingrj.com/2025/02/09/MAC/Adobe%E5%A4%84%E7%90%86%E8%87%AA%E5%8A%A8%E6%9B%B4%E6%96%B0/"/>
-    <id>http://www.lumingrj.com/2025/02/09/MAC/Adobe%E5%A4%84%E7%90%86%E8%87%AA%E5%8A%A8%E6%9B%B4%E6%96%B0/</id>
-    <published>2025-02-09T04:45:28.000Z</published>
-    <updated>2025-02-08T07:31:02.423Z</updated>
-    
-    <content type="html"><![CDATA[<div class="tip sync"><p>安装指南：<br>1、链接：Mac软件目录：<a href="/Mac/">点击查看</a> &emsp;    Mac软件常见报错问题：<a href="/2023/09/02/MAC/Mac%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E9%97%AE%E9%A2%98%E7%9B%AE%E5%BD%95/">点击查看</a><br>2、客服：若安装报错问题，自己解决不了，打开安装包内的【联系客服】，添加客服QQ，或点击本网页最上面【联系客服】！</p></div><h3 id=""><a href="#" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">报错问题说明：</span>    </p></section></div></h3><details class="folding-tag" cyan open><summary> 报错问题说明 </summary>              <div class='content'>              <p><mark class="hl-label green">报错问题</mark> <b>：Adobe系列（PS、PR、AI、AU、LrC等）软件自动更新后，打开不软件</b></p><p><mark class="hl-label green">界面语言</mark> ：-</p><p><mark class="hl-label green">兼容芯片</mark> ：支持Intel+M芯片</p><p><mark class="hl-label green">亲测安装</mark> ：所有资源皆经严格把关、实机安装测试！</p>              </div>            </details><h3 id="-1"><a href="#-1" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">问题说明：</span>    </p></section></div></h3><p>Adobe系列软件，安装后正常打开，但过一段时间出现打不开问题。一般是因为Creative Cloud组件里面的自动更新没有关闭，导致软件更新到别的版本上了。</p><h3 id="-2"><a href="#-2" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">教程步骤：</span>    </p></section></div></h3><p><strong>本教程以PS为例，其他Adobe系列（PR、AI、AU、LrC等等）出现自动更新后，解决步骤一样。（例如：您是LrC出现问题，按教程步骤处理LrC软件即可）</strong></p><p><strong>一、关闭自动更新：</strong></p><p>1、打开Creative Cloud，关闭【自动更新按钮】，操作教程：<a href="/2023/09/23/MAC/Creative%20Cloud%E5%8F%96%E6%B6%88%E6%9B%B4%E6%96%B0/"><strong>点击查看</strong></a></p><p><strong>二、卸载软件：</strong></p><p><strong>卸载方式1：</strong>随便打开一个文件夹，点击打开【应用程序】-【Adobe Photoshop 202x】-【卸载 Adobe Photoshop 202x】，按提示进行卸载。</p><p><strong>1｝本教程以PS为例。（若你是Adobe系列其他软件，例如LrC，操作处理LrC即可）</strong></p><p><strong>2）若【应用程序】里有多个版本。（例如：存在PS2024、PS2025多个版本，把打不开的版本都卸载掉）</strong></p><p><strong>3）若【Adobe Photoshop 202x】文件夹里没有【卸载程序】，用下面【卸载方式2】。</strong></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202502081528590.png" alt="图片"></p><p><strong>卸载方式2：</strong>打开Creative Cloud组件，点击【应用程序】，点击【Photoshop】左下角的【…】-【卸载】，按提示进行卸载。</p><p><strong>1｝本教程以PS为例。（若你是Adobe系列其他软件，例如LrC，操作处理LrC即可）</strong></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202502081528452.png" alt="图片"></p><p><strong>三、删除残留文件夹：</strong></p><p>1、卸载完成后，返回【应用程序】文件夹，删除【Adobe Photoshop 202x】残留文件夹。</p><p><strong>1｝本教程以PS为例。（若你是Adobe系列其他软件，例如LrC，操作处理LrC即可）</strong></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202502081528524.png" alt="图片"></p><p><strong>四、重装软件：</strong></p><p>1、然后按安装教程，重新安装软件即可<strong>（安装教程里面的必备组件，不用重新安装了，直接安装软件即可）</strong></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;div class=&quot;tip sync&quot;&gt;&lt;p&gt;安装指南：&lt;br&gt;1、链接：Mac软件目录：&lt;a href=&quot;/Mac/&quot;&gt;点击查看&lt;/a&gt; &amp;emsp;    Mac软件常见报错问题：&lt;a href=&quot;/2023/09/02/MAC/Mac%E8%BD%AF%E4%BB%B6</summary>
-      
-    
-    
-    
-    <category term="Mac软件" scheme="http://www.lumingrj.com/categories/Mac%E8%BD%AF%E4%BB%B6/"/>
-    
-    
-    <category term="Mac软件" scheme="http://www.lumingrj.com/tags/Mac%E8%BD%AF%E4%BB%B6/"/>
-    
-    <category term="安装报错" scheme="http://www.lumingrj.com/tags/%E5%AE%89%E8%A3%85%E6%8A%A5%E9%94%99/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>兼容M1~M4芯片•GraphPad Prism 10.4.1 For Mac版本•英文•软件安装包下载 安装教程步骤•苹果系统</title>
-    <link href="http://www.lumingrj.com/2025/02/09/MAC/GraphPad-Prism-10.4.1/"/>
-    <id>http://www.lumingrj.com/2025/02/09/MAC/GraphPad-Prism-10.4.1/</id>
-    <published>2025-02-09T04:45:28.000Z</published>
-    <updated>2025-02-08T07:20:05.892Z</updated>
-    
-    <content type="html"><![CDATA[<div class="tip sync"><p>安装指南：<br>1、链接：Mac软件目录：<a href="/Mac/">点击查看</a> &emsp;    Mac软件常见报错问题：<a href="/2023/09/02/MAC/Mac%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E9%97%AE%E9%A2%98%E7%9B%AE%E5%BD%95/">点击查看</a><br>2、客服：若安装报错问题，自己解决不了，打开安装包内的【联系客服】，添加客服QQ，或点击本网页最上面【联系客服】！</p></div><div class="img-wrap"><div class="img-bg"><img class="img" src="https://bu.dusays.com/2023/11/05/6547b36536f8e.png" style="width:80px;"/></div></div><h3 id=""><a href="#" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">软件详情+下载链接：</span>    </p></section></div></h3><details class="folding-tag" cyan open><summary> 软件详情+下载链接 </summary>              <div class='content'>              <p><mark class="hl-label green">软件名称</mark> <b>：GraphPad Prism 10.4.1 For Mac版本•<mark class="hl-label green">激活版</mark> </b></p><p><mark class="hl-label green">界面语言</mark> ：英文</p><p><mark class="hl-label green">软件简介</mark> ：科研绘图，数据绘图分析软件</p><p><mark class="hl-label purple">系统版本</mark> ：Mac 12.0-15.x Sequoia 或更高</p><p><mark class="hl-label purple">兼容芯片</mark> ：支持Intel、M1-M4及更高芯片</p><p><mark class="hl-label green">亲测安装</mark> ：所有资源皆经严格把关、实机安装测试！</p><p><b> [百度网盘丨下载链接]：</b><br><a href="https://pan.baidu.com/s/19tw8PwLDrXoaEB1ncth_Jg?pwd=8866">https://pan.baidu.com/s/19tw8PwLDrXoaEB1ncth_Jg?pwd=8866</a><br><b> [123 云盘丨下载链接]：</b><br><a href="https://www.123pan.com/s/LZZBjv-VX7W.html">https://www.123pan.com/s/LZZBjv-VX7W.html</a></p><div class='checkbox green checked'><input type="radio" checked="checked"/>            <p>下载：下载链接里，下载需要安装的版本即可，不用所有版本全部下载！</p>            </div><div class='checkbox green checked'><input type="radio" checked="checked"/>            <p>客服：打开安装包内的 [联系客服]，添加客服QQ，或点击本网页最上面 [联系客服]！</p>            </div>              </div>            </details><h3 id="-1"><a href="#-1" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">安装教程：</span>    </p></section></div></h3><h4 id="：该版本有Intel芯片和M芯片两个安装包，根据自己电脑芯片选择安装包，安装教程一样。"><a href="#：该版本有Intel芯片和M芯片两个安装包，根据自己电脑芯片选择安装包，安装教程一样。" class="headerlink" title="：该版本有Intel芯片和M芯片两个安装包，根据自己电脑芯片选择安装包，安装教程一样。"></a><mark class="hl-label red">说明</mark> <b>：该版本有Intel芯片和M芯片两个安装包，根据自己电脑芯片选择安装包，安装教程一样。</b></h4><p>1、双击打开，下载到Mac电脑上的【A.GraphPad Prism 10.4.1 M.dmg】软件安装包。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202502081519692.png" alt="图片"></p><h4 id="-2"><a href="#-2" class="headerlink" title=""></a><mark class="hl-label red">安装前一定要做的：</mark> </h4><p>●输入软件密码，打开安装包后：双击打开安装包左下角的【修复工具】，修复完成后，再返回本教程安装。<b>修复工具操作教程：<a href="/2023/09/18/MAC/WT/003/">点击查看</a></b></p><div style="display:inline-block;"><img style="float:left;" src=https://bu.dusays.com/2023/09/12/64ff44a6dd274.png></div> <p>2、把左边的软件图标，拖拉到右边的文件夹里。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202502081519268.png" alt="图片"></p><p>3、在【启动台】里，打开软件图标。**(若有更新弹框，点击【Skip This Version】)**</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202502081519664.png" alt="图片"></p><p>4、左面选择需要创建的类型，点击【Create】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202502081519835.png" alt="图片"></p><p>5、菜单栏上，点击【Prism】-【Settings】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202502081519578.png" alt="图片"></p><p>6、<strong>取消勾选</strong>红框内的选项，点击【OK】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202502081519588.png" alt="图片"></p><p>7、安装完成。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202502081519771.png" alt="图片"></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;div class=&quot;tip sync&quot;&gt;&lt;p&gt;安装指南：&lt;br&gt;1、链接：Mac软件目录：&lt;a href=&quot;/Mac/&quot;&gt;点击查看&lt;/a&gt; &amp;emsp;    Mac软件常见报错问题：&lt;a href=&quot;/2023/09/02/MAC/Mac%E8%BD%AF%E4%BB%B6</summary>
-      
-    
-    
-    
-    <category term="Mac软件" scheme="http://www.lumingrj.com/categories/Mac%E8%BD%AF%E4%BB%B6/"/>
-    
-    
-    <category term="Mac软件" scheme="http://www.lumingrj.com/tags/Mac%E8%BD%AF%E4%BB%B6/"/>
-    
-    <category term="GraphPad Prism" scheme="http://www.lumingrj.com/tags/GraphPad-Prism/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>兼容M1~M4芯片•SnapGene 6.0.2 For Mac版本•中英文•软件安装包下载 安装教程步骤•苹果系统</title>
-    <link href="http://www.lumingrj.com/2025/02/09/MAC/SnapGene-6.0.2/"/>
-    <id>http://www.lumingrj.com/2025/02/09/MAC/SnapGene-6.0.2/</id>
-    <published>2025-02-09T04:45:28.000Z</published>
-    <updated>2025-02-08T07:25:45.485Z</updated>
-    
-    <content type="html"><![CDATA[<div class="tip sync"><p>安装指南：<br>1、链接：Mac软件目录：<a href="/Mac/">点击查看</a> &emsp;    Mac软件常见报错问题：<a href="/2023/09/02/MAC/Mac%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E9%97%AE%E9%A2%98%E7%9B%AE%E5%BD%95/">点击查看</a><br>2、客服：若安装报错问题，自己解决不了，打开安装包内的【联系客服】，添加客服QQ，或点击本网页最上面【联系客服】！</p></div><div class="img-wrap"><div class="img-bg"><img class="img" src="https://bu.dusays.com/2025/02/08/67a706946e0cd.png" style="width:80px;"/></div></div><h3 id=""><a href="#" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">软件详情+下载链接：</span>    </p></section></div></h3><details class="folding-tag" cyan open><summary> 软件详情+下载链接 </summary>              <div class='content'>              <p><mark class="hl-label green">软件名称</mark> <b>：SnapGene 6.0.2 For Mac版本•<mark class="hl-label green">激活版</mark> </b></p><p><mark class="hl-label green">界面语言</mark> ：简体中文+英文</p><p><mark class="hl-label green">软件简介</mark> ：日常分子生物学工具</p><p><mark class="hl-label purple">系统版本</mark> ：Mac 10.15-15.x Sequoia 或更高</p><p><mark class="hl-label purple">兼容芯片</mark> ：支持Intel、M1-M4及更高芯片</p><p><mark class="hl-label green">亲测安装</mark> ：所有资源皆经严格把关、实机安装测试！</p><p><b> [百度网盘丨下载链接]：</b><br><a href="https://pan.baidu.com/s/1EJzNgILE1qmRRmFWajvurQ?pwd=8866">https://pan.baidu.com/s/1EJzNgILE1qmRRmFWajvurQ?pwd=8866</a><br><b> [123 云盘丨下载链接]：</b><br><a href="https://www.123pan.com/s/LZZBjv-AEiW">https://www.123pan.com/s/LZZBjv-AEiW</a></p><div class='checkbox green checked'><input type="radio" checked="checked"/>            <p>下载：下载链接里，下载需要安装的版本即可，不用所有版本全部下载！</p>            </div><div class='checkbox green checked'><input type="radio" checked="checked"/>            <p>客服：打开安装包内的 [联系客服]，添加客服QQ，或点击本网页最上面 [联系客服]！</p>            </div>              </div>            </details><h3 id="-1"><a href="#-1" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">安装教程：</span>    </p></section></div></h3><p>1、双击打开，下载到Mac电脑上的【A.SnapGene 6.0.2.dmg】软件安装包。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202502081524113.png" alt="图片"></p><h4 id="-2"><a href="#-2" class="headerlink" title=""></a><mark class="hl-label red">安装前一定要做的：</mark> </h4><p>●输入软件密码，打开安装包后：双击打开安装包左下角的【修复工具】，修复完成后，再返回本教程安装。<b>修复工具操作教程：<a href="/2023/09/18/MAC/WT/003/">点击查看</a></b></p><div style="display:inline-block;"><img style="float:left;" src=https://bu.dusays.com/2023/09/12/64ff44a6dd274.png></div> <p>2、把左面的软件图标，拖拉到右边的文件夹里。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202502081525588.png" alt="图片"></p><p>3、在【启动台】里，打开软件图标。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202502081525680.png" alt="图片"></p><p>4、点击【Agree】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202502081525946.png" alt="图片"></p><p>5、红框内的信息，随便输入，点击【OK】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202502081525665.png" alt="图片"></p><p>6、点击【OK】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202502081525747.png" alt="图片"></p><p>7、点击【OK】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202502081525661.png" alt="图片"></p><p>8、勾选【Don’t show again】，点击【OK】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202502081525010.png" alt="图片"></p><p>9、默认语言为英文。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202502081525599.png" alt="图片"></p><p>10、<strong>软件界面语言切换：</strong>点击【Help】-【Language】，选择自己需要的语言。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202502081525754.png" alt="图片"></p><p>11、点击【OK】。<strong>（然后关闭软件，重新打开）</strong></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202502081525822.png" alt="图片"></p><p>12、点击【可以】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202502081525961.png" alt="图片"></p><p>13、菜单栏上，点击【SnapGene】-【首选项】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202502081525741.png" alt="图片"></p><p>14、在【一般】里面，<strong>取消勾选</strong>红框内的选项。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202502081525305.png" alt="图片"></p><p>15、安装完成。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202502081525097.png" alt="图片"></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;div class=&quot;tip sync&quot;&gt;&lt;p&gt;安装指南：&lt;br&gt;1、链接：Mac软件目录：&lt;a href=&quot;/Mac/&quot;&gt;点击查看&lt;/a&gt; &amp;emsp;    Mac软件常见报错问题：&lt;a href=&quot;/2023/09/02/MAC/Mac%E8%BD%AF%E4%BB%B6</summary>
-      
-    
-    
-    
-    <category term="Mac软件" scheme="http://www.lumingrj.com/categories/Mac%E8%BD%AF%E4%BB%B6/"/>
-    
-    
-    <category term="Mac软件" scheme="http://www.lumingrj.com/tags/Mac%E8%BD%AF%E4%BB%B6/"/>
-    
-    <category term="SnapGene" scheme="http://www.lumingrj.com/tags/SnapGene/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>兼容M1~M4芯片•SnapGene 7.0.2 For Mac版本•中英文•软件安装包下载 安装教程步骤•苹果系统</title>
-    <link href="http://www.lumingrj.com/2025/02/09/MAC/SnapGene-7.0.2/"/>
-    <id>http://www.lumingrj.com/2025/02/09/MAC/SnapGene-7.0.2/</id>
-    <published>2025-02-09T04:45:28.000Z</published>
-    <updated>2025-02-08T07:23:20.674Z</updated>
-    
-    <content type="html"><![CDATA[<div class="tip sync"><p>安装指南：<br>1、链接：Mac软件目录：<a href="/Mac/">点击查看</a> &emsp;    Mac软件常见报错问题：<a href="/2023/09/02/MAC/Mac%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E9%97%AE%E9%A2%98%E7%9B%AE%E5%BD%95/">点击查看</a><br>2、客服：若安装报错问题，自己解决不了，打开安装包内的【联系客服】，添加客服QQ，或点击本网页最上面【联系客服】！</p></div><div class="img-wrap"><div class="img-bg"><img class="img" src="https://bu.dusays.com/2025/02/08/67a705e85fffb.png" style="width:80px;"/></div></div><h3 id=""><a href="#" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">软件详情+下载链接：</span>    </p></section></div></h3><details class="folding-tag" cyan open><summary> 软件详情+下载链接 </summary>              <div class='content'>              <p><mark class="hl-label green">软件名称</mark> <b>：SnapGene 7.0.2 For Mac版本•<mark class="hl-label green">激活版</mark> </b></p><p><mark class="hl-label green">界面语言</mark> ：简体中文+英文</p><p><mark class="hl-label green">软件简介</mark> ：日常分子生物学工具</p><p><mark class="hl-label purple">系统版本</mark> ：Mac 11.0-15.x Sequoia 或更高</p><p><mark class="hl-label purple">兼容芯片</mark> ：支持Intel、M1-M4及更高芯片</p><p><mark class="hl-label green">亲测安装</mark> ：所有资源皆经严格把关、实机安装测试！</p><p><b> [百度网盘丨下载链接]：</b><br><a href="https://pan.baidu.com/s/1EJzNgILE1qmRRmFWajvurQ?pwd=8866">https://pan.baidu.com/s/1EJzNgILE1qmRRmFWajvurQ?pwd=8866</a><br><b> [123 云盘丨下载链接]：</b><br><a href="https://www.123pan.com/s/LZZBjv-AEiW">https://www.123pan.com/s/LZZBjv-AEiW</a></p><div class='checkbox green checked'><input type="radio" checked="checked"/>            <p>下载：下载链接里，下载需要安装的版本即可，不用所有版本全部下载！</p>            </div><div class='checkbox green checked'><input type="radio" checked="checked"/>            <p>客服：打开安装包内的 [联系客服]，添加客服QQ，或点击本网页最上面 [联系客服]！</p>            </div>              </div>            </details><h3 id="-1"><a href="#-1" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">安装教程：</span>    </p></section></div></h3><p>1、双击打开，下载到Mac电脑上的【A.SnapGene 7.0.2.dmg】软件安装包。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202502081522500.webp" alt="图片"></p><h4 id="-2"><a href="#-2" class="headerlink" title=""></a><mark class="hl-label red">安装前一定要做的：</mark> </h4><p>●输入软件密码，打开安装包后：双击打开安装包左下角的【修复工具】，修复完成后，再返回本教程安装。<b>修复工具操作教程：<a href="/2023/09/18/MAC/WT/003/">点击查看</a></b></p><div style="display:inline-block;"><img style="float:left;" src=https://bu.dusays.com/2023/09/12/64ff44a6dd274.png></div> <p>2、把左面的软件图标，拖拉到右边的文件夹里。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202502081522911.webp" alt="图片"></p><p>3、在【启动台】里，打开软件图标。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202502081522976.webp" alt="图片"></p><p>4、勾选【不要再显示】，点击【可以】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202502081522921.webp" alt="图片"></p><p>5、菜单栏上，点击【SnapGene】-【首选项】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202502081522930.webp" alt="图片"></p><p>6、在【一般】里面，<strong>取消勾选</strong>红框内的选项。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202502081522933.webp" alt="图片"></p><p>7、安装完成。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202502081522003.webp" alt="图片"></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202502081522631.webp" alt="图片"></p><p>8、<strong>软件界面语言切换：</strong>点击【帮助&#x2F;Help】-【语言&#x2F;Language】，选择自己需要的语言。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202502081522655.webp" alt="图片"></p><p>9、点击【OK】。<strong>（然后关闭软件，重新打开）</strong></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202502081522680.webp" alt="图片"></p><p>10、英文界面。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202502081522388.webp" alt="图片"></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;div class=&quot;tip sync&quot;&gt;&lt;p&gt;安装指南：&lt;br&gt;1、链接：Mac软件目录：&lt;a href=&quot;/Mac/&quot;&gt;点击查看&lt;/a&gt; &amp;emsp;    Mac软件常见报错问题：&lt;a href=&quot;/2023/09/02/MAC/Mac%E8%BD%AF%E4%BB%B6</summary>
-      
-    
-    
-    
-    <category term="Mac软件" scheme="http://www.lumingrj.com/categories/Mac%E8%BD%AF%E4%BB%B6/"/>
-    
-    
-    <category term="Mac软件" scheme="http://www.lumingrj.com/tags/Mac%E8%BD%AF%E4%BB%B6/"/>
-    
-    <category term="SnapGene" scheme="http://www.lumingrj.com/tags/SnapGene/"/>
-    
-  </entry>
   
   <entry>
     <title>GraphPad Prism 10.4.0 WIN版本•英文•软件安装包下载 安装教程步骤•WIN系统•科研绘图，数据绘图分析</title>
@@ -140,9 +36,9 @@
     <category term="Win软件" scheme="http://www.lumingrj.com/categories/Win%E8%BD%AF%E4%BB%B6/"/>
     
     
-    <category term="GraphPad Prism" scheme="http://www.lumingrj.com/tags/GraphPad-Prism/"/>
-    
     <category term="Win软件" scheme="http://www.lumingrj.com/tags/Win%E8%BD%AF%E4%BB%B6/"/>
+    
+    <category term="GraphPad Prism" scheme="http://www.lumingrj.com/tags/GraphPad-Prism/"/>
     
   </entry>
   
@@ -166,9 +62,113 @@
     <category term="Win软件" scheme="http://www.lumingrj.com/categories/Win%E8%BD%AF%E4%BB%B6/"/>
     
     
+    <category term="Win软件" scheme="http://www.lumingrj.com/tags/Win%E8%BD%AF%E4%BB%B6/"/>
+    
     <category term="SnapGene" scheme="http://www.lumingrj.com/tags/SnapGene/"/>
     
-    <category term="Win软件" scheme="http://www.lumingrj.com/tags/Win%E8%BD%AF%E4%BB%B6/"/>
+  </entry>
+  
+  <entry>
+    <title>Mac系统•Adobe系列（PS、PR、AI、AU、LrC等）软件自动更新后，打开不软件•解决教程步骤</title>
+    <link href="http://www.lumingrj.com/2025/02/09/MAC/Adobe%E5%A4%84%E7%90%86%E8%87%AA%E5%8A%A8%E6%9B%B4%E6%96%B0/"/>
+    <id>http://www.lumingrj.com/2025/02/09/MAC/Adobe%E5%A4%84%E7%90%86%E8%87%AA%E5%8A%A8%E6%9B%B4%E6%96%B0/</id>
+    <published>2025-02-09T04:45:28.000Z</published>
+    <updated>2025-02-08T07:31:02.423Z</updated>
+    
+    <content type="html"><![CDATA[<div class="tip sync"><p>安装指南：<br>1、链接：Mac软件目录：<a href="/Mac/">点击查看</a> &emsp;    Mac软件常见报错问题：<a href="/2023/09/02/MAC/Mac%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E9%97%AE%E9%A2%98%E7%9B%AE%E5%BD%95/">点击查看</a><br>2、客服：若安装报错问题，自己解决不了，打开安装包内的【联系客服】，添加客服QQ，或点击本网页最上面【联系客服】！</p></div><h3 id=""><a href="#" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">报错问题说明：</span>    </p></section></div></h3><details class="folding-tag" cyan open><summary> 报错问题说明 </summary>              <div class='content'>              <p><mark class="hl-label green">报错问题</mark> <b>：Adobe系列（PS、PR、AI、AU、LrC等）软件自动更新后，打开不软件</b></p><p><mark class="hl-label green">界面语言</mark> ：-</p><p><mark class="hl-label green">兼容芯片</mark> ：支持Intel+M芯片</p><p><mark class="hl-label green">亲测安装</mark> ：所有资源皆经严格把关、实机安装测试！</p>              </div>            </details><h3 id="-1"><a href="#-1" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">问题说明：</span>    </p></section></div></h3><p>Adobe系列软件，安装后正常打开，但过一段时间出现打不开问题。一般是因为Creative Cloud组件里面的自动更新没有关闭，导致软件更新到别的版本上了。</p><h3 id="-2"><a href="#-2" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">教程步骤：</span>    </p></section></div></h3><p><strong>本教程以PS为例，其他Adobe系列（PR、AI、AU、LrC等等）出现自动更新后，解决步骤一样。（例如：您是LrC出现问题，按教程步骤处理LrC软件即可）</strong></p><p><strong>一、关闭自动更新：</strong></p><p>1、打开Creative Cloud，关闭【自动更新按钮】，操作教程：<a href="/2023/09/23/MAC/Creative%20Cloud%E5%8F%96%E6%B6%88%E6%9B%B4%E6%96%B0/"><strong>点击查看</strong></a></p><p><strong>二、卸载软件：</strong></p><p><strong>卸载方式1：</strong>随便打开一个文件夹，点击打开【应用程序】-【Adobe Photoshop 202x】-【卸载 Adobe Photoshop 202x】，按提示进行卸载。</p><p><strong>1｝本教程以PS为例。（若你是Adobe系列其他软件，例如LrC，操作处理LrC即可）</strong></p><p><strong>2）若【应用程序】里有多个版本。（例如：存在PS2024、PS2025多个版本，把打不开的版本都卸载掉）</strong></p><p><strong>3）若【Adobe Photoshop 202x】文件夹里没有【卸载程序】，用下面【卸载方式2】。</strong></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202502081528590.png" alt="图片"></p><p><strong>卸载方式2：</strong>打开Creative Cloud组件，点击【应用程序】，点击【Photoshop】左下角的【…】-【卸载】，按提示进行卸载。</p><p><strong>1｝本教程以PS为例。（若你是Adobe系列其他软件，例如LrC，操作处理LrC即可）</strong></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202502081528452.png" alt="图片"></p><p><strong>三、删除残留文件夹：</strong></p><p>1、卸载完成后，返回【应用程序】文件夹，删除【Adobe Photoshop 202x】残留文件夹。</p><p><strong>1｝本教程以PS为例。（若你是Adobe系列其他软件，例如LrC，操作处理LrC即可）</strong></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202502081528524.png" alt="图片"></p><p><strong>四、重装软件：</strong></p><p>1、然后按安装教程，重新安装软件即可<strong>（安装教程里面的必备组件，不用重新安装了，直接安装软件即可）</strong></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;div class=&quot;tip sync&quot;&gt;&lt;p&gt;安装指南：&lt;br&gt;1、链接：Mac软件目录：&lt;a href=&quot;/Mac/&quot;&gt;点击查看&lt;/a&gt; &amp;emsp;    Mac软件常见报错问题：&lt;a href=&quot;/2023/09/02/MAC/Mac%E8%BD%AF%E4%BB%B6</summary>
+      
+    
+    
+    
+    <category term="Mac软件" scheme="http://www.lumingrj.com/categories/Mac%E8%BD%AF%E4%BB%B6/"/>
+    
+    
+    <category term="安装报错" scheme="http://www.lumingrj.com/tags/%E5%AE%89%E8%A3%85%E6%8A%A5%E9%94%99/"/>
+    
+    <category term="Mac软件" scheme="http://www.lumingrj.com/tags/Mac%E8%BD%AF%E4%BB%B6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>兼容M1~M4芯片•GraphPad Prism 10.4.1 For Mac版本•英文•软件安装包下载 安装教程步骤•苹果系统</title>
+    <link href="http://www.lumingrj.com/2025/02/09/MAC/GraphPad-Prism-10.4.1/"/>
+    <id>http://www.lumingrj.com/2025/02/09/MAC/GraphPad-Prism-10.4.1/</id>
+    <published>2025-02-09T04:45:28.000Z</published>
+    <updated>2025-02-08T07:20:05.892Z</updated>
+    
+    <content type="html"><![CDATA[<div class="tip sync"><p>安装指南：<br>1、链接：Mac软件目录：<a href="/Mac/">点击查看</a> &emsp;    Mac软件常见报错问题：<a href="/2023/09/02/MAC/Mac%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E9%97%AE%E9%A2%98%E7%9B%AE%E5%BD%95/">点击查看</a><br>2、客服：若安装报错问题，自己解决不了，打开安装包内的【联系客服】，添加客服QQ，或点击本网页最上面【联系客服】！</p></div><div class="img-wrap"><div class="img-bg"><img class="img" src="https://bu.dusays.com/2023/11/05/6547b36536f8e.png" style="width:80px;"/></div></div><h3 id=""><a href="#" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">软件详情+下载链接：</span>    </p></section></div></h3><details class="folding-tag" cyan open><summary> 软件详情+下载链接 </summary>              <div class='content'>              <p><mark class="hl-label green">软件名称</mark> <b>：GraphPad Prism 10.4.1 For Mac版本•<mark class="hl-label green">激活版</mark> </b></p><p><mark class="hl-label green">界面语言</mark> ：英文</p><p><mark class="hl-label green">软件简介</mark> ：科研绘图，数据绘图分析软件</p><p><mark class="hl-label purple">系统版本</mark> ：Mac 12.0-15.x Sequoia 或更高</p><p><mark class="hl-label purple">兼容芯片</mark> ：支持Intel、M1-M4及更高芯片</p><p><mark class="hl-label green">亲测安装</mark> ：所有资源皆经严格把关、实机安装测试！</p><p><b> [百度网盘丨下载链接]：</b><br><a href="https://pan.baidu.com/s/19tw8PwLDrXoaEB1ncth_Jg?pwd=8866">https://pan.baidu.com/s/19tw8PwLDrXoaEB1ncth_Jg?pwd=8866</a><br><b> [123 云盘丨下载链接]：</b><br><a href="https://www.123pan.com/s/LZZBjv-VX7W.html">https://www.123pan.com/s/LZZBjv-VX7W.html</a></p><div class='checkbox green checked'><input type="radio" checked="checked"/>            <p>下载：下载链接里，下载需要安装的版本即可，不用所有版本全部下载！</p>            </div><div class='checkbox green checked'><input type="radio" checked="checked"/>            <p>客服：打开安装包内的 [联系客服]，添加客服QQ，或点击本网页最上面 [联系客服]！</p>            </div>              </div>            </details><h3 id="-1"><a href="#-1" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">安装教程：</span>    </p></section></div></h3><h4 id="：该版本有Intel芯片和M芯片两个安装包，根据自己电脑芯片选择安装包，安装教程一样。"><a href="#：该版本有Intel芯片和M芯片两个安装包，根据自己电脑芯片选择安装包，安装教程一样。" class="headerlink" title="：该版本有Intel芯片和M芯片两个安装包，根据自己电脑芯片选择安装包，安装教程一样。"></a><mark class="hl-label red">说明</mark> <b>：该版本有Intel芯片和M芯片两个安装包，根据自己电脑芯片选择安装包，安装教程一样。</b></h4><p>1、双击打开，下载到Mac电脑上的【A.GraphPad Prism 10.4.1 M.dmg】软件安装包。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202502081519692.png" alt="图片"></p><h4 id="-2"><a href="#-2" class="headerlink" title=""></a><mark class="hl-label red">安装前一定要做的：</mark> </h4><p>●输入软件密码，打开安装包后：双击打开安装包左下角的【修复工具】，修复完成后，再返回本教程安装。<b>修复工具操作教程：<a href="/2023/09/18/MAC/WT/003/">点击查看</a></b></p><div style="display:inline-block;"><img style="float:left;" src=https://bu.dusays.com/2023/09/12/64ff44a6dd274.png></div> <p>2、把左边的软件图标，拖拉到右边的文件夹里。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202502081519268.png" alt="图片"></p><p>3、在【启动台】里，打开软件图标。**(若有更新弹框，点击【Skip This Version】)**</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202502081519664.png" alt="图片"></p><p>4、左面选择需要创建的类型，点击【Create】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202502081519835.png" alt="图片"></p><p>5、菜单栏上，点击【Prism】-【Settings】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202502081519578.png" alt="图片"></p><p>6、<strong>取消勾选</strong>红框内的选项，点击【OK】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202502081519588.png" alt="图片"></p><p>7、安装完成。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202502081519771.png" alt="图片"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;div class=&quot;tip sync&quot;&gt;&lt;p&gt;安装指南：&lt;br&gt;1、链接：Mac软件目录：&lt;a href=&quot;/Mac/&quot;&gt;点击查看&lt;/a&gt; &amp;emsp;    Mac软件常见报错问题：&lt;a href=&quot;/2023/09/02/MAC/Mac%E8%BD%AF%E4%BB%B6</summary>
+      
+    
+    
+    
+    <category term="Mac软件" scheme="http://www.lumingrj.com/categories/Mac%E8%BD%AF%E4%BB%B6/"/>
+    
+    
+    <category term="GraphPad Prism" scheme="http://www.lumingrj.com/tags/GraphPad-Prism/"/>
+    
+    <category term="Mac软件" scheme="http://www.lumingrj.com/tags/Mac%E8%BD%AF%E4%BB%B6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>兼容M1~M4芯片•SnapGene 6.0.2 For Mac版本•中英文•软件安装包下载 安装教程步骤•苹果系统</title>
+    <link href="http://www.lumingrj.com/2025/02/09/MAC/SnapGene-6.0.2/"/>
+    <id>http://www.lumingrj.com/2025/02/09/MAC/SnapGene-6.0.2/</id>
+    <published>2025-02-09T04:45:28.000Z</published>
+    <updated>2025-02-08T07:25:45.485Z</updated>
+    
+    <content type="html"><![CDATA[<div class="tip sync"><p>安装指南：<br>1、链接：Mac软件目录：<a href="/Mac/">点击查看</a> &emsp;    Mac软件常见报错问题：<a href="/2023/09/02/MAC/Mac%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E9%97%AE%E9%A2%98%E7%9B%AE%E5%BD%95/">点击查看</a><br>2、客服：若安装报错问题，自己解决不了，打开安装包内的【联系客服】，添加客服QQ，或点击本网页最上面【联系客服】！</p></div><div class="img-wrap"><div class="img-bg"><img class="img" src="https://bu.dusays.com/2025/02/08/67a706946e0cd.png" style="width:80px;"/></div></div><h3 id=""><a href="#" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">软件详情+下载链接：</span>    </p></section></div></h3><details class="folding-tag" cyan open><summary> 软件详情+下载链接 </summary>              <div class='content'>              <p><mark class="hl-label green">软件名称</mark> <b>：SnapGene 6.0.2 For Mac版本•<mark class="hl-label green">激活版</mark> </b></p><p><mark class="hl-label green">界面语言</mark> ：简体中文+英文</p><p><mark class="hl-label green">软件简介</mark> ：日常分子生物学工具</p><p><mark class="hl-label purple">系统版本</mark> ：Mac 10.15-15.x Sequoia 或更高</p><p><mark class="hl-label purple">兼容芯片</mark> ：支持Intel、M1-M4及更高芯片</p><p><mark class="hl-label green">亲测安装</mark> ：所有资源皆经严格把关、实机安装测试！</p><p><b> [百度网盘丨下载链接]：</b><br><a href="https://pan.baidu.com/s/1EJzNgILE1qmRRmFWajvurQ?pwd=8866">https://pan.baidu.com/s/1EJzNgILE1qmRRmFWajvurQ?pwd=8866</a><br><b> [123 云盘丨下载链接]：</b><br><a href="https://www.123pan.com/s/LZZBjv-AEiW">https://www.123pan.com/s/LZZBjv-AEiW</a></p><div class='checkbox green checked'><input type="radio" checked="checked"/>            <p>下载：下载链接里，下载需要安装的版本即可，不用所有版本全部下载！</p>            </div><div class='checkbox green checked'><input type="radio" checked="checked"/>            <p>客服：打开安装包内的 [联系客服]，添加客服QQ，或点击本网页最上面 [联系客服]！</p>            </div>              </div>            </details><h3 id="-1"><a href="#-1" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">安装教程：</span>    </p></section></div></h3><p>1、双击打开，下载到Mac电脑上的【A.SnapGene 6.0.2.dmg】软件安装包。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202502081524113.png" alt="图片"></p><h4 id="-2"><a href="#-2" class="headerlink" title=""></a><mark class="hl-label red">安装前一定要做的：</mark> </h4><p>●输入软件密码，打开安装包后：双击打开安装包左下角的【修复工具】，修复完成后，再返回本教程安装。<b>修复工具操作教程：<a href="/2023/09/18/MAC/WT/003/">点击查看</a></b></p><div style="display:inline-block;"><img style="float:left;" src=https://bu.dusays.com/2023/09/12/64ff44a6dd274.png></div> <p>2、把左面的软件图标，拖拉到右边的文件夹里。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202502081525588.png" alt="图片"></p><p>3、在【启动台】里，打开软件图标。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202502081525680.png" alt="图片"></p><p>4、点击【Agree】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202502081525946.png" alt="图片"></p><p>5、红框内的信息，随便输入，点击【OK】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202502081525665.png" alt="图片"></p><p>6、点击【OK】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202502081525747.png" alt="图片"></p><p>7、点击【OK】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202502081525661.png" alt="图片"></p><p>8、勾选【Don’t show again】，点击【OK】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202502081525010.png" alt="图片"></p><p>9、默认语言为英文。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202502081525599.png" alt="图片"></p><p>10、<strong>软件界面语言切换：</strong>点击【Help】-【Language】，选择自己需要的语言。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202502081525754.png" alt="图片"></p><p>11、点击【OK】。<strong>（然后关闭软件，重新打开）</strong></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202502081525822.png" alt="图片"></p><p>12、点击【可以】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202502081525961.png" alt="图片"></p><p>13、菜单栏上，点击【SnapGene】-【首选项】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202502081525741.png" alt="图片"></p><p>14、在【一般】里面，<strong>取消勾选</strong>红框内的选项。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202502081525305.png" alt="图片"></p><p>15、安装完成。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202502081525097.png" alt="图片"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;div class=&quot;tip sync&quot;&gt;&lt;p&gt;安装指南：&lt;br&gt;1、链接：Mac软件目录：&lt;a href=&quot;/Mac/&quot;&gt;点击查看&lt;/a&gt; &amp;emsp;    Mac软件常见报错问题：&lt;a href=&quot;/2023/09/02/MAC/Mac%E8%BD%AF%E4%BB%B6</summary>
+      
+    
+    
+    
+    <category term="Mac软件" scheme="http://www.lumingrj.com/categories/Mac%E8%BD%AF%E4%BB%B6/"/>
+    
+    
+    <category term="SnapGene" scheme="http://www.lumingrj.com/tags/SnapGene/"/>
+    
+    <category term="Mac软件" scheme="http://www.lumingrj.com/tags/Mac%E8%BD%AF%E4%BB%B6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>兼容M1~M4芯片•SnapGene 7.0.2 For Mac版本•中英文•软件安装包下载 安装教程步骤•苹果系统</title>
+    <link href="http://www.lumingrj.com/2025/02/09/MAC/SnapGene-7.0.2/"/>
+    <id>http://www.lumingrj.com/2025/02/09/MAC/SnapGene-7.0.2/</id>
+    <published>2025-02-09T04:45:28.000Z</published>
+    <updated>2025-02-08T07:23:20.674Z</updated>
+    
+    <content type="html"><![CDATA[<div class="tip sync"><p>安装指南：<br>1、链接：Mac软件目录：<a href="/Mac/">点击查看</a> &emsp;    Mac软件常见报错问题：<a href="/2023/09/02/MAC/Mac%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E9%97%AE%E9%A2%98%E7%9B%AE%E5%BD%95/">点击查看</a><br>2、客服：若安装报错问题，自己解决不了，打开安装包内的【联系客服】，添加客服QQ，或点击本网页最上面【联系客服】！</p></div><div class="img-wrap"><div class="img-bg"><img class="img" src="https://bu.dusays.com/2025/02/08/67a705e85fffb.png" style="width:80px;"/></div></div><h3 id=""><a href="#" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">软件详情+下载链接：</span>    </p></section></div></h3><details class="folding-tag" cyan open><summary> 软件详情+下载链接 </summary>              <div class='content'>              <p><mark class="hl-label green">软件名称</mark> <b>：SnapGene 7.0.2 For Mac版本•<mark class="hl-label green">激活版</mark> </b></p><p><mark class="hl-label green">界面语言</mark> ：简体中文+英文</p><p><mark class="hl-label green">软件简介</mark> ：日常分子生物学工具</p><p><mark class="hl-label purple">系统版本</mark> ：Mac 11.0-15.x Sequoia 或更高</p><p><mark class="hl-label purple">兼容芯片</mark> ：支持Intel、M1-M4及更高芯片</p><p><mark class="hl-label green">亲测安装</mark> ：所有资源皆经严格把关、实机安装测试！</p><p><b> [百度网盘丨下载链接]：</b><br><a href="https://pan.baidu.com/s/1EJzNgILE1qmRRmFWajvurQ?pwd=8866">https://pan.baidu.com/s/1EJzNgILE1qmRRmFWajvurQ?pwd=8866</a><br><b> [123 云盘丨下载链接]：</b><br><a href="https://www.123pan.com/s/LZZBjv-AEiW">https://www.123pan.com/s/LZZBjv-AEiW</a></p><div class='checkbox green checked'><input type="radio" checked="checked"/>            <p>下载：下载链接里，下载需要安装的版本即可，不用所有版本全部下载！</p>            </div><div class='checkbox green checked'><input type="radio" checked="checked"/>            <p>客服：打开安装包内的 [联系客服]，添加客服QQ，或点击本网页最上面 [联系客服]！</p>            </div>              </div>            </details><h3 id="-1"><a href="#-1" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">安装教程：</span>    </p></section></div></h3><p>1、双击打开，下载到Mac电脑上的【A.SnapGene 7.0.2.dmg】软件安装包。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202502081522500.webp" alt="图片"></p><h4 id="-2"><a href="#-2" class="headerlink" title=""></a><mark class="hl-label red">安装前一定要做的：</mark> </h4><p>●输入软件密码，打开安装包后：双击打开安装包左下角的【修复工具】，修复完成后，再返回本教程安装。<b>修复工具操作教程：<a href="/2023/09/18/MAC/WT/003/">点击查看</a></b></p><div style="display:inline-block;"><img style="float:left;" src=https://bu.dusays.com/2023/09/12/64ff44a6dd274.png></div> <p>2、把左面的软件图标，拖拉到右边的文件夹里。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202502081522911.webp" alt="图片"></p><p>3、在【启动台】里，打开软件图标。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202502081522976.webp" alt="图片"></p><p>4、勾选【不要再显示】，点击【可以】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202502081522921.webp" alt="图片"></p><p>5、菜单栏上，点击【SnapGene】-【首选项】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202502081522930.webp" alt="图片"></p><p>6、在【一般】里面，<strong>取消勾选</strong>红框内的选项。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202502081522933.webp" alt="图片"></p><p>7、安装完成。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202502081522003.webp" alt="图片"></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202502081522631.webp" alt="图片"></p><p>8、<strong>软件界面语言切换：</strong>点击【帮助&#x2F;Help】-【语言&#x2F;Language】，选择自己需要的语言。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202502081522655.webp" alt="图片"></p><p>9、点击【OK】。<strong>（然后关闭软件，重新打开）</strong></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202502081522680.webp" alt="图片"></p><p>10、英文界面。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202502081522388.webp" alt="图片"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;div class=&quot;tip sync&quot;&gt;&lt;p&gt;安装指南：&lt;br&gt;1、链接：Mac软件目录：&lt;a href=&quot;/Mac/&quot;&gt;点击查看&lt;/a&gt; &amp;emsp;    Mac软件常见报错问题：&lt;a href=&quot;/2023/09/02/MAC/Mac%E8%BD%AF%E4%BB%B6</summary>
+      
+    
+    
+    
+    <category term="Mac软件" scheme="http://www.lumingrj.com/categories/Mac%E8%BD%AF%E4%BB%B6/"/>
+    
+    
+    <category term="SnapGene" scheme="http://www.lumingrj.com/tags/SnapGene/"/>
+    
+    <category term="Mac软件" scheme="http://www.lumingrj.com/tags/Mac%E8%BD%AF%E4%BB%B6/"/>
     
   </entry>
   
@@ -192,9 +192,9 @@
     <category term="Mac软件" scheme="http://www.lumingrj.com/categories/Mac%E8%BD%AF%E4%BB%B6/"/>
     
     
-    <category term="Mac软件" scheme="http://www.lumingrj.com/tags/Mac%E8%BD%AF%E4%BB%B6/"/>
-    
     <category term="ITK-SNAP" scheme="http://www.lumingrj.com/tags/ITK-SNAP/"/>
+    
+    <category term="Mac软件" scheme="http://www.lumingrj.com/tags/Mac%E8%BD%AF%E4%BB%B6/"/>
     
   </entry>
   
@@ -218,11 +218,11 @@
     <category term="Mac软件" scheme="http://www.lumingrj.com/categories/Mac%E8%BD%AF%E4%BB%B6/"/>
     
     
-    <category term="Mac软件" scheme="http://www.lumingrj.com/tags/Mac%E8%BD%AF%E4%BB%B6/"/>
-    
     <category term="LrC" scheme="http://www.lumingrj.com/tags/LrC/"/>
     
     <category term="Lightroom Classic" scheme="http://www.lumingrj.com/tags/Lightroom-Classic/"/>
+    
+    <category term="Mac软件" scheme="http://www.lumingrj.com/tags/Mac%E8%BD%AF%E4%BB%B6/"/>
     
   </entry>
   
@@ -272,11 +272,11 @@
     <category term="Mac软件" scheme="http://www.lumingrj.com/categories/Mac%E8%BD%AF%E4%BB%B6/"/>
     
     
-    <category term="Mac软件" scheme="http://www.lumingrj.com/tags/Mac%E8%BD%AF%E4%BB%B6/"/>
-    
     <category term="PS" scheme="http://www.lumingrj.com/tags/PS/"/>
     
     <category term="PhotoShop" scheme="http://www.lumingrj.com/tags/PhotoShop/"/>
+    
+    <category term="Mac软件" scheme="http://www.lumingrj.com/tags/Mac%E8%BD%AF%E4%BB%B6/"/>
     
   </entry>
   
@@ -300,9 +300,9 @@
     <category term="Mac软件" scheme="http://www.lumingrj.com/categories/Mac%E8%BD%AF%E4%BB%B6/"/>
     
     
-    <category term="Mac软件" scheme="http://www.lumingrj.com/tags/Mac%E8%BD%AF%E4%BB%B6/"/>
-    
     <category term="ParaView" scheme="http://www.lumingrj.com/tags/ParaView/"/>
+    
+    <category term="Mac软件" scheme="http://www.lumingrj.com/tags/Mac%E8%BD%AF%E4%BB%B6/"/>
     
   </entry>
   
@@ -326,9 +326,9 @@
     <category term="Mac软件" scheme="http://www.lumingrj.com/categories/Mac%E8%BD%AF%E4%BB%B6/"/>
     
     
-    <category term="Mac软件" scheme="http://www.lumingrj.com/tags/Mac%E8%BD%AF%E4%BB%B6/"/>
-    
     <category term="Python" scheme="http://www.lumingrj.com/tags/Python/"/>
+    
+    <category term="Mac软件" scheme="http://www.lumingrj.com/tags/Mac%E8%BD%AF%E4%BB%B6/"/>
     
   </entry>
   
@@ -352,9 +352,9 @@
     <category term="Mac软件" scheme="http://www.lumingrj.com/categories/Mac%E8%BD%AF%E4%BB%B6/"/>
     
     
-    <category term="Mac软件" scheme="http://www.lumingrj.com/tags/Mac%E8%BD%AF%E4%BB%B6/"/>
-    
     <category term="R语言" scheme="http://www.lumingrj.com/tags/R%E8%AF%AD%E8%A8%80/"/>
+    
+    <category term="Mac软件" scheme="http://www.lumingrj.com/tags/Mac%E8%BD%AF%E4%BB%B6/"/>
     
   </entry>
   
@@ -378,9 +378,9 @@
     <category term="Mac软件" scheme="http://www.lumingrj.com/categories/Mac%E8%BD%AF%E4%BB%B6/"/>
     
     
-    <category term="Mac软件" scheme="http://www.lumingrj.com/tags/Mac%E8%BD%AF%E4%BB%B6/"/>
-    
     <category term="RStudio" scheme="http://www.lumingrj.com/tags/RStudio/"/>
+    
+    <category term="Mac软件" scheme="http://www.lumingrj.com/tags/Mac%E8%BD%AF%E4%BB%B6/"/>
     
   </entry>
   
@@ -404,11 +404,11 @@
     <category term="Mac软件" scheme="http://www.lumingrj.com/categories/Mac%E8%BD%AF%E4%BB%B6/"/>
     
     
-    <category term="Mac软件" scheme="http://www.lumingrj.com/tags/Mac%E8%BD%AF%E4%BB%B6/"/>
-    
     <category term="AE" scheme="http://www.lumingrj.com/tags/AE/"/>
     
     <category term="After Effects" scheme="http://www.lumingrj.com/tags/After-Effects/"/>
+    
+    <category term="Mac软件" scheme="http://www.lumingrj.com/tags/Mac%E8%BD%AF%E4%BB%B6/"/>
     
   </entry>
   
@@ -432,11 +432,11 @@
     <category term="Mac软件" scheme="http://www.lumingrj.com/categories/Mac%E8%BD%AF%E4%BB%B6/"/>
     
     
-    <category term="Mac软件" scheme="http://www.lumingrj.com/tags/Mac%E8%BD%AF%E4%BB%B6/"/>
-    
     <category term="AI" scheme="http://www.lumingrj.com/tags/AI/"/>
     
     <category term="Illustrator" scheme="http://www.lumingrj.com/tags/Illustrator/"/>
+    
+    <category term="Mac软件" scheme="http://www.lumingrj.com/tags/Mac%E8%BD%AF%E4%BB%B6/"/>
     
   </entry>
   
@@ -460,11 +460,11 @@
     <category term="Mac软件" scheme="http://www.lumingrj.com/categories/Mac%E8%BD%AF%E4%BB%B6/"/>
     
     
-    <category term="Mac软件" scheme="http://www.lumingrj.com/tags/Mac%E8%BD%AF%E4%BB%B6/"/>
-    
     <category term="ME" scheme="http://www.lumingrj.com/tags/ME/"/>
     
     <category term="Media Encoder" scheme="http://www.lumingrj.com/tags/Media-Encoder/"/>
+    
+    <category term="Mac软件" scheme="http://www.lumingrj.com/tags/Mac%E8%BD%AF%E4%BB%B6/"/>
     
   </entry>
   
@@ -488,20 +488,20 @@
     <category term="Mac软件" scheme="http://www.lumingrj.com/categories/Mac%E8%BD%AF%E4%BB%B6/"/>
     
     
-    <category term="Mac软件" scheme="http://www.lumingrj.com/tags/Mac%E8%BD%AF%E4%BB%B6/"/>
-    
     <category term="Stata" scheme="http://www.lumingrj.com/tags/Stata/"/>
+    
+    <category term="Mac软件" scheme="http://www.lumingrj.com/tags/Mac%E8%BD%AF%E4%BB%B6/"/>
     
   </entry>
   
   <entry>
-    <title>兼容M1~M4芯片•Stata外部命令 Meta分析 For Mac版本•软件安装包下载 安装教程步骤•苹果系统</title>
-    <link href="http://www.lumingrj.com/2024/12/23/MAC/Stata-Meta/"/>
-    <id>http://www.lumingrj.com/2024/12/23/MAC/Stata-Meta/</id>
+    <title>兼容M1~M4芯片•Stata 18.0 For Mac版本•中英文•软件安装包下载 安装教程步骤•苹果系统</title>
+    <link href="http://www.lumingrj.com/2024/12/23/MAC/Stata-18.0/"/>
+    <id>http://www.lumingrj.com/2024/12/23/MAC/Stata-18.0/</id>
     <published>2024-12-23T04:45:28.000Z</published>
-    <updated>2024-12-22T15:39:17.471Z</updated>
+    <updated>2024-12-22T15:40:22.870Z</updated>
     
-    <content type="html"><![CDATA[<div class="tip sync"><p>安装指南：<br>1、链接：Mac软件目录：<a href="/Mac/">点击查看</a> &emsp;    Mac软件常见报错问题：<a href="/2023/09/02/MAC/Mac%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E9%97%AE%E9%A2%98%E7%9B%AE%E5%BD%95/">点击查看</a><br>2、客服：若安装报错问题，自己解决不了，打开安装包内的【联系客服】，添加客服QQ，或点击本网页最上面【联系客服】！</p></div><div class="img-wrap"><div class="img-bg"><img class="img" src="https://bu.dusays.com/2024/12/22/676830261e624.png" style="width:80px;"/></div></div><h3 id=""><a href="#" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">软件详情+下载链接：</span>    </p></section></div></h3><details class="folding-tag" cyan open><summary> 软件详情+下载链接 </summary>              <div class='content'>              <p><mark class="hl-label green">软件名称</mark> <b>：Stata 外部命令合集 Meta分析 For MAC版本</b></p><p><mark class="hl-label green">界面语言</mark> ：英文</p><p><mark class="hl-label purple">支持版本</mark> ：无Stata版本要求</p><p><mark class="hl-label purple">系统版本</mark> ：无系统要求</p><p><mark class="hl-label purple">兼容芯片</mark> ：无芯片要求</p><p><mark class="hl-label green">亲测安装</mark> ：所有资源皆经严格把关、实机安装测试！</p><p><b> [百度网盘丨下载链接]：</b><br><a href="https://pan.baidu.com/s/13XQvNnoGfQn7YHE7Zm4XGw?pwd=8866">https://pan.baidu.com/s/13XQvNnoGfQn7YHE7Zm4XGw?pwd=8866</a><br><b> [123 云盘丨下载链接]：</b><br><a href="https://www.123pan.com/s/LZZBjv-O8tW">https://www.123pan.com/s/LZZBjv-O8tW</a></p><div class='checkbox green checked'><input type="radio" checked="checked"/>            <p>下载：下载链接里，下载需要安装的版本即可，不用所有版本全部下载！</p>            </div><div class='checkbox green checked'><input type="radio" checked="checked"/>            <p>客服：打开安装包内的 [联系客服]，添加客服QQ，或点击本网页最上面 [联系客服]！</p>            </div>              </div>            </details><h3 id="-1"><a href="#-1" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">安装教程：</span>    </p></section></div></h3><h4 id="：1）需要先安装Stata软件，支持Stata所有版本。2）这里以Stata-MP18为例，其他版本安装教程一样。"><a href="#：1）需要先安装Stata软件，支持Stata所有版本。2）这里以Stata-MP18为例，其他版本安装教程一样。" class="headerlink" title="：1）需要先安装Stata软件，支持Stata所有版本。2）这里以Stata&#x2F;MP18为例，其他版本安装教程一样。"></a><mark class="hl-label red">说明</mark> <b>：1）需要先安装Stata软件，支持Stata所有版本。2）这里以Stata&#x2F;MP18为例，其他版本安装教程一样。</b></h4><p>1、双击打开，下载到Mac电脑上的【A.Stata外部命令.dmg】软件安装包。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202412222338502.png" alt="图片"></p><p>2、双击打开【替换路径】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202412222338400.png" alt="图片"></p><p>3、<strong>复制</strong>红框内的路径。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202412222338383.png" alt="图片"></p><p>4、电脑最上面的菜单栏，点击【前往】-【前往文件夹】。**(若菜单栏上没有前往，在桌面上点击一下，就有了)**</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202412222338443.png" alt="图片"></p><p>5、在弹出的对话框里，粘贴，然后按【回车键】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202412222338355.png" alt="图片"></p><p>6、打开的【base】文件夹，放一边，等下用。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202412222338409.png" alt="图片"></p><p>7、返回安装包，打开【外部命令】文件夹。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202412222338429.png" alt="图片"></p><p>8、全选【外部命令】里面的所有文件，【右键-拷贝】或【快捷键：Command+C】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202412222338834.png" alt="图片"></p><p>9、在【base】文件夹里面，【右键-粘贴…】或【快捷键：Command+V】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202412222338012.png" alt="图片"></p><p>10、<strong>勾选</strong>【全部应用】，点击【合并】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202412222338943.png" alt="图片"></p><p>11、<strong>复制完成后</strong>，在【启动台】里，打开软件图标。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202412222338202.png" alt="图片"></p><p>12、打开软件后，可以看到这样一条命令，说明安装好了。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202412222338256.png" alt="图片"></p><p>13、菜单栏上，点击【用户】-【MeTa-Analysis】，点击打开需要的命令即可。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202412222338620.png" alt="图片"></p><p>14、安装完成。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202412222338643.png" alt="图片"></p>]]></content>
+    <content type="html"><![CDATA[<div class="tip sync"><p>安装指南：<br>1、链接：Mac软件目录：<a href="/Mac/">点击查看</a> &emsp;    Mac软件常见报错问题：<a href="/2023/09/02/MAC/Mac%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E9%97%AE%E9%A2%98%E7%9B%AE%E5%BD%95/">点击查看</a><br>2、客服：若安装报错问题，自己解决不了，打开安装包内的【联系客服】，添加客服QQ，或点击本网页最上面【联系客服】！</p></div><div class="img-wrap"><div class="img-bg"><img class="img" src="https://bu.dusays.com/2024/12/22/676830261e624.png" style="width:80px;"/></div></div><h3 id=""><a href="#" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">软件详情+下载链接：</span>    </p></section></div></h3><details class="folding-tag" cyan open><summary> 软件详情+下载链接 </summary>              <div class='content'>              <p><mark class="hl-label green">软件名称</mark> <b>：Stata&#x2F;MP 18.0 For MAC版本•<mark class="hl-label green">永久激活版</mark> </b></p><p><mark class="hl-label green">界面语言</mark> ：简体中文+英文</p><p><mark class="hl-label green">软件简介</mark> ：数据统计分析管理、图表绘制</p><p><mark class="hl-label purple">系统版本</mark> ：Mac 10.13-15.x Sequoia 或更高</p><p><mark class="hl-label purple">兼容芯片</mark> ：支持Intel、M1-M4及更高芯片</p><p><mark class="hl-label green">亲测安装</mark> ：所有资源皆经严格把关、实机安装测试！</p><p><b> [百度网盘丨下载链接]：</b><br><a href="https://pan.baidu.com/s/13XQvNnoGfQn7YHE7Zm4XGw?pwd=8866">https://pan.baidu.com/s/13XQvNnoGfQn7YHE7Zm4XGw?pwd=8866</a><br><b> [123 云盘丨下载链接]：</b><br><a href="https://www.123pan.com/s/LZZBjv-O8tW">https://www.123pan.com/s/LZZBjv-O8tW</a></p><div class='checkbox green checked'><input type="radio" checked="checked"/>            <p>下载：下载链接里，下载需要安装的版本即可，不用所有版本全部下载！</p>            </div><div class='checkbox green checked'><input type="radio" checked="checked"/>            <p>客服：打开安装包内的 [联系客服]，添加客服QQ，或点击本网页最上面 [联系客服]！</p>            </div>              </div>            </details><h3 id="-1"><a href="#-1" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">安装教程：</span>    </p></section></div></h3><p>1、双击打开，下载到Mac电脑上的【A.Stata 18.0 v3.dmg】软件安装包。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202412222329020.webp" alt="图片"></p><h4 id="-2"><a href="#-2" class="headerlink" title=""></a><mark class="hl-label red">安装前一定要做的：</mark> </h4><p>●输入软件密码，打开安装包后：双击打开安装包左下角的【修复工具】，修复完成后，再返回本教程安装。<b>修复工具操作教程：<a href="/2023/09/18/MAC/WT/003/">点击查看</a></b></p><div style="display:inline-block;"><img style="float:left;" src=https://bu.dusays.com/2023/09/12/64ff44a6dd274.png></div> <p>2、双击打开【Install Stata】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202412222329407.webp" alt="图片"></p><p>3、点击【继续】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202412222329426.webp" alt="图片"></p><p>4、点击【继续】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202412222329443.webp" alt="图片"></p><p>5、点击【同意】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202412222329420.webp" alt="图片"></p><p>6、选择【Stata&#x2F;MP】，点击【继续】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202412222329424.webp" alt="图片"></p><p>7、点击【安装】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202412222329368.webp" alt="图片"></p><p>8、输入【开机密码】，点击【安装软件】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202412222329967.webp" alt="图片"></p><p>9、等待安装完成。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202412222329006.webp" alt="图片"></p><p>10、点击【关闭】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202412222329090.webp" alt="图片"></p><p>11、在【启动台】里，打开软件图标。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202412222329801.webp" alt="图片"></p><p>12、弹出的这个窗口，放一边，等下用。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202412222329826.webp" alt="图片"></p><p>13、返回安装包，打开【激活码】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202412222329889.webp" alt="图片"></p><p>14、把【激活码】里面的信息，分别复制到【软件激活页面】，点击【NEXT】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202412222329726.webp" alt="图片"></p><p>15、<strong>取消勾选</strong>红框内的选项，点击【Next】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202412222329806.webp" alt="图片"></p><p>16、点击【Finish】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202412222330217.webp" alt="图片"></p><p>17、选择【Disable automatic…】，<strong>取消勾选</strong>【Always prompt…】，点击【OK】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202412222330485.webp" alt="图片"></p><p>18、安装完成，默认安装为英文界面。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202412222330566.webp" alt="图片"></p><p>19、<strong>软件界面语言切换：</strong>点击【Stata&#x2F;MP 18.0】-【Settings】-【User-interface language】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202412222330626.webp" alt="图片"></p><p>20、选择自己需要的语言，点击【OK】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202412222330337.webp" alt="图片"></p><p>21、然后关闭软件，重新打开即可。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202412222330417.webp" alt="图片"></p>]]></content>
     
     
       
@@ -514,9 +514,9 @@
     <category term="Mac软件" scheme="http://www.lumingrj.com/categories/Mac%E8%BD%AF%E4%BB%B6/"/>
     
     
-    <category term="Mac软件" scheme="http://www.lumingrj.com/tags/Mac%E8%BD%AF%E4%BB%B6/"/>
-    
     <category term="Stata" scheme="http://www.lumingrj.com/tags/Stata/"/>
+    
+    <category term="Mac软件" scheme="http://www.lumingrj.com/tags/Mac%E8%BD%AF%E4%BB%B6/"/>
     
   </entry>
   
@@ -540,9 +540,9 @@
     <category term="Mac软件" scheme="http://www.lumingrj.com/categories/Mac%E8%BD%AF%E4%BB%B6/"/>
     
     
-    <category term="Mac软件" scheme="http://www.lumingrj.com/tags/Mac%E8%BD%AF%E4%BB%B6/"/>
-    
     <category term="Stata" scheme="http://www.lumingrj.com/tags/Stata/"/>
+    
+    <category term="Mac软件" scheme="http://www.lumingrj.com/tags/Mac%E8%BD%AF%E4%BB%B6/"/>
     
   </entry>
   
