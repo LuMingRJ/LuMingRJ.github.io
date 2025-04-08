@@ -6,7 +6,7 @@
   <link href="http://www.lumingrj.com/atom.xml" rel="self"/>
   
   <link href="http://www.lumingrj.com/"/>
-  <updated>2025-03-13T11:34:05.472Z</updated>
+  <updated>2025-04-07T03:34:24.897Z</updated>
   <id>http://www.lumingrj.com/</id>
   
   <author>
@@ -15,6 +15,216 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>3D Slicer 5.8.1 WIN版本•中文英文•软件安装包下载 安装教程步骤•WIN系统•三维重建、医学图像分析软件</title>
+    <link href="http://www.lumingrj.com/2025/04/08/WIN/3D-Slicer-5.8.1/"/>
+    <id>http://www.lumingrj.com/2025/04/08/WIN/3D-Slicer-5.8.1/</id>
+    <published>2025-04-08T04:45:28.000Z</published>
+    <updated>2025-04-07T03:34:24.897Z</updated>
+    
+    <content type="html"><![CDATA[<div class="tip sync"><p>安装指南：<br>1、链接：Win软件目录：<a href="/Win/">点击查看</a> &emsp;    Win软件常见报错问题：<a href="/2023/09/06/WIN/WIN%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E9%97%AE%E9%A2%98%E7%9B%AE%E5%BD%95/">点击查看</a><br>2、客服：若安装报错问题，自己解决不了，打开安装包内的【联系客服】，添加客服QQ，或点击本网页最上面【联系客服】！</p></div><div class="img-wrap"><div class="img-bg"><img class="img" src="https://bu.dusays.com/2023/11/05/6547b4493a756.png" style="width:80px;"/></div></div><h3 id=""><a href="#" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">软件详情+下载链接：</span>    </p></section></div></h3><details class="folding-tag" cyan open><summary> 软件详情+下载链接 </summary>              <div class='content'>              <p><mark class="hl-label green">软件名称</mark> <b>：3D Slicer 5.8.1 WIN版本</b></p><p><mark class="hl-label green">界面语言</mark> ：简体中文+英文</p><p><mark class="hl-label green">软件简介</mark> ：三维重建、医学图像分析软件</p><p><mark class="hl-label purple">安装环境</mark> ：Win10&#x2F;Win11系统</p><p><mark class="hl-label purple">系统位数</mark> ：64位</p><p><mark class="hl-label green">亲测安装</mark> ：所有资源皆经严格把关、实机安装测试！</p><p><b> [百度网盘丨下载链接]：</b><br><a href="https://pan.baidu.com/s/15OWxosHo9L6GzASvZnjEFg?pwd=8866">https://pan.baidu.com/s/15OWxosHo9L6GzASvZnjEFg?pwd=8866</a><br><b> [123 云盘丨下载链接]：</b><br><a href="https://www.123pan.com/s/LZZBjv-gb7W.html">https://www.123pan.com/s/LZZBjv-gb7W.html</a></p><div class='checkbox green checked'><input type="radio" checked="checked"/>            <p>下载：下载链接里，下载需要安装的版本即可，不用所有版本全部下载！</p>            </div><div class='checkbox green checked'><input type="radio" checked="checked"/>            <p>客服：打开安装包内的 [联系客服]，添加客服QQ，或点击本网页最上面 [联系客服]！</p>            </div>              </div>            </details><h3 id="-1"><a href="#-1" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">安装教程：</span>    </p></section></div></h3><mark class="hl-label green">安装说明</mark> ：<b>1）若解压后文件消失，或打开文件误报毒消失，是因杀毒软件误删了文件。关闭杀毒软件，重新解压安装包即可。所有安装包均实机亲测，无任何病毒，有些杀毒软件可能会存在误报情况。2）一定要解压成文件夹再安装，不要在【压缩包】里安装，容易出现安装问题。</b><p>1、右击下载到电脑上的【安装包】，把压缩包解压成文件夹，然后双击打开【A.Slicer 5.8.1】文件夹。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071133640.webp" alt="图片"></p><p>2、双击打开【Setup.exe】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071133676.png" alt="图片"></p><p>3、点击【下一步】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071133665.webp" alt="图片"></p><p>4、点击【我接受】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071133636.png" alt="图片"></p><p>5、默认安装位置为C盘，如要安装到别的盘，更改安装路径后，点击【下一步】。</p><p><strong>1、例如：要安装到D盘，在D盘或D盘其他文件夹里，新建一个英文名+版本号文件夹，然后该安装界面里，点击【浏览】，选择到新建的文件夹即可。</strong></p><p><strong>2、说明：软件安装路径中，不要有中文，会导致有些软件安装完，出现弹窗报错、闪退、打不开等问题。</strong></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071133701.webp" alt="图片"></p><p>6、点击【安装】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071133667.webp" alt="图片"></p><p>7、等待安装完成。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071133441.webp" alt="图片"></p><p>8、<strong>只勾选选红框内的选项</strong>，点击【完成】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071133501.png" alt="图片"></p><p>9、桌面上，双击打开软件图标。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071133601.png" alt="图片"></p><p>10、<strong>勾选</strong>【Dont show…】，显示【OK】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071133583.png" alt="图片"></p><p>11、安装完成。<strong>（后面是中文汉化教程，不用中文的，可以忽略后面的步骤）</strong></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071133622.webp" alt="图片"></p><p>12、<strong>中文汉化：</strong>关闭软件。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071133865.png" alt="图片"></p><p>13、<strong>勾选</strong>【Dont show…】，显示【OK】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071133085.png" alt="图片"></p><p>14、返回安装包，<strong>复制</strong>【transiations】文件夹。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071133243.webp" alt="图片"></p><p>15、桌面上，右击软件图标，选择【打开文件所在的位置】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071133369.png" alt="图片"></p><p>16、双击打开【bin】文件夹。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071133416.webp" alt="图片"></p><p>17、在空白处，右击粘贴。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071133504.webp" alt="图片"></p><p>18、桌面上，双击打开软件图标。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071133601.png" alt="图片"></p><p>19、菜单栏，点击【Edit】-【Application Settings】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071133809.png" alt="图片"></p><p>20、在【Internationalization】里，<strong>勾选</strong>【Enable Internationalization】，点击【OK】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071133952.png" alt="图片"></p><p>21、点击【YES】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071133938.png" alt="图片"></p><p>22、等待软件自动重启后，菜单栏，点击【Edit】-【Application Settings】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071133992.webp" alt="图片"></p><p>23、点击【General】，在【Language】里，选择【Chinese】，点击【OK】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071133053.webp" alt="图片"></p><p>24、点击【YES】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071133110.webp" alt="图片"></p><p>25、等待软件自动重启，汉化完成。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071133732.png" alt="图片"></p><p>26、后期若要切换中英文界面，直接在设置里选择【中文】或【英文】即可。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071133802.png" alt="图片"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;div class=&quot;tip sync&quot;&gt;&lt;p&gt;安装指南：&lt;br&gt;1、链接：Win软件目录：&lt;a href=&quot;/Win/&quot;&gt;点击查看&lt;/a&gt; &amp;emsp;    Win软件常见报错问题：&lt;a href=&quot;/2023/09/06/WIN/WIN%E8%BD%AF%E4%BB%B6</summary>
+      
+    
+    
+    
+    <category term="Win软件" scheme="http://www.lumingrj.com/categories/Win%E8%BD%AF%E4%BB%B6/"/>
+    
+    
+    <category term="Slicer" scheme="http://www.lumingrj.com/tags/Slicer/"/>
+    
+    <category term="Win软件" scheme="http://www.lumingrj.com/tags/Win%E8%BD%AF%E4%BB%B6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Adobe Acrobat Pro 2024 WIN版本•中文英文•软件安装包下载 安装教程步骤•WIN系统•PDF编辑阅读转换</title>
+    <link href="http://www.lumingrj.com/2025/04/08/WIN/Acrobat-2024/"/>
+    <id>http://www.lumingrj.com/2025/04/08/WIN/Acrobat-2024/</id>
+    <published>2025-04-08T04:45:28.000Z</published>
+    <updated>2025-04-07T03:23:37.052Z</updated>
+    
+    <content type="html"><![CDATA[<div class="tip sync"><p>安装指南：<br>1、链接：Win软件目录：<a href="/Win/">点击查看</a> &emsp;    Win软件常见报错问题：<a href="/2023/09/06/WIN/WIN%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E9%97%AE%E9%A2%98%E7%9B%AE%E5%BD%95/">点击查看</a><br>2、客服：若安装报错问题，自己解决不了，打开安装包内的【联系客服】，添加客服QQ，或点击本网页最上面【联系客服】！</p></div><div class="img-wrap"><div class="img-bg"><img class="img" src="https://bu.dusays.com/2023/09/08/64fb4434c2f75.png" style="width:80px;"/></div></div><h3 id=""><a href="#" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">软件详情+下载链接：</span>    </p></section></div></h3><details class="folding-tag" cyan open><summary> 软件详情+下载链接 </summary>              <div class='content'>              <p><mark class="hl-label green">软件名称</mark> <b>：Adobe Acrobat Pro 2024.001.20615 WIN版本•<mark class="hl-label green">激活版</mark> </b></p><p><mark class="hl-label green">界面语言</mark> ：简体中文+英文</p><p><mark class="hl-label green">软件简介</mark> ：PDF编辑、阅读、格式转换</p><p><mark class="hl-label purple">安装环境</mark> ：Win10&#x2F;Win11系统</p><p><mark class="hl-label purple">系统位数</mark> ：64位</p><p><mark class="hl-label green">亲测安装</mark> ：所有资源皆经严格把关、实机安装测试！</p><p><b> [百度网盘丨下载链接]：</b><br><a href="https://pan.baidu.com/s/107BZtbiM5X5QxusARknsNg?pwd=8866">https://pan.baidu.com/s/107BZtbiM5X5QxusARknsNg?pwd=8866</a><br><b> [123 云盘丨下载链接]：</b><br><a href="https://www.123pan.com/s/LZZBjv-vZbW.html">https://www.123pan.com/s/LZZBjv-vZbW.html</a></p><div class='checkbox green checked'><input type="radio" checked="checked"/>            <p>下载：下载链接里，下载需要安装的版本即可，不用所有版本全部下载！</p>            </div><div class='checkbox green checked'><input type="radio" checked="checked"/>            <p>客服：打开安装包内的 [联系客服]，添加客服QQ，或点击本网页最上面 [联系客服]！</p>            </div>              </div>            </details><h3 id="-1"><a href="#-1" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">安装教程：</span>    </p></section></div></h3><mark class="hl-label green">安装说明</mark> ：<b>1）若解压后文件消失，或打开文件误报毒消失，是因杀毒软件误删了文件。关闭杀毒软件，重新解压安装包即可。所有安装包均实机亲测，无任何病毒，有些杀毒软件可能会存在误报情况。2）一定要解压成文件夹再安装，不要在【压缩包】里安装，容易出现安装问题。</b><p><b><mark class="hl-label red">断网安装：需要关闭电脑网络，断网安装</mark> </b>，<b><mark class="hl-label red">关闭杀毒：需要关闭杀毒软件，进行安装</mark> </b></p><p>1、右击下载到电脑上的【压缩包】，把压缩包解压成文件夹，然后双击打开【A.Acrobat Pro 2024.001.20615】文件夹。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071122640.webp" alt="图片"></p><p>2、双击打开【Setup】文件夹。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071122662.webp" alt="图片"></p><p>3、双击【autoplay.exe】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071122643.webp" alt="图片"></p><p>4、点击【Install】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071122659.webp" alt="图片"></p><p>5、等待一会。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071122651.webp" alt="图片"></p><p>6、点击【安装】。<strong>（说明：这个版本不要更改安装路径，不然激活不了，只能安装默认位置）</strong></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071122672.png" alt="图片"></p><p>7、等待安装完成。<strong>（安装比较慢，耐心等待）</strong></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071122146.webp" alt="图片"></p><p>8、点击【完成】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071122177.webp" alt="图片"></p><p>9、返回安装包，双击打开【修复OCR中文语言.exe】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071122346.webp" alt="图片"></p><p>10、点击【是】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071122395.webp" alt="图片"></p><p>11、等待安装完成。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071122426.webp" alt="图片"></p><p>12、点击【是】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071122540.webp" alt="图片"></p><p>13、返回安装包，<strong>复制</strong>【Crack.exe】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071123471.webp" alt="图片"></p><p>14、电脑左下角，开始程序里，把软件图标，拖拉到桌面上。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071122746.webp" alt="图片"></p><p>15、桌面上，右击【软件图标】-【打开文件所在的位置】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071122753.webp" alt="图片"></p><p>16、在空白处，右击粘贴。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071122822.webp" alt="图片"></p><p>17、点击【继续】。<strong>（没有可忽略）</strong></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071122881.webp" alt="图片"></p><p>18、右击粘贴好的【Crack.exe】-【以管理员身份运行】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071122998.webp" alt="图片"></p><p>19、点击【应用】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071122065.webp" alt="图片"></p><p>20、出现红框内的选项，点击【X】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071122357.webp" alt="图片"></p><p>21、桌面上，双击打开软件图标。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071122206.webp" alt="图片"></p><p>22、安装完成。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071122244.webp" alt="图片"></p><p>23、软件界面语言切换：</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071122304.webp" alt="图片"></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071122476.webp" alt="图片"></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071122533.webp" alt="图片"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;div class=&quot;tip sync&quot;&gt;&lt;p&gt;安装指南：&lt;br&gt;1、链接：Win软件目录：&lt;a href=&quot;/Win/&quot;&gt;点击查看&lt;/a&gt; &amp;emsp;    Win软件常见报错问题：&lt;a href=&quot;/2023/09/06/WIN/WIN%E8%BD%AF%E4%BB%B6</summary>
+      
+    
+    
+    
+    <category term="Win软件" scheme="http://www.lumingrj.com/categories/Win%E8%BD%AF%E4%BB%B6/"/>
+    
+    
+    <category term="Acrobat Pro" scheme="http://www.lumingrj.com/tags/Acrobat-Pro/"/>
+    
+    <category term="Win软件" scheme="http://www.lumingrj.com/tags/Win%E8%BD%AF%E4%BB%B6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Adobe Acrobat Pro 2025 WIN版本•中文英文•软件安装包下载 安装教程步骤•WIN系统•PDF编辑阅读转换</title>
+    <link href="http://www.lumingrj.com/2025/04/08/WIN/Acrobat-2025/"/>
+    <id>http://www.lumingrj.com/2025/04/08/WIN/Acrobat-2025/</id>
+    <published>2025-04-08T04:45:28.000Z</published>
+    <updated>2025-04-07T03:21:17.868Z</updated>
+    
+    <content type="html"><![CDATA[<div class="tip sync"><p>安装指南：<br>1、链接：Win软件目录：<a href="/Win/">点击查看</a> &emsp;    Win软件常见报错问题：<a href="/2023/09/06/WIN/WIN%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E9%97%AE%E9%A2%98%E7%9B%AE%E5%BD%95/">点击查看</a><br>2、客服：若安装报错问题，自己解决不了，打开安装包内的【联系客服】，添加客服QQ，或点击本网页最上面【联系客服】！</p></div><div class="img-wrap"><div class="img-bg"><img class="img" src="https://bu.dusays.com/2023/09/08/64fb4434c2f75.png" style="width:80px;"/></div></div><h3 id=""><a href="#" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">软件详情+下载链接：</span>    </p></section></div></h3><details class="folding-tag" cyan open><summary> 软件详情+下载链接 </summary>              <div class='content'>              <p><mark class="hl-label green">软件名称</mark> <b>：Adobe Acrobat Pro 2025.001.20428 WIN版本•<mark class="hl-label green">激活版</mark> </b></p><p><mark class="hl-label green">界面语言</mark> ：简体中文+英文</p><p><mark class="hl-label green">软件简介</mark> ：PDF编辑、阅读、格式转换</p><p><mark class="hl-label purple">安装环境</mark> ：Win10&#x2F;Win11系统</p><p><mark class="hl-label purple">系统位数</mark> ：64位</p><p><mark class="hl-label green">亲测安装</mark> ：所有资源皆经严格把关、实机安装测试！</p><p><b> [百度网盘丨下载链接]：</b><br><a href="https://pan.baidu.com/s/107BZtbiM5X5QxusARknsNg?pwd=8866">https://pan.baidu.com/s/107BZtbiM5X5QxusARknsNg?pwd=8866</a><br><b> [123 云盘丨下载链接]：</b><br><a href="https://www.123pan.com/s/LZZBjv-vZbW.html">https://www.123pan.com/s/LZZBjv-vZbW.html</a></p><div class='checkbox green checked'><input type="radio" checked="checked"/>            <p>下载：下载链接里，下载需要安装的版本即可，不用所有版本全部下载！</p>            </div><div class='checkbox green checked'><input type="radio" checked="checked"/>            <p>客服：打开安装包内的 [联系客服]，添加客服QQ，或点击本网页最上面 [联系客服]！</p>            </div>              </div>            </details><h3 id="-1"><a href="#-1" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">安装教程：</span>    </p></section></div></h3><mark class="hl-label green">安装说明</mark> ：<b>1）若解压后文件消失，或打开文件误报毒消失，是因杀毒软件误删了文件。关闭杀毒软件，重新解压安装包即可。所有安装包均实机亲测，无任何病毒，有些杀毒软件可能会存在误报情况。2）一定要解压成文件夹再安装，不要在【压缩包】里安装，容易出现安装问题。</b><p><b><mark class="hl-label red">断网安装：需要关闭电脑网络，断网安装</mark> </b>，<b><mark class="hl-label red">关闭杀毒：需要关闭杀毒软件，进行安装</mark> </b></p><p>1、右击下载到电脑上的【安装包】，把压缩包解压成文件夹，然后双击打开【A.Acrobat Pro 2025.001.20428】文件夹。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071120529.png" alt="图片"></p><p>2、双击打开【Setup】文件夹。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071120479.png" alt="图片"></p><p>3、双击【setup.exe】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071120538.png" alt="图片"></p><p>4、点击【安装】。<strong>（说明：这个版本不要更改安装路径，不然激活不了，只能安装默认位置）</strong></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071120592.png" alt="图片"></p><p>5、等待安装完成。<strong>（安装比较慢，耐心等待）</strong></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071120545.png" alt="图片"></p><p>6、点击【完成】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071120533.png" alt="图片"></p><p>7、返回安装包，<strong>复制</strong>【Crack.exe】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071120486.png" alt="图片"></p><p>8、桌面上，右击【软件图标】-【打开文件所在的位置】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071120539.png" alt="图片"></p><p>9、在空白处，右击粘贴。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071120811.png" alt="图片"></p><p>10、点击【继续】。<strong>（没有可忽略）</strong></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071120646.png" alt="图片"></p><p>11、右击粘贴好的【Crack.exe】-【以管理员身份运行】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071120872.png" alt="图片"></p><p>12、点击【应用】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071120784.png" alt="图片"></p><p>13、出现红框内的选项，点击【X】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071120080.png" alt="图片"></p><p>14、桌面上，双击打开软件图标。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071120141.png" alt="图片"></p><p>15、安装完成。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071120236.png" alt="图片"></p><p>16、软件界面语言切换：</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071120393.png" alt="图片"></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071120475.png" alt="图片"></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071120514.png" alt="图片"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;div class=&quot;tip sync&quot;&gt;&lt;p&gt;安装指南：&lt;br&gt;1、链接：Win软件目录：&lt;a href=&quot;/Win/&quot;&gt;点击查看&lt;/a&gt; &amp;emsp;    Win软件常见报错问题：&lt;a href=&quot;/2023/09/06/WIN/WIN%E8%BD%AF%E4%BB%B6</summary>
+      
+    
+    
+    
+    <category term="Win软件" scheme="http://www.lumingrj.com/categories/Win%E8%BD%AF%E4%BB%B6/"/>
+    
+    
+    <category term="Acrobat Pro" scheme="http://www.lumingrj.com/tags/Acrobat-Pro/"/>
+    
+    <category term="Win软件" scheme="http://www.lumingrj.com/tags/Win%E8%BD%AF%E4%BB%B6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Agisoft Metashape Pro 2.2.1 WIN版本•中文英文•软件安装包下载 安装教程步骤•PhotoScan</title>
+    <link href="http://www.lumingrj.com/2025/04/08/WIN/Agisoft-Metashape-Pro-2.2.1/"/>
+    <id>http://www.lumingrj.com/2025/04/08/WIN/Agisoft-Metashape-Pro-2.2.1/</id>
+    <published>2025-04-08T04:45:28.000Z</published>
+    <updated>2025-04-07T03:26:37.451Z</updated>
+    
+    <content type="html"><![CDATA[<div class="tip sync"><p>安装指南：<br>1、链接：Win软件目录：<a href="/Win/">点击查看</a> &emsp;    Win软件常见报错问题：<a href="/2023/09/06/WIN/WIN%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E9%97%AE%E9%A2%98%E7%9B%AE%E5%BD%95/">点击查看</a><br>2、客服：若安装报错问题，自己解决不了，打开安装包内的【联系客服】，添加客服QQ，或点击本网页最上面【联系客服】！</p></div><div class="img-wrap"><div class="img-bg"><img class="img" src="https://bu.dusays.com/2024/01/20/65abb4d75be57.png" style="width:80px;"/></div></div><h3 id=""><a href="#" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">软件详情+下载链接：</span>    </p></section></div></h3><details class="folding-tag" cyan open><summary> 软件详情+下载链接 </summary>              <div class='content'>              <p><mark class="hl-label green">软件名称</mark> <b>：Agisoft Metashape Professional 2.2.1 WIN版本•<mark class="hl-label green">激活版</mark> </b></p><p><mark class="hl-label green">界面语言</mark> ：简体中文+英文</p><p><mark class="hl-label green">软件简介</mark> ：多视点三维模型重建工具</p><p><mark class="hl-label purple">安装环境</mark> ：Win10&#x2F;Win11系统</p><p><mark class="hl-label purple">系统位数</mark> ：64位</p><p><mark class="hl-label green">亲测安装</mark> ：所有资源皆经严格把关、实机安装测试！</p><p><b> [百度网盘丨下载链接]：</b><br><a href="https://pan.baidu.com/s/1IxzouCjfBrDa39Ntf15Eow?pwd=8866">https://pan.baidu.com/s/1IxzouCjfBrDa39Ntf15Eow?pwd=8866</a><br><b> [123 云盘丨下载链接]：</b><br><a href="https://www.123pan.com/s/LZZBjv-hr7W.html">https://www.123pan.com/s/LZZBjv-hr7W.html</a></p><div class='checkbox green checked'><input type="radio" checked="checked"/>            <p>下载：下载链接里，下载需要安装的版本即可，不用所有版本全部下载！</p>            </div><div class='checkbox green checked'><input type="radio" checked="checked"/>            <p>客服：打开安装包内的 [联系客服]，添加客服QQ，或点击本网页最上面 [联系客服]！</p>            </div>              </div>            </details><h3 id="-1"><a href="#-1" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">安装教程：</span>    </p></section></div></h3><mark class="hl-label green">安装说明</mark> ：<b>1）若解压后文件消失，或打开文件误报毒消失，是因杀毒软件误删了文件。关闭杀毒软件，重新解压安装包即可。所有安装包均实机亲测，无任何病毒，有些杀毒软件可能会存在误报情况。2）一定要解压成文件夹再安装，不要在【压缩包】里安装，容易出现安装问题。</b><p>1、右击下载到电脑上的【安装包】，把压缩包解压成文件夹，然后双击打开【A.Agisoft Metashape Pro 2.2.1】文件夹。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071126427.png" alt="图片"></p><p>2、双击打开【Setup.msi】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071126424.png" alt="图片"></p><p>3、点击【NEXT】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071126455.png" alt="图片"></p><p>4、勾选【I accept the…】，点击【NEXT】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071126458.png" alt="图片"></p><p>5、点击【NEXT】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071126430.png" alt="图片"></p><p>6、<strong>勾选</strong>【Create desktop…】，点击【NEXT】。**(注：这里不要更改安装路径，不然后期容易出激活问题)**</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071126490.png" alt="图片"></p><p>7、点击【Install】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071126059.png" alt="图片"></p><p>8、等待安装完成。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071126122.png" alt="图片"></p><p>9、点击【Finish】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071126127.png" alt="图片"></p><p>10、返回安装包，右击【Block.cmd】-【以管理员身份运行】。<strong>（这步会出现一个黑色的窗口，等待一会，黑色窗口自动消失即可）</strong></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071126190.png" alt="图片"></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071126163.png" alt="图片"></p><p>11、返回安装包，双击打开【Crack】文件夹。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071126201.png" alt="图片"></p><p>12、<strong>复制</strong>里面的文件。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071126542.png" alt="图片"></p><p>13、桌面上，右击软件图标，选择【打开文件所在的位置】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071126590.png" alt="图片"></p><p>14、在空白处，右击粘贴。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071126689.png" alt="图片"></p><p>15、勾选【为所有当前项目…】，点击【继续】。<strong>（没有可忽略）</strong></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071126605.png" alt="图片"></p><p>16、桌面上，双击打开软件图标。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071126641.png" alt="图片"></p><p>17、默认安装界面为英文。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071126706.png" alt="图片"></p><p>18、中文界面语言切换：点击【Tools】-【Preferences】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071126999.png" alt="图片"></p><p>19、在【General】里，<strong>取消勾选【Check for upadtes…】</strong>，在【Language】里选择【Chinese】，点击【OK】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071126086.png" alt="图片"></p><p>20、安装完成。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071126173.png" alt="图片"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;div class=&quot;tip sync&quot;&gt;&lt;p&gt;安装指南：&lt;br&gt;1、链接：Win软件目录：&lt;a href=&quot;/Win/&quot;&gt;点击查看&lt;/a&gt; &amp;emsp;    Win软件常见报错问题：&lt;a href=&quot;/2023/09/06/WIN/WIN%E8%BD%AF%E4%BB%B6</summary>
+      
+    
+    
+    
+    <category term="Win软件" scheme="http://www.lumingrj.com/categories/Win%E8%BD%AF%E4%BB%B6/"/>
+    
+    
+    <category term="Agisoft Metashape Pro" scheme="http://www.lumingrj.com/tags/Agisoft-Metashape-Pro/"/>
+    
+    <category term="Win软件" scheme="http://www.lumingrj.com/tags/Win%E8%BD%AF%E4%BB%B6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>CAJViewer 9.5.0 WIN版本•中文•软件安装包下载 安装教程步骤•WIN系统•CAJ文献阅读软件</title>
+    <link href="http://www.lumingrj.com/2025/04/08/WIN/CAJViewer-9.5.0/"/>
+    <id>http://www.lumingrj.com/2025/04/08/WIN/CAJViewer-9.5.0/</id>
+    <published>2025-04-08T04:45:28.000Z</published>
+    <updated>2025-04-07T03:36:24.836Z</updated>
+    
+    <content type="html"><![CDATA[<div class="tip sync"><p>安装指南：<br>1、链接：Win软件目录：<a href="/Win/">点击查看</a> &emsp;    Win软件常见报错问题：<a href="/2023/09/06/WIN/WIN%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E9%97%AE%E9%A2%98%E7%9B%AE%E5%BD%95/">点击查看</a><br>2、客服：若安装报错问题，自己解决不了，打开安装包内的【联系客服】，添加客服QQ，或点击本网页最上面【联系客服】！</p></div><div class="img-wrap"><div class="img-bg"><img class="img" src="https://bu.dusays.com/2023/11/06/6547c3ecea66b.png" style="width:80px;"/></div></div><h3 id=""><a href="#" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">软件详情+下载链接：</span>    </p></section></div></h3><details class="folding-tag" cyan open><summary> 软件详情+下载链接 </summary>              <div class='content'>              <p><mark class="hl-label green">软件名称</mark> <b>：CAJViewer 9.5.0 WIN版本</b></p><p><mark class="hl-label green">界面语言</mark> ：简体中文</p><p><mark class="hl-label green">软件简介</mark> ：CAJ文献阅读软件</p><p><mark class="hl-label purple">安装环境</mark> ：Win7&#x2F;Win8&#x2F;Win10&#x2F;Win11系统</p><p><mark class="hl-label purple">系统位数</mark> ：64位</p><p><mark class="hl-label green">亲测安装</mark> ：所有资源皆经严格把关、实机安装测试！</p><p><b> [百度网盘丨下载链接]：</b><br><a href="https://pan.baidu.com/s/1bFfUQYeZorMy95T2GlYreA?pwd=8866">https://pan.baidu.com/s/1bFfUQYeZorMy95T2GlYreA?pwd=8866</a><br><b> [123 云盘丨下载链接]：</b><br><a href="https://www.123912.com/s/LZZBjv-m7iW">https://www.123912.com/s/LZZBjv-m7iW</a></p><div class='checkbox green checked'><input type="radio" checked="checked"/>            <p>下载：下载链接里，下载需要安装的版本即可，不用所有版本全部下载！</p>            </div><div class='checkbox green checked'><input type="radio" checked="checked"/>            <p>客服：打开安装包内的 [联系客服]，添加客服QQ，或点击本网页最上面 [联系客服]！</p>            </div>              </div>            </details><h3 id="-1"><a href="#-1" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">安装教程：</span>    </p></section></div></h3><mark class="hl-label green">安装说明</mark> ：<b>1）若解压后文件消失，或打开文件误报毒消失，是因杀毒软件误删了文件。关闭杀毒软件，重新解压安装包即可。所有安装包均实机亲测，无任何病毒，有些杀毒软件可能会存在误报情况。2）一定要解压成文件夹再安装，不要在【压缩包】里安装，容易出现安装问题。</b><p>1、右击下载到电脑上的【安装包】，把压缩包解压成文件夹，然后双击打开【A.CAJViewer 9.5.0】文件夹。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071136804.webp" alt="图片"></p><p>2、双击打开【Setup.exe】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071136806.webp" alt="图片"></p><p>3、勾选【我已阅读并…】，点击【↓】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071136808.webp" alt="图片"></p><p>4、默认安装位置为C盘，如要安装到别的盘，更改安装路径后，点击【一键安装】。</p><p><strong>1、例如：若要安装到D盘，可以直接把该界面路径中，最前面的C改成D</strong></p><p><strong>2、说明：软件安装路径中，不要有中文，会导致有些软件安装完，出现弹窗报错、闪退、打不开等问题。</strong></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071136888.png" alt="图片"></p><p>5、等待安装完成。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071136816.webp" alt="图片"></p><p>6、点击【开始使用】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071136818.webp" alt="图片"></p><p>7、菜单栏上，点击【设置】-【偏好设置】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071136617.png" alt="图片"></p><p>8、点击【通用】，选择【从不检查】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071136666.png" alt="图片"></p><p>9、安装完成。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071136599.webp" alt="图片"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;div class=&quot;tip sync&quot;&gt;&lt;p&gt;安装指南：&lt;br&gt;1、链接：Win软件目录：&lt;a href=&quot;/Win/&quot;&gt;点击查看&lt;/a&gt; &amp;emsp;    Win软件常见报错问题：&lt;a href=&quot;/2023/09/06/WIN/WIN%E8%BD%AF%E4%BB%B6</summary>
+      
+    
+    
+    
+    <category term="Win软件" scheme="http://www.lumingrj.com/categories/Win%E8%BD%AF%E4%BB%B6/"/>
+    
+    
+    <category term="CAJViewer" scheme="http://www.lumingrj.com/tags/CAJViewer/"/>
+    
+    <category term="Win软件" scheme="http://www.lumingrj.com/tags/Win%E8%BD%AF%E4%BB%B6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Rhino (犀牛) 8.16 WIN版本•中文英文•软件安装包下载 安装教程步骤•WIN系统•三维建模软件</title>
+    <link href="http://www.lumingrj.com/2025/04/08/WIN/Rhino-8.16/"/>
+    <id>http://www.lumingrj.com/2025/04/08/WIN/Rhino-8.16/</id>
+    <published>2025-04-08T04:45:28.000Z</published>
+    <updated>2025-04-07T03:30:28.053Z</updated>
+    
+    <content type="html"><![CDATA[<div class="tip sync"><p>安装指南：<br>1、链接：Win软件目录：<a href="/Win/">点击查看</a> &emsp;    Win软件常见报错问题：<a href="/2023/09/06/WIN/WIN%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E9%97%AE%E9%A2%98%E7%9B%AE%E5%BD%95/">点击查看</a><br>2、客服：若安装报错问题，自己解决不了，打开安装包内的【联系客服】，添加客服QQ，或点击本网页最上面【联系客服】！</p></div><div class="img-wrap"><div class="img-bg"><img class="img" src="https://bu.dusays.com/2024/01/08/659bb5790ddaa.png" style="width:80px;"/></div></div><h3 id=""><a href="#" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">软件详情+下载链接：</span>    </p></section></div></h3><details class="folding-tag" cyan open><summary> 软件详情+下载链接 </summary>              <div class='content'>              <p><mark class="hl-label green">软件名称</mark> <b>：Rhino (犀牛) 8.16 WIN版本•<mark class="hl-label green">激活版</mark> </b></p><p><mark class="hl-label green">界面语言</mark> ：简体中文+英文</p><p><mark class="hl-label green">软件简介</mark> ：三维建模软件</p><p><mark class="hl-label purple">安装环境</mark> ：Win10&#x2F;Win11系统</p><p><mark class="hl-label purple">系统位数</mark> ：64位</p><p><mark class="hl-label green">亲测安装</mark> ：所有资源皆经严格把关、实机安装测试！</p><p><b> [百度网盘丨下载链接]：</b><br><a href="https://pan.baidu.com/s/1hA1UFPRtKrMURnistksaxw?pwd=8866">https://pan.baidu.com/s/1hA1UFPRtKrMURnistksaxw?pwd=8866</a><br><b> [123 云盘丨下载链接]：</b><br><a href="https://www.123pan.com/s/LZZBjv-AIbW.html">https://www.123pan.com/s/LZZBjv-AIbW.html</a></p><div class='checkbox green checked'><input type="radio" checked="checked"/>            <p>下载：下载链接里，下载需要安装的版本即可，不用所有版本全部下载！</p>            </div><div class='checkbox green checked'><input type="radio" checked="checked"/>            <p>客服：打开安装包内的 [联系客服]，添加客服QQ，或点击本网页最上面 [联系客服]！</p>            </div>              </div>            </details><h3 id="-1"><a href="#-1" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">安装教程：</span>    </p></section></div></h3><mark class="hl-label green">安装说明</mark> ：<b>1）若解压后文件消失，或打开文件误报毒消失，是因杀毒软件误删了文件。关闭杀毒软件，重新解压安装包即可。所有安装包均实机亲测，无任何病毒，有些杀毒软件可能会存在误报情况。2）一定要解压成文件夹再安装，不要在【压缩包】里安装，容易出现安装问题。</b><p><b><mark class="hl-label red">关闭杀毒：需要关闭杀毒软件，进行安装</mark> </b></p><p>1、右击下载到电脑上的【安装包】，把压缩包解压成文件夹，然后双击打开【A.Rhino 8.16】文件夹。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071128843.png" alt="图片"></p><p>2、双击打开【屏蔽网站.txt】，把里面的网站进行屏蔽，屏蔽教程：**<a href="/2023/09/16/WIN/WT/009/">点击查看</a>**。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071128024.png" alt="图片"></p><p>3、双击打开【Setup.exe】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071128028.png" alt="图片"></p><p>4、点击【齿轮按钮】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071128018.png" alt="图片"></p><p>5、<strong>取消勾选</strong>红框内的选项。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071128009.png" alt="图片"></p><p>6、默认安装的为简体中文，若需要其他语言，点击【选择语言】，进行勾选。<strong>（可勾选多个语言，后期在软件里可相互切换）</strong></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071128002.png" alt="图片"></p><p>7、默认安装位置为C盘，如要安装到别的盘，更改安装路径后，点击【现在安装】。</p><p><strong>1、例如：要安装到D盘，可以直接把该界面路径中，最前面的C改成D</strong></p><p><strong>2、说明：软件安装路径中，不要有中文，会导致有些软件安装完，出现弹窗报错、闪退、打不开等问题。</strong></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071128565.png" alt="图片"></p><p>8、等待安装完成。<strong>（安装会比较慢，耐心等待）</strong></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071128735.png" alt="图片"></p><p>9、点击【关闭】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071128889.png" alt="图片"></p><p>10、返回安装包，右击【Crack.exe】-【以管理员身份运行】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071128957.png" alt="图片"></p><p>11、<strong>只勾选最后一个选项</strong>，点击【Install】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071128870.png" alt="图片"></p><p>12、等待安装完成。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071128978.png" alt="图片"></p><p>13、点击【Finish】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071128398.png" alt="图片"></p><p>14、返回安装包，用【禁止程序联网工具 1.1】，把【Rhino】安装位置里面的【System】文件夹，阻止联网，阻止完，再返回本教程，<strong>详细步骤教程：<a href="/2023/09/16/WIN/WT/010/">点击查看</a></strong></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071128447.png" alt="图片"></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071128528.png" alt="图片"></p><p>15、阻止完软件联网后，桌面上，双击打开软件图标。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071128485.png" alt="图片"></p><p>16、点击【确定】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071128518.png" alt="图片"></p><p>17、菜单栏上，点击【工具】-【选项】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071128633.png" alt="图片"></p><p>18、在【更新与统计】里，<strong>取消勾选</strong>【启用更新和使用统计信息】，点击【确定】。<strong>（已取消勾选的可忽略）</strong></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071128936.png" alt="图片"></p><p>19、安装完成。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071128084.png" alt="图片"></p><p>20、<strong>界面语言切换：</strong>若教程第6步，勾选安装了多个语言，这里可以切换界面语言，没有勾选多个语言，这里只有默认安装的语言。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071128103.png" alt="图片"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;div class=&quot;tip sync&quot;&gt;&lt;p&gt;安装指南：&lt;br&gt;1、链接：Win软件目录：&lt;a href=&quot;/Win/&quot;&gt;点击查看&lt;/a&gt; &amp;emsp;    Win软件常见报错问题：&lt;a href=&quot;/2023/09/06/WIN/WIN%E8%BD%AF%E4%BB%B6</summary>
+      
+    
+    
+    
+    <category term="Win软件" scheme="http://www.lumingrj.com/categories/Win%E8%BD%AF%E4%BB%B6/"/>
+    
+    
+    <category term="Rhino" scheme="http://www.lumingrj.com/tags/Rhino/"/>
+    
+    <category term="犀牛" scheme="http://www.lumingrj.com/tags/%E7%8A%80%E7%89%9B/"/>
+    
+    <category term="Win软件" scheme="http://www.lumingrj.com/tags/Win%E8%BD%AF%E4%BB%B6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Stata 18 WIN版本•中文英文•软件安装包下载 安装教程步骤•WIN系统•数据统计分析 图表绘制</title>
+    <link href="http://www.lumingrj.com/2025/04/08/WIN/Stata-18/"/>
+    <id>http://www.lumingrj.com/2025/04/08/WIN/Stata-18/</id>
+    <published>2025-04-08T04:45:28.000Z</published>
+    <updated>2025-04-07T03:39:32.260Z</updated>
+    
+    <content type="html"><![CDATA[<div class="tip sync"><p>安装指南：<br>1、链接：Win软件目录：<a href="/Win/">点击查看</a> &emsp;    Win软件常见报错问题：<a href="/2023/09/06/WIN/WIN%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E9%97%AE%E9%A2%98%E7%9B%AE%E5%BD%95/">点击查看</a><br>2、客服：若安装报错问题，自己解决不了，打开安装包内的【联系客服】，添加客服QQ，或点击本网页最上面【联系客服】！</p></div><div class="img-wrap"><div class="img-bg"><img class="img" src="https://bu.dusays.com/2024/12/22/676830261e624.png" style="width:80px;"/></div></div><h3 id=""><a href="#" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">软件详情+下载链接：</span>    </p></section></div></h3><details class="folding-tag" cyan open><summary> 软件详情+下载链接 </summary>              <div class='content'>              <p><mark class="hl-label green">软件名称</mark> <b>：Stata&#x2F;MP 18 WIN版本•<mark class="hl-label green">激活版</mark> </b></p><p><mark class="hl-label green">界面语言</mark> ：简体中文+英文</p><p><mark class="hl-label green">软件简介</mark> ：数据统计分析、图表绘制</p><p><mark class="hl-label purple">安装环境</mark> ：Win10&#x2F;Win11系统</p><p><mark class="hl-label purple">系统位数</mark> ：64位</p><p><mark class="hl-label green">亲测安装</mark> ：所有资源皆经严格把关、实机安装测试！</p><p><b> [百度网盘丨下载链接]：</b><br><a href="https://pan.baidu.com/s/1lfqbEROyBOsjH8dLe1nW5Q?pwd=8866">https://pan.baidu.com/s/1lfqbEROyBOsjH8dLe1nW5Q?pwd=8866</a><br><b> [123 云盘丨下载链接]：</b><br><a href="https://www.123912.com/s/LZZBjv-17iW">https://www.123912.com/s/LZZBjv-17iW</a></p><div class='checkbox green checked'><input type="radio" checked="checked"/>            <p>下载：下载链接里，下载需要安装的版本即可，不用所有版本全部下载！</p>            </div><div class='checkbox green checked'><input type="radio" checked="checked"/>            <p>客服：打开安装包内的 [联系客服]，添加客服QQ，或点击本网页最上面 [联系客服]！</p>            </div>              </div>            </details><h3 id="-1"><a href="#-1" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">安装教程：</span>    </p></section></div></h3><mark class="hl-label green">安装说明</mark> ：<b>1）若解压后文件消失，或打开文件误报毒消失，是因杀毒软件误删了文件。关闭杀毒软件，重新解压安装包即可。所有安装包均实机亲测，无任何病毒，有些杀毒软件可能会存在误报情况。2）一定要解压成文件夹再安装，不要在【压缩包】里安装，容易出现安装问题。</b><p>1、右击下载到电脑上的【安装包】，把压缩包解压成文件夹，然后双击打开【A.Stata 18】文件夹。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071138946.png" alt="图片"></p><p>2、右击【Setup.exe】，选择【以管理员身份运行】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071138948.webp" alt="图片"></p><p>3、等待程序加载。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071138938.png" alt="图片"></p><p>4、点击【NEXT】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071138004.png" alt="图片"></p><p>5、选择【I accept the…】，点击【NEXT】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071138012.webp" alt="图片"></p><p>6、红框内的信息随便填写，点击【NEXT】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071138961.webp" alt="图片"></p><p>7、选择【StataMP】，点击【NEXT】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071138572.webp" alt="图片"></p><p>8、默认安装位置为C盘，如要安装到别的盘，更改安装路径后，点击【NEXT】。</p><p><strong>1、例如：要安装到D盘，在D盘或D盘其他文件夹里，新建一个英文名+版本号文件夹，然后该安装界面里，点击【Change】，选择到新建的文件夹即可。</strong></p><p><strong>2、说明：软件安装路径中，不要有中文，会导致有些软件安装完，出现弹窗报错、闪退、打不开等问题。</strong></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071138539.png" alt="图片"></p><p>9、点击【NEXT】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071138551.png" alt="图片"></p><p>10、点击【Install】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071138604.webp" alt="图片"></p><p>11、等待安装完成。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071138655.webp" alt="图片"></p><p>12、点击【Finish】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071138632.webp" alt="图片"></p><p>13、电脑左下角，开始程序里，把软件图标，拖拉到桌面上。<strong>（WIN11系统，点左下角的【开始】图标后，弹出的界面，还要点，右上角的【全部&#x2F;所有应用】，才会显示软件列表）</strong></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071138049.webp" alt="图片"></p><p>14、桌面上，双击打开软件图标。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071138041.webp" alt="图片"></p><p>15、红框内的信息随便填写，然后这个窗口放一边，等下用。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071138079.webp" alt="图片"></p><p>16、返回安装包，打开【激活码.txt】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071138097.png" alt="图片"></p><p>17、把【激活码】里面的信息，分别复制到【软件激活页面】，点击【下一页】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071138164.png" alt="图片"></p><p>18、<strong>取消勾选</strong>红框内的选项，点击【完成】。<br>】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071138178.webp" alt="图片"></p><p>19、选择【禁止自动更新检查】，<strong>取消勾选</strong>【在检查更新之前始终提示】，点击【OK】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071138452.webp" alt="图片"></p><p>20、安装完成。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071138565.webp" alt="图片"></p><p>21、软件界面语言切换：</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071138619.png" alt="图片"></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071138580.png" alt="图片"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;div class=&quot;tip sync&quot;&gt;&lt;p&gt;安装指南：&lt;br&gt;1、链接：Win软件目录：&lt;a href=&quot;/Win/&quot;&gt;点击查看&lt;/a&gt; &amp;emsp;    Win软件常见报错问题：&lt;a href=&quot;/2023/09/06/WIN/WIN%E8%BD%AF%E4%BB%B6</summary>
+      
+    
+    
+    
+    <category term="Win软件" scheme="http://www.lumingrj.com/categories/Win%E8%BD%AF%E4%BB%B6/"/>
+    
+    
+    <category term="Stata" scheme="http://www.lumingrj.com/tags/Stata/"/>
+    
+    <category term="Win软件" scheme="http://www.lumingrj.com/tags/Win%E8%BD%AF%E4%BB%B6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Stata 外部命令 Meta分析 WIN版本•软件安装包下载 安装教程步骤•WIN系统</title>
+    <link href="http://www.lumingrj.com/2025/04/08/WIN/Stata-Meta/"/>
+    <id>http://www.lumingrj.com/2025/04/08/WIN/Stata-Meta/</id>
+    <published>2025-04-08T04:45:28.000Z</published>
+    <updated>2025-04-07T03:43:09.774Z</updated>
+    
+    <content type="html"><![CDATA[<div class="tip sync"><p>安装指南：<br>1、链接：Win软件目录：<a href="/Win/">点击查看</a> &emsp;    Win软件常见报错问题：<a href="/2023/09/06/WIN/WIN%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E9%97%AE%E9%A2%98%E7%9B%AE%E5%BD%95/">点击查看</a><br>2、客服：若安装报错问题，自己解决不了，打开安装包内的【联系客服】，添加客服QQ，或点击本网页最上面【联系客服】！</p></div><div class="img-wrap"><div class="img-bg"><img class="img" src="https://bu.dusays.com/2025/04/07/67f348fe9ec99.png" style="width:80px;"/></div></div><h3 id=""><a href="#" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">软件详情+下载链接：</span>    </p></section></div></h3><details class="folding-tag" cyan open><summary> 软件详情+下载链接 </summary>              <div class='content'>              <p><mark class="hl-label green">软件名称</mark> <b>：Stata 外部命令 Meta分析 WIN版本</b></p><p><mark class="hl-label green">界面语言</mark> ：-</p><p><mark class="hl-label green">支持版本</mark> ：无Stata版本要求</p><p><mark class="hl-label purple">安装环境</mark> ：Win7&#x2F;Win8&#x2F;Win10&#x2F;Win11系统</p><p><mark class="hl-label purple">系统位数</mark> ：-</p><p><mark class="hl-label green">亲测安装</mark> ：所有资源皆经严格把关、实机安装测试！</p><p><b> [百度网盘丨下载链接]：</b><br><a href="https://pan.baidu.com/s/1lfqbEROyBOsjH8dLe1nW5Q?pwd=8866">https://pan.baidu.com/s/1lfqbEROyBOsjH8dLe1nW5Q?pwd=8866</a><br><b> [123 云盘丨下载链接]：</b><br><a href="https://www.123912.com/s/LZZBjv-17iW">https://www.123912.com/s/LZZBjv-17iW</a></p><div class='checkbox green checked'><input type="radio" checked="checked"/>            <p>下载：下载链接里，下载需要安装的版本即可，不用所有版本全部下载！</p>            </div><div class='checkbox green checked'><input type="radio" checked="checked"/>            <p>客服：打开安装包内的 [联系客服]，添加客服QQ，或点击本网页最上面 [联系客服]！</p>            </div>              </div>            </details><h3 id="-1"><a href="#-1" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">安装教程：</span>    </p></section></div></h3><mark class="hl-label green">安装说明</mark> ：<b>1）若解压后文件消失，或打开文件误报毒消失，是因杀毒软件误删了文件。关闭杀毒软件，重新解压安装包即可。所有安装包均实机亲测，无任何病毒，有些杀毒软件可能会存在误报情况。2）一定要解压成文件夹再安装，不要在【压缩包】里安装，容易出现安装问题。</b><p><b><mark class="hl-label red">说明：1）需要先安装Stata软件，支持Stata所有版本。2）这里以Stata/MP18为例，其他版本安装教程一样。</mark> </b></p><p>1、右击下载到电脑上的【安装包】，把压缩包解压成文件夹，然后双击打开【A.Stata外部命令】文件夹。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071142592.png" alt="图片"></p><p>2、双击打开【命令合集】文件夹。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071142600.png" alt="图片"></p><p>3、<strong>复制</strong>里面的所有文件。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071142679.png" alt="图片"></p><p>4、桌面上，右键【Stata软件】-【打开文件所在的位置】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071142665.png" alt="图片"></p><p>5、弹出的文件夹，双击打开【ado】文件夹。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071142658.png" alt="图片"></p><p>6、双击打开【base】文件夹。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071142674.png" alt="图片"></p><p>7、在【base】文件夹，空白处，右键粘贴。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071142223.png" alt="图片"></p><p>8、点击【替换目标中的文件】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071142186.png" alt="图片"></p><p>9、勾选【为所有当前项目…】，点击【继续】。<strong>（没有可忽略）</strong></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071142235.png" alt="图片"></p><p>10、等待复制完成。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071142279.png" alt="图片"></p><p>11、复制完成后，桌面上，打开【Stata软件】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071142311.png" alt="图片"></p><p>12、打开软件后，可以看到这样一条命令，说明安装好了。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071142530.png" alt="图片"></p><p>13、菜单栏上，点击【用户】-【MeTa-Analysis】，点击打开需要的命令即可。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071142365.png" alt="图片"></p><p>14、安装完成。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202504071142401.png" alt="图片"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;div class=&quot;tip sync&quot;&gt;&lt;p&gt;安装指南：&lt;br&gt;1、链接：Win软件目录：&lt;a href=&quot;/Win/&quot;&gt;点击查看&lt;/a&gt; &amp;emsp;    Win软件常见报错问题：&lt;a href=&quot;/2023/09/06/WIN/WIN%E8%BD%AF%E4%BB%B6</summary>
+      
+    
+    
+    
+    <category term="Win软件" scheme="http://www.lumingrj.com/categories/Win%E8%BD%AF%E4%BB%B6/"/>
+    
+    
+    <category term="Stata" scheme="http://www.lumingrj.com/tags/Stata/"/>
+    
+    <category term="Win软件" scheme="http://www.lumingrj.com/tags/Win%E8%BD%AF%E4%BB%B6/"/>
+    
+  </entry>
   
   <entry>
     <title>兼容M1~M4芯片•Acrobat Pro 2024 For Mac版本•中英文•软件安装包下载 安装教程步骤•苹果系统</title>
@@ -43,32 +253,6 @@
   </entry>
   
   <entry>
-    <title>兼容M1~M4芯片•CLO Standalone 2024.2.160 For Mac版本•中英文•软件安装包下载 安装教程步骤</title>
-    <link href="http://www.lumingrj.com/2025/03/14/MAC/CLO-2024.2.160/"/>
-    <id>http://www.lumingrj.com/2025/03/14/MAC/CLO-2024.2.160/</id>
-    <published>2025-03-14T04:45:28.000Z</published>
-    <updated>2025-03-13T11:42:05.216Z</updated>
-    
-    <content type="html"><![CDATA[<div class="tip sync"><p>安装指南：<br>1、链接：Mac软件目录：<a href="/Mac/">点击查看</a> &emsp;    Mac软件常见报错问题：<a href="/2023/09/02/MAC/Mac%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E9%97%AE%E9%A2%98%E7%9B%AE%E5%BD%95/">点击查看</a><br>2、客服：若安装报错问题，自己解决不了，打开安装包内的【联系客服】，添加客服QQ，或点击本网页最上面【联系客服】！</p></div><div class="img-wrap"><div class="img-bg"><img class="img" src="https://bu.dusays.com/2024/03/26/6602b9fbe7f92.png" style="width:80px;"/></div></div><h3 id=""><a href="#" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">软件详情+下载链接：</span>    </p></section></div></h3><details class="folding-tag" cyan open><summary> 软件详情+下载链接 </summary>              <div class='content'>              <p><mark class="hl-label green">软件名称</mark> <b>：CLO Standalone  OnlineAuth 2024.2.160 For MAC版本•<mark class="hl-label green">激活版</mark> </b></p><p><mark class="hl-label green">界面语言</mark> ：简体中文+英文</p><p><mark class="hl-label green">软件简介</mark> ：3D服装设计软件</p><p><mark class="hl-label purple">系统版本</mark> ：Mac 12.0-15.x Sequoia 或更高</p><p><mark class="hl-label purple">兼容芯片</mark> ：只支持M系列芯片，不支持Intel芯片</p><p><mark class="hl-label green">亲测安装</mark> ：所有资源皆经严格把关、实机安装测试！</p><p><b> [百度网盘丨下载链接]：</b><br><a href="https://pan.baidu.com/s/1IcNCvgbmi4zSYiASeXmN9w?pwd=8866">https://pan.baidu.com/s/1IcNCvgbmi4zSYiASeXmN9w?pwd=8866</a><br><b> [123 云盘丨下载链接]：</b><br><a href="https://www.123pan.com/s/LZZBjv-HdZW.html">https://www.123pan.com/s/LZZBjv-HdZW.html</a></p><div class='checkbox green checked'><input type="radio" checked="checked"/>            <p>下载：下载链接里，下载需要安装的版本即可，不用所有版本全部下载！</p>            </div><div class='checkbox green checked'><input type="radio" checked="checked"/>            <p>客服：打开安装包内的 [联系客服]，添加客服QQ，或点击本网页最上面 [联系客服]！</p>            </div>              </div>            </details><h3 id="-1"><a href="#-1" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">安装教程：</span>    </p></section></div></h3><h4 id="：该版本只支持M芯片，不支持Intel芯片，Intel芯片电脑请安装其他版本。"><a href="#：该版本只支持M芯片，不支持Intel芯片，Intel芯片电脑请安装其他版本。" class="headerlink" title="：该版本只支持M芯片，不支持Intel芯片，Intel芯片电脑请安装其他版本。"></a><mark class="hl-label red">说明</mark> <b>：该版本只支持M芯片，不支持Intel芯片，Intel芯片电脑请安装其他版本。</b></h4><p>1、双击打开，下载到Mac电脑上的【A.CLO Standalone 2024.2.160.dmg】软件安装包。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202503131940516.webp" alt="图片"></p><h4 id="-2"><a href="#-2" class="headerlink" title=""></a><mark class="hl-label red">安装前一定要做的：</mark> </h4><p>●输入软件密码，打开安装包后：双击打开安装包左下角的【修复工具】，修复完成后，再返回本教程安装。<b>修复工具操作教程：<a href="/2023/09/18/MAC/WT/003/">点击查看</a></b></p><div style="display:inline-block;"><img style="float:left;" src=https://bu.dusays.com/2023/09/12/64ff44a6dd274.png></div> <p>2、把左面的软件图标，拖拉到右边的文件夹里。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202503131941813.webp" alt="图片"></p><p>3、在【启动台】里，打开软件图标。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202503131941002.webp" alt="图片"></p><p>4、点击【打开】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202503131941750.webp" alt="图片"></p><p>5、点击【YES】。<strong>（后期打开软件，可能还需操作这步）</strong></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202503131941786.webp" alt="图片"></p><p>6、点击【YES】。<strong>（后期打开软件，可能还需操作这步）</strong></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202503131941808.webp" alt="图片"></p><p>7、点击【Sign in with CLO-SET】。<strong>（后期打开软件，可能还需操作这步）</strong></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202503131941754.webp" alt="图片"></p><p>8、红框内，根据自己需要，选择单位以及语言等，点击【OK】。<strong>（后期打开软件，可能还需操作这步）</strong></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202503131941492.webp" alt="图片"></p><p>9、点击【Sign in with CLO-SET】。<strong>（每次打开软件都需要操作这步）</strong></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202503131941553.webp" alt="图片"></p><p>10、安装完成。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202503131941567.webp" alt="图片"></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202503131941772.webp" alt="图片"></p><p>11、软件界面语言切换。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202503131941910.webp" alt="图片"></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;div class=&quot;tip sync&quot;&gt;&lt;p&gt;安装指南：&lt;br&gt;1、链接：Mac软件目录：&lt;a href=&quot;/Mac/&quot;&gt;点击查看&lt;/a&gt; &amp;emsp;    Mac软件常见报错问题：&lt;a href=&quot;/2023/09/02/MAC/Mac%E8%BD%AF%E4%BB%B6</summary>
-      
-    
-    
-    
-    <category term="Mac软件" scheme="http://www.lumingrj.com/categories/Mac%E8%BD%AF%E4%BB%B6/"/>
-    
-    
-    <category term="Mac软件" scheme="http://www.lumingrj.com/tags/Mac%E8%BD%AF%E4%BB%B6/"/>
-    
-    <category term="CLO Standalone" scheme="http://www.lumingrj.com/tags/CLO-Standalone/"/>
-    
-  </entry>
-  
-  <entry>
     <title>兼容M1~M4芯片•CAJViewer 9.5.0 For Mac版本•中文•软件安装包下载 安装教程步骤•苹果系统</title>
     <link href="http://www.lumingrj.com/2025/03/14/MAC/CAJViewer-9.5.0/"/>
     <id>http://www.lumingrj.com/2025/03/14/MAC/CAJViewer-9.5.0/</id>
@@ -91,6 +275,32 @@
     <category term="Mac软件" scheme="http://www.lumingrj.com/tags/Mac%E8%BD%AF%E4%BB%B6/"/>
     
     <category term="CAJViewer" scheme="http://www.lumingrj.com/tags/CAJViewer/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>兼容M1~M4芯片•CLO Standalone 2024.2.160 For Mac版本•中英文•软件安装包下载 安装教程步骤</title>
+    <link href="http://www.lumingrj.com/2025/03/14/MAC/CLO-2024.2.160/"/>
+    <id>http://www.lumingrj.com/2025/03/14/MAC/CLO-2024.2.160/</id>
+    <published>2025-03-14T04:45:28.000Z</published>
+    <updated>2025-03-13T11:42:05.216Z</updated>
+    
+    <content type="html"><![CDATA[<div class="tip sync"><p>安装指南：<br>1、链接：Mac软件目录：<a href="/Mac/">点击查看</a> &emsp;    Mac软件常见报错问题：<a href="/2023/09/02/MAC/Mac%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E9%97%AE%E9%A2%98%E7%9B%AE%E5%BD%95/">点击查看</a><br>2、客服：若安装报错问题，自己解决不了，打开安装包内的【联系客服】，添加客服QQ，或点击本网页最上面【联系客服】！</p></div><div class="img-wrap"><div class="img-bg"><img class="img" src="https://bu.dusays.com/2024/03/26/6602b9fbe7f92.png" style="width:80px;"/></div></div><h3 id=""><a href="#" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">软件详情+下载链接：</span>    </p></section></div></h3><details class="folding-tag" cyan open><summary> 软件详情+下载链接 </summary>              <div class='content'>              <p><mark class="hl-label green">软件名称</mark> <b>：CLO Standalone  OnlineAuth 2024.2.160 For MAC版本•<mark class="hl-label green">激活版</mark> </b></p><p><mark class="hl-label green">界面语言</mark> ：简体中文+英文</p><p><mark class="hl-label green">软件简介</mark> ：3D服装设计软件</p><p><mark class="hl-label purple">系统版本</mark> ：Mac 12.0-15.x Sequoia 或更高</p><p><mark class="hl-label purple">兼容芯片</mark> ：只支持M系列芯片，不支持Intel芯片</p><p><mark class="hl-label green">亲测安装</mark> ：所有资源皆经严格把关、实机安装测试！</p><p><b> [百度网盘丨下载链接]：</b><br><a href="https://pan.baidu.com/s/1IcNCvgbmi4zSYiASeXmN9w?pwd=8866">https://pan.baidu.com/s/1IcNCvgbmi4zSYiASeXmN9w?pwd=8866</a><br><b> [123 云盘丨下载链接]：</b><br><a href="https://www.123pan.com/s/LZZBjv-HdZW.html">https://www.123pan.com/s/LZZBjv-HdZW.html</a></p><div class='checkbox green checked'><input type="radio" checked="checked"/>            <p>下载：下载链接里，下载需要安装的版本即可，不用所有版本全部下载！</p>            </div><div class='checkbox green checked'><input type="radio" checked="checked"/>            <p>客服：打开安装包内的 [联系客服]，添加客服QQ，或点击本网页最上面 [联系客服]！</p>            </div>              </div>            </details><h3 id="-1"><a href="#-1" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">安装教程：</span>    </p></section></div></h3><h4 id="：该版本只支持M芯片，不支持Intel芯片，Intel芯片电脑请安装其他版本。"><a href="#：该版本只支持M芯片，不支持Intel芯片，Intel芯片电脑请安装其他版本。" class="headerlink" title="：该版本只支持M芯片，不支持Intel芯片，Intel芯片电脑请安装其他版本。"></a><mark class="hl-label red">说明</mark> <b>：该版本只支持M芯片，不支持Intel芯片，Intel芯片电脑请安装其他版本。</b></h4><p>1、双击打开，下载到Mac电脑上的【A.CLO Standalone 2024.2.160.dmg】软件安装包。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202503131940516.webp" alt="图片"></p><h4 id="-2"><a href="#-2" class="headerlink" title=""></a><mark class="hl-label red">安装前一定要做的：</mark> </h4><p>●输入软件密码，打开安装包后：双击打开安装包左下角的【修复工具】，修复完成后，再返回本教程安装。<b>修复工具操作教程：<a href="/2023/09/18/MAC/WT/003/">点击查看</a></b></p><div style="display:inline-block;"><img style="float:left;" src=https://bu.dusays.com/2023/09/12/64ff44a6dd274.png></div> <p>2、把左面的软件图标，拖拉到右边的文件夹里。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202503131941813.webp" alt="图片"></p><p>3、在【启动台】里，打开软件图标。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202503131941002.webp" alt="图片"></p><p>4、点击【打开】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202503131941750.webp" alt="图片"></p><p>5、点击【YES】。<strong>（后期打开软件，可能还需操作这步）</strong></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202503131941786.webp" alt="图片"></p><p>6、点击【YES】。<strong>（后期打开软件，可能还需操作这步）</strong></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202503131941808.webp" alt="图片"></p><p>7、点击【Sign in with CLO-SET】。<strong>（后期打开软件，可能还需操作这步）</strong></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202503131941754.webp" alt="图片"></p><p>8、红框内，根据自己需要，选择单位以及语言等，点击【OK】。<strong>（后期打开软件，可能还需操作这步）</strong></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202503131941492.webp" alt="图片"></p><p>9、点击【Sign in with CLO-SET】。<strong>（每次打开软件都需要操作这步）</strong></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202503131941553.webp" alt="图片"></p><p>10、安装完成。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202503131941567.webp" alt="图片"></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202503131941772.webp" alt="图片"></p><p>11、软件界面语言切换。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202503131941910.webp" alt="图片"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;div class=&quot;tip sync&quot;&gt;&lt;p&gt;安装指南：&lt;br&gt;1、链接：Mac软件目录：&lt;a href=&quot;/Mac/&quot;&gt;点击查看&lt;/a&gt; &amp;emsp;    Mac软件常见报错问题：&lt;a href=&quot;/2023/09/02/MAC/Mac%E8%BD%AF%E4%BB%B6</summary>
+      
+    
+    
+    
+    <category term="Mac软件" scheme="http://www.lumingrj.com/categories/Mac%E8%BD%AF%E4%BB%B6/"/>
+    
+    
+    <category term="Mac软件" scheme="http://www.lumingrj.com/tags/Mac%E8%BD%AF%E4%BB%B6/"/>
+    
+    <category term="CLO Standalone" scheme="http://www.lumingrj.com/tags/CLO-Standalone/"/>
     
   </entry>
   
@@ -327,214 +537,6 @@
     <category term="Origin" scheme="http://www.lumingrj.com/tags/Origin/"/>
     
     <category term="Win软件" scheme="http://www.lumingrj.com/tags/Win%E8%BD%AF%E4%BB%B6/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>ParaView 5.13.2 WIN版本•英文•软件安装包下载 安装教程步骤•WIN系统•可视化数据分析软件</title>
-    <link href="http://www.lumingrj.com/2025/03/10/WIN/ParaView-5.13.2/"/>
-    <id>http://www.lumingrj.com/2025/03/10/WIN/ParaView-5.13.2/</id>
-    <published>2025-03-10T04:45:28.000Z</published>
-    <updated>2025-03-09T13:38:12.573Z</updated>
-    
-    <content type="html"><![CDATA[<div class="tip sync"><p>安装指南：<br>1、链接：Win软件目录：<a href="/Win/">点击查看</a> &emsp;    Win软件常见报错问题：<a href="/2023/09/06/WIN/WIN%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E9%97%AE%E9%A2%98%E7%9B%AE%E5%BD%95/">点击查看</a><br>2、客服：若安装报错问题，自己解决不了，打开安装包内的【联系客服】，添加客服QQ，或点击本网页最上面【联系客服】！</p></div><div class="img-wrap"><div class="img-bg"><img class="img" src="https://bu.dusays.com/2024/12/30/677254e012ccd.png" style="width:80px;"/></div></div><h3 id=""><a href="#" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">软件详情+下载链接：</span>    </p></section></div></h3><details class="folding-tag" cyan open><summary> 软件详情+下载链接 </summary>              <div class='content'>              <p><mark class="hl-label green">软件名称</mark> <b>：ParaView 5.13.2 WIN版本</b></p><p><mark class="hl-label green">界面语言</mark> ：英文</p><p><mark class="hl-label green">软件简介</mark> ：可视化数据分析软件</p><p><mark class="hl-label purple">安装环境</mark> ：Win10&#x2F;Win11系统</p><p><mark class="hl-label purple">系统位数</mark> ：64位</p><p><mark class="hl-label green">亲测安装</mark> ：所有资源皆经严格把关、实机安装测试！</p><p><b> [百度网盘丨下载链接]：</b><br><a href="https://pan.baidu.com/s/1tEn49b6ZGnFchSK1c5TCzw?pwd=8866">https://pan.baidu.com/s/1tEn49b6ZGnFchSK1c5TCzw?pwd=8866</a><br><b> [123 云盘丨下载链接]：</b><br><a href="https://www.123pan.com/s/LZZBjv-j27W.html">https://www.123pan.com/s/LZZBjv-j27W.html</a></p><div class='checkbox green checked'><input type="radio" checked="checked"/>            <p>下载：下载链接里，下载需要安装的版本即可，不用所有版本全部下载！</p>            </div><div class='checkbox green checked'><input type="radio" checked="checked"/>            <p>客服：打开安装包内的 [联系客服]，添加客服QQ，或点击本网页最上面 [联系客服]！</p>            </div>              </div>            </details><h3 id="-1"><a href="#-1" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">安装教程：</span>    </p></section></div></h3><mark class="hl-label green">安装说明</mark> ：<b>1）若解压后文件消失，或打开文件误报毒消失，是因杀毒软件误删了文件。关闭杀毒软件，重新解压安装包即可。所有安装包均实机亲测，无任何病毒，有些杀毒软件可能会存在误报情况。2）一定要解压成文件夹再安装，不要在【压缩包】里安装，容易出现安装问题。</b><p>1、右击下载到电脑上的【安装包】，把压缩包解压成文件夹，然后双击打开【A.ParaView 5.13.2】文件夹。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202503092137881.png" alt="图片"></p><p>2、双击打开【Setup.msi】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202503092137893.png" alt="图片"></p><p>3、点击【NEXT】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202503092137944.png" alt="图片"></p><p>4、选择【I accept…】，点击【NEXT】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202503092137931.png" alt="图片"></p><p>5、默认安装位置为C盘，如要安装到别的盘，更改安装路径后，点击【NEXT】。</p><p><strong>1、例如：若要安装到D盘，可以直接把该界面路径中，最前面的C改成D</strong></p><p><strong>2、说明：软件安装路径中，不要有中文，会导致有些软件安装完，出现弹窗报错、闪退、打不开等问题。</strong></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202503092137921.png" alt="图片"></p><p>6、点击【Install】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202503092137150.png" alt="图片"></p><p>7、等待安装完成。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202503092137319.png" alt="图片"></p><p>8、点击【Finish】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202503092137345.png" alt="图片"></p><p>9、电脑左下角，开始程序里，把软件图标，拖拉到桌面上。<strong>（WIN11系统，点左下角的【开始】图标后，弹出的界面，还要点，右上角的【全部&#x2F;所有应用】，才会显示软件列表）</strong></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202503092137546.png" alt="图片"></p><p>10、桌面上，双击打开软件图标。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202503092137492.png" alt="图片"></p><p>11、勾选【Dont show this…】，点击【Close】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202503092137789.png" alt="图片"></p><p>12、安装完成。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202503092137068.png" alt="图片"></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;div class=&quot;tip sync&quot;&gt;&lt;p&gt;安装指南：&lt;br&gt;1、链接：Win软件目录：&lt;a href=&quot;/Win/&quot;&gt;点击查看&lt;/a&gt; &amp;emsp;    Win软件常见报错问题：&lt;a href=&quot;/2023/09/06/WIN/WIN%E8%BD%AF%E4%BB%B6</summary>
-      
-    
-    
-    
-    <category term="Win软件" scheme="http://www.lumingrj.com/categories/Win%E8%BD%AF%E4%BB%B6/"/>
-    
-    
-    <category term="ParaView" scheme="http://www.lumingrj.com/tags/ParaView/"/>
-    
-    <category term="Win软件" scheme="http://www.lumingrj.com/tags/Win%E8%BD%AF%E4%BB%B6/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>R语言 4.4.2 WIN版本•中文英文•软件安装包下载 安装教程步骤•WIN系统•R语言开发工具</title>
-    <link href="http://www.lumingrj.com/2025/03/10/WIN/R-4.4.2/"/>
-    <id>http://www.lumingrj.com/2025/03/10/WIN/R-4.4.2/</id>
-    <published>2025-03-10T04:45:28.000Z</published>
-    <updated>2025-03-09T13:40:54.389Z</updated>
-    
-    <content type="html"><![CDATA[<div class="tip sync"><p>安装指南：<br>1、链接：Win软件目录：<a href="/Win/">点击查看</a> &emsp;    Win软件常见报错问题：<a href="/2023/09/06/WIN/WIN%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E9%97%AE%E9%A2%98%E7%9B%AE%E5%BD%95/">点击查看</a><br>2、客服：若安装报错问题，自己解决不了，打开安装包内的【联系客服】，添加客服QQ，或点击本网页最上面【联系客服】！</p></div><div class="img-wrap"><div class="img-bg"><img class="img" src="https://bu.dusays.com/2023/11/04/654604cc6dfce.png" style="width:80px;"/></div></div><h3 id=""><a href="#" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">软件详情+下载链接：</span>    </p></section></div></h3><details class="folding-tag" cyan open><summary> 软件详情+下载链接 </summary>              <div class='content'>              <p><mark class="hl-label green">软件名称</mark> <b>：R语言 4.4.2 WIN版本</b></p><p><mark class="hl-label green">界面语言</mark> ：简体中文+英文</p><p><mark class="hl-label green">软件简介</mark> ：R语言开发工具</p><p><mark class="hl-label purple">安装环境</mark> ：Win10&#x2F;Win11系统</p><p><mark class="hl-label purple">系统位数</mark> ：64位</p><p><mark class="hl-label green">亲测安装</mark> ：所有资源皆经严格把关、实机安装测试！</p><p><b> [百度网盘丨下载链接]：</b><br><a href="https://pan.baidu.com/s/1ZkC7Pupci4454gKy-GcwaA?pwd=8866">https://pan.baidu.com/s/1ZkC7Pupci4454gKy-GcwaA?pwd=8866</a><br><b> [123 云盘丨下载链接]：</b><br><a href="https://www.123pan.com/s/LZZBjv-sX7W.html">https://www.123pan.com/s/LZZBjv-sX7W.html</a></p><div class='checkbox green checked'><input type="radio" checked="checked"/>            <p>下载：下载链接里，下载需要安装的版本即可，不用所有版本全部下载！</p>            </div><div class='checkbox green checked'><input type="radio" checked="checked"/>            <p>客服：打开安装包内的 [联系客服]，添加客服QQ，或点击本网页最上面 [联系客服]！</p>            </div>              </div>            </details><h3 id="-1"><a href="#-1" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">安装教程：</span>    </p></section></div></h3><mark class="hl-label green">安装说明</mark> ：<b>1）若解压后文件消失，或打开文件误报毒消失，是因杀毒软件误删了文件。关闭杀毒软件，重新解压安装包即可。所有安装包均实机亲测，无任何病毒，有些杀毒软件可能会存在误报情况。2）一定要解压成文件夹再安装，不要在【压缩包】里安装，容易出现安装问题。</b><p>1、右击下载到电脑上的【安装包】，把压缩包解压成文件夹，然后双击打开【A.R 4.4.2】文件夹。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202503092140871.png" alt="图片"></p><p>2、双击打开【Setup.exe】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202503092140838.png" alt="图片"></p><p>3、点击【确定】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202503092140852.png" alt="图片"></p><p>4、点击【下一步】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202503092140866.png" alt="图片"></p><p>5、默认安装位置为C盘，如要安装到别的盘，更改安装路径后，点击【下一步】。</p><p><strong>1、例如：若要安装到D盘，可以直接把该界面路径中，最前面的C改成D</strong></p><p><strong>2、说明：软件安装路径中，不要有中文，会导致有些软件安装完，出现弹窗报错、闪退、打不开等问题。</strong></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202503092140898.png" alt="图片"></p><p>6、点击【下一步】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202503092140877.png" alt="图片"></p><p>7、点击【下一步】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202503092140295.png" alt="图片"></p><p>8、点击【下一步】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202503092140330.png" alt="图片"></p><p>9、点击【下一步】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202503092140366.png" alt="图片"></p><p>10、等待安装完成。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202503092140482.png" alt="图片"></p><p>11、点击【结束】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202503092140602.png" alt="图片"></p><p>12、桌面上，双击打开软件图标。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202503092140620.png" alt="图片"></p><p>13、安装完成。（**英文软件界面切换教程：<a href="/2023/11/16/WIN/R%E8%AF%AD%E8%A8%80%20%E8%BD%AF%E4%BB%B6%E7%95%8C%E9%9D%A2%E5%88%87%E6%8D%A2%E8%8B%B1%E6%96%87%E6%AD%A5%E9%AA%A4/">点击查看</a>**）</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202503092140809.png" alt="图片"></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;div class=&quot;tip sync&quot;&gt;&lt;p&gt;安装指南：&lt;br&gt;1、链接：Win软件目录：&lt;a href=&quot;/Win/&quot;&gt;点击查看&lt;/a&gt; &amp;emsp;    Win软件常见报错问题：&lt;a href=&quot;/2023/09/06/WIN/WIN%E8%BD%AF%E4%BB%B6</summary>
-      
-    
-    
-    
-    <category term="Win软件" scheme="http://www.lumingrj.com/categories/Win%E8%BD%AF%E4%BB%B6/"/>
-    
-    
-    <category term="R语言" scheme="http://www.lumingrj.com/tags/R%E8%AF%AD%E8%A8%80/"/>
-    
-    <category term="Win软件" scheme="http://www.lumingrj.com/tags/Win%E8%BD%AF%E4%BB%B6/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>RStudio 2024.12.1-563 WIN版本•英文•软件安装包下载 安装教程步骤•WIN系统•R语言集成开发环境</title>
-    <link href="http://www.lumingrj.com/2025/03/10/WIN/RStudio-2024.12.1-563/"/>
-    <id>http://www.lumingrj.com/2025/03/10/WIN/RStudio-2024.12.1-563/</id>
-    <published>2025-03-10T04:45:28.000Z</published>
-    <updated>2025-03-09T13:43:27.180Z</updated>
-    
-    <content type="html"><![CDATA[<div class="tip sync"><p>安装指南：<br>1、链接：Win软件目录：<a href="/Win/">点击查看</a> &emsp;    Win软件常见报错问题：<a href="/2023/09/06/WIN/WIN%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E9%97%AE%E9%A2%98%E7%9B%AE%E5%BD%95/">点击查看</a><br>2、客服：若安装报错问题，自己解决不了，打开安装包内的【联系客服】，添加客服QQ，或点击本网页最上面【联系客服】！</p></div><div class="img-wrap"><div class="img-bg"><img class="img" src="https://bu.dusays.com/2023/11/04/654604cc4b488.png" style="width:80px;"/></div></div><h3 id=""><a href="#" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">软件详情+下载链接：</span>    </p></section></div></h3><details class="folding-tag" cyan open><summary> 软件详情+下载链接 </summary>              <div class='content'>              <p><mark class="hl-label green">软件名称</mark> <b>：RStudio 2024.12.1-563 WIN版本</b></p><p><mark class="hl-label green">界面语言</mark> ：英文</p><p><mark class="hl-label green">软件简介</mark> ：R语言集成开发环境</p><p><mark class="hl-label purple">安装环境</mark> ：Win10&#x2F;Win11系统</p><p><mark class="hl-label purple">系统位数</mark> ：64位</p><p><mark class="hl-label green">亲测安装</mark> ：所有资源皆经严格把关、实机安装测试！</p><p><b> [百度网盘丨下载链接]：</b><br><a href="https://pan.baidu.com/s/1otMgTB-UkPS2GCooyMSW0Q?pwd=8866">https://pan.baidu.com/s/1otMgTB-UkPS2GCooyMSW0Q?pwd=8866</a><br><b> [123 云盘丨下载链接]：</b><br><a href="https://www.123pan.com/s/LZZBjv-WX7W.html">https://www.123pan.com/s/LZZBjv-WX7W.html</a></p><div class='checkbox green checked'><input type="radio" checked="checked"/>            <p>下载：下载链接里，下载需要安装的版本即可，不用所有版本全部下载！</p>            </div><div class='checkbox green checked'><input type="radio" checked="checked"/>            <p>客服：打开安装包内的 [联系客服]，添加客服QQ，或点击本网页最上面 [联系客服]！</p>            </div>              </div>            </details><h3 id="-1"><a href="#-1" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">安装教程：</span>    </p></section></div></h3><mark class="hl-label green">安装说明</mark> ：<b>1）若解压后文件消失，或打开文件误报毒消失，是因杀毒软件误删了文件。关闭杀毒软件，重新解压安装包即可。所有安装包均实机亲测，无任何病毒，有些杀毒软件可能会存在误报情况。2）一定要解压成文件夹再安装，不要在【压缩包】里安装，容易出现安装问题。</b><p><b><mark class="hl-label red">说明：RStudio是基于R语言上运行的，电脑里需要先安装R语言3.6.0或更高版本！</mark> </b></p><p>1、右击下载到电脑上的【安装包】，把压缩包解压成文件夹，然后双击打开【A.RStudio 2024.12.1-563】文件夹。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202503092142207.webp" alt="图片"></p><p>2、双击打开【Setup.exe】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202503092142217.webp" alt="图片"></p><p>3、点击【下一步】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202503092142246.webp" alt="图片"></p><p>4、默认安装位置为C盘，如要安装到别的盘，更改安装路径后，点击【安装】。</p><p><strong>1、例如：若要安装到D盘，可以直接把该界面路径中，最前面的C改成D</strong></p><p><strong>2、说明：软件安装路径中，不要有中文，会导致有些软件安装完，出现弹窗报错、闪退、打不开等问题。</strong></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202503092142248.webp" alt="图片"></p><p>5、等待安装完成。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202503092142197.webp" alt="图片"></p><p>6、点击【完成】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202503092142240.webp" alt="图片"></p><p>7、电脑左下角，开始程序里，把软件图标，拖拉到桌面上。<strong>（WIN11系统，点左下角的【开始】图标后，弹出的界面，还要点，右上角的【全部&#x2F;所有应用】，才会显示软件列表）</strong></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202503092142627.webp" alt="图片"></p><p>8、桌面上，双击打开软件图标。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202503092142679.webp" alt="图片"></p><p>9、选择你电脑里已经安装的R语言位数，点击【OK】。<strong>（电脑里安装了R语言，下面兰色框内会显示位数）</strong></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202503092142707.webp" alt="图片"></p><p>10、点击【否】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202503092142719.webp" alt="图片"></p><p>11、安装完成。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202503092142793.webp" alt="图片"></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;div class=&quot;tip sync&quot;&gt;&lt;p&gt;安装指南：&lt;br&gt;1、链接：Win软件目录：&lt;a href=&quot;/Win/&quot;&gt;点击查看&lt;/a&gt; &amp;emsp;    Win软件常见报错问题：&lt;a href=&quot;/2023/09/06/WIN/WIN%E8%BD%AF%E4%BB%B6</summary>
-      
-    
-    
-    
-    <category term="Win软件" scheme="http://www.lumingrj.com/categories/Win%E8%BD%AF%E4%BB%B6/"/>
-    
-    
-    <category term="RStudio" scheme="http://www.lumingrj.com/tags/RStudio/"/>
-    
-    <category term="Win软件" scheme="http://www.lumingrj.com/tags/Win%E8%BD%AF%E4%BB%B6/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>draw.io 26.0.16 WIN版本•中文英文•软件安装包下载 安装教程步骤•WIN系统•流程图绘制软件</title>
-    <link href="http://www.lumingrj.com/2025/03/10/WIN/draw.io-26.0.16/"/>
-    <id>http://www.lumingrj.com/2025/03/10/WIN/draw.io-26.0.16/</id>
-    <published>2025-03-10T04:45:28.000Z</published>
-    <updated>2025-03-09T13:36:06.149Z</updated>
-    
-    <content type="html"><![CDATA[<div class="tip sync"><p>安装指南：<br>1、链接：Win软件目录：<a href="/Win/">点击查看</a> &emsp;    Win软件常见报错问题：<a href="/2023/09/06/WIN/WIN%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E9%97%AE%E9%A2%98%E7%9B%AE%E5%BD%95/">点击查看</a><br>2、客服：若安装报错问题，自己解决不了，打开安装包内的【联系客服】，添加客服QQ，或点击本网页最上面【联系客服】！</p></div><div class="img-wrap"><div class="img-bg"><img class="img" src="https://bu.dusays.com/2023/09/10/64fd92643a234.png" style="width:80px;"/></div></div><h3 id=""><a href="#" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">软件详情+下载链接：</span>    </p></section></div></h3><details class="folding-tag" cyan open><summary> 软件详情+下载链接 </summary>              <div class='content'>              <p><mark class="hl-label green">软件名称</mark> <b>：draw.io 26.0.16 WIN版本</b></p><p><mark class="hl-label green">界面语言</mark> ：简体中文+英文</p><p><mark class="hl-label green">软件简介</mark> ：流程图绘制软件</p><p><mark class="hl-label purple">安装环境</mark> ：Win7&#x2F;Win8&#x2F;Win10&#x2F;Win11系统</p><p><mark class="hl-label purple">系统位数</mark> ：64位</p><p><mark class="hl-label green">亲测安装</mark> ：所有资源皆经严格把关、实机安装测试！</p><p><b> [百度网盘丨下载链接]：</b><br><a href="https://pan.baidu.com/s/10u89U2L09NCz0Mz62euDxQ?pwd=8866">https://pan.baidu.com/s/10u89U2L09NCz0Mz62euDxQ?pwd=8866</a><br><b> [123 云盘丨下载链接]：</b><br><a href="https://www.123pan.com/s/LZZBjv-Fb7W.html">https://www.123pan.com/s/LZZBjv-Fb7W.html</a></p><div class='checkbox green checked'><input type="radio" checked="checked"/>            <p>下载：下载链接里，下载需要安装的版本即可，不用所有版本全部下载！</p>            </div><div class='checkbox green checked'><input type="radio" checked="checked"/>            <p>客服：打开安装包内的 [联系客服]，添加客服QQ，或点击本网页最上面 [联系客服]！</p>            </div>              </div>            </details><h3 id="-1"><a href="#-1" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">安装教程：</span>    </p></section></div></h3><mark class="hl-label green">安装说明</mark> ：<b>1）若解压后文件消失，或打开文件误报毒消失，是因杀毒软件误删了文件。关闭杀毒软件，重新解压安装包即可。所有安装包均实机亲测，无任何病毒，有些杀毒软件可能会存在误报情况。2）一定要解压成文件夹再安装，不要在【压缩包】里安装，容易出现安装问题。</b><p>1、右击下载到电脑上的【安装包】，把压缩包解压成文件夹，然后双击打开【A.draw.io 26.0.16】文件夹。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202503092135372.png" alt="图片"></p><p>2、双击打开【Setup.exe】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202503092135348.png" alt="图片"></p><p>3、默认安装位置为C盘，如要安装到别的盘，更改安装路径后，点击【安装】。</p><p><strong>1、例如：若要安装到D盘，可以直接把该界面路径中，最前面的C改成D</strong></p><p><strong>2、说明：软件安装路径中，不要有中文，会导致有些软件安装完，出现弹窗报错、闪退、打不开等问题。</strong></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202503092135353.png" alt="图片"></p><p>4、等待安装完成。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202503092135335.png" alt="图片"></p><p>5、点击【完成】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202503092135331.png" alt="图片"></p><p>6、电脑左下角，开始程序里，把软件图标，拖拉到桌面上。<strong>（WIN11系统，点左下角的【开始】图标后，弹出的界面，还要点，右上角的【全部&#x2F;所有应用】，才会显示软件列表）</strong></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202503092135447.png" alt="图片"></p><p>7、桌面上，双击打开软件图标。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202503092135913.png" alt="图片"></p><p>8、右下角，可以选择软件语言，点击【创建新绘图】。<strong>（若提示更新，点击【Dont Ask Again】）</strong></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202503092135106.png" alt="图片"></p><p>9、点击【创建】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202503092135121.png" alt="图片"></p><p>10、安装完成。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202503092135140.png" alt="图片"></p><p>11、软件界面语言切换。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202503092135024.png" alt="图片"></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;div class=&quot;tip sync&quot;&gt;&lt;p&gt;安装指南：&lt;br&gt;1、链接：Win软件目录：&lt;a href=&quot;/Win/&quot;&gt;点击查看&lt;/a&gt; &amp;emsp;    Win软件常见报错问题：&lt;a href=&quot;/2023/09/06/WIN/WIN%E8%BD%AF%E4%BB%B6</summary>
-      
-    
-    
-    
-    <category term="Win软件" scheme="http://www.lumingrj.com/categories/Win%E8%BD%AF%E4%BB%B6/"/>
-    
-    
-    <category term="draw.io" scheme="http://www.lumingrj.com/tags/draw-io/"/>
-    
-    <category term="Win软件" scheme="http://www.lumingrj.com/tags/Win%E8%BD%AF%E4%BB%B6/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Mac系统•Adobe系列（PS、PR、AI、AU、LrC等）软件自动更新后，打开不软件•解决教程步骤</title>
-    <link href="http://www.lumingrj.com/2025/02/09/MAC/Adobe%E5%A4%84%E7%90%86%E8%87%AA%E5%8A%A8%E6%9B%B4%E6%96%B0/"/>
-    <id>http://www.lumingrj.com/2025/02/09/MAC/Adobe%E5%A4%84%E7%90%86%E8%87%AA%E5%8A%A8%E6%9B%B4%E6%96%B0/</id>
-    <published>2025-02-09T04:45:28.000Z</published>
-    <updated>2025-02-08T07:31:02.423Z</updated>
-    
-    <content type="html"><![CDATA[<div class="tip sync"><p>安装指南：<br>1、链接：Mac软件目录：<a href="/Mac/">点击查看</a> &emsp;    Mac软件常见报错问题：<a href="/2023/09/02/MAC/Mac%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E9%97%AE%E9%A2%98%E7%9B%AE%E5%BD%95/">点击查看</a><br>2、客服：若安装报错问题，自己解决不了，打开安装包内的【联系客服】，添加客服QQ，或点击本网页最上面【联系客服】！</p></div><h3 id=""><a href="#" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">报错问题说明：</span>    </p></section></div></h3><details class="folding-tag" cyan open><summary> 报错问题说明 </summary>              <div class='content'>              <p><mark class="hl-label green">报错问题</mark> <b>：Adobe系列（PS、PR、AI、AU、LrC等）软件自动更新后，打开不软件</b></p><p><mark class="hl-label green">界面语言</mark> ：-</p><p><mark class="hl-label green">兼容芯片</mark> ：支持Intel+M芯片</p><p><mark class="hl-label green">亲测安装</mark> ：所有资源皆经严格把关、实机安装测试！</p>              </div>            </details><h3 id="-1"><a href="#-1" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">问题说明：</span>    </p></section></div></h3><p>Adobe系列软件，安装后正常打开，但过一段时间出现打不开问题。一般是因为Creative Cloud组件里面的自动更新没有关闭，导致软件更新到别的版本上了。</p><h3 id="-2"><a href="#-2" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">教程步骤：</span>    </p></section></div></h3><p><strong>本教程以PS为例，其他Adobe系列（PR、AI、AU、LrC等等）出现自动更新后，解决步骤一样。（例如：您是LrC出现问题，按教程步骤处理LrC软件即可）</strong></p><p><strong>一、关闭自动更新：</strong></p><p>1、打开Creative Cloud，关闭【自动更新按钮】，操作教程：<a href="/2023/09/23/MAC/Creative%20Cloud%E5%8F%96%E6%B6%88%E6%9B%B4%E6%96%B0/"><strong>点击查看</strong></a></p><p><strong>二、卸载软件：</strong></p><p><strong>卸载方式1：</strong>随便打开一个文件夹，点击打开【应用程序】-【Adobe Photoshop 202x】-【卸载 Adobe Photoshop 202x】，按提示进行卸载。</p><p><strong>1｝本教程以PS为例。（若你是Adobe系列其他软件，例如LrC，操作处理LrC即可）</strong></p><p><strong>2）若【应用程序】里有多个版本。（例如：存在PS2024、PS2025多个版本，把打不开的版本都卸载掉）</strong></p><p><strong>3）若【Adobe Photoshop 202x】文件夹里没有【卸载程序】，用下面【卸载方式2】。</strong></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202502081528590.png" alt="图片"></p><p><strong>卸载方式2：</strong>打开Creative Cloud组件，点击【应用程序】，点击【Photoshop】左下角的【…】-【卸载】，按提示进行卸载。</p><p><strong>1｝本教程以PS为例。（若你是Adobe系列其他软件，例如LrC，操作处理LrC即可）</strong></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202502081528452.png" alt="图片"></p><p><strong>三、删除残留文件夹：</strong></p><p>1、卸载完成后，返回【应用程序】文件夹，删除【Adobe Photoshop 202x】残留文件夹。</p><p><strong>1｝本教程以PS为例。（若你是Adobe系列其他软件，例如LrC，操作处理LrC即可）</strong></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202502081528524.png" alt="图片"></p><p><strong>四、重装软件：</strong></p><p>1、然后按安装教程，重新安装软件即可<strong>（安装教程里面的必备组件，不用重新安装了，直接安装软件即可）</strong></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;div class=&quot;tip sync&quot;&gt;&lt;p&gt;安装指南：&lt;br&gt;1、链接：Mac软件目录：&lt;a href=&quot;/Mac/&quot;&gt;点击查看&lt;/a&gt; &amp;emsp;    Mac软件常见报错问题：&lt;a href=&quot;/2023/09/02/MAC/Mac%E8%BD%AF%E4%BB%B6</summary>
-      
-    
-    
-    
-    <category term="Mac软件" scheme="http://www.lumingrj.com/categories/Mac%E8%BD%AF%E4%BB%B6/"/>
-    
-    
-    <category term="Mac软件" scheme="http://www.lumingrj.com/tags/Mac%E8%BD%AF%E4%BB%B6/"/>
-    
-    <category term="安装报错" scheme="http://www.lumingrj.com/tags/%E5%AE%89%E8%A3%85%E6%8A%A5%E9%94%99/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>兼容M1~M4芯片•GraphPad Prism 10.4.1 For Mac版本•英文•软件安装包下载 安装教程步骤•苹果系统</title>
-    <link href="http://www.lumingrj.com/2025/02/09/MAC/GraphPad-Prism-10.4.1/"/>
-    <id>http://www.lumingrj.com/2025/02/09/MAC/GraphPad-Prism-10.4.1/</id>
-    <published>2025-02-09T04:45:28.000Z</published>
-    <updated>2025-02-08T07:20:05.892Z</updated>
-    
-    <content type="html"><![CDATA[<div class="tip sync"><p>安装指南：<br>1、链接：Mac软件目录：<a href="/Mac/">点击查看</a> &emsp;    Mac软件常见报错问题：<a href="/2023/09/02/MAC/Mac%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E9%97%AE%E9%A2%98%E7%9B%AE%E5%BD%95/">点击查看</a><br>2、客服：若安装报错问题，自己解决不了，打开安装包内的【联系客服】，添加客服QQ，或点击本网页最上面【联系客服】！</p></div><div class="img-wrap"><div class="img-bg"><img class="img" src="https://bu.dusays.com/2023/11/05/6547b36536f8e.png" style="width:80px;"/></div></div><h3 id=""><a href="#" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">软件详情+下载链接：</span>    </p></section></div></h3><details class="folding-tag" cyan open><summary> 软件详情+下载链接 </summary>              <div class='content'>              <p><mark class="hl-label green">软件名称</mark> <b>：GraphPad Prism 10.4.1 For Mac版本•<mark class="hl-label green">激活版</mark> </b></p><p><mark class="hl-label green">界面语言</mark> ：英文</p><p><mark class="hl-label green">软件简介</mark> ：科研绘图，数据绘图分析软件</p><p><mark class="hl-label purple">系统版本</mark> ：Mac 12.0-15.x Sequoia 或更高</p><p><mark class="hl-label purple">兼容芯片</mark> ：支持Intel、M1-M4及更高芯片</p><p><mark class="hl-label green">亲测安装</mark> ：所有资源皆经严格把关、实机安装测试！</p><p><b> [百度网盘丨下载链接]：</b><br><a href="https://pan.baidu.com/s/19tw8PwLDrXoaEB1ncth_Jg?pwd=8866">https://pan.baidu.com/s/19tw8PwLDrXoaEB1ncth_Jg?pwd=8866</a><br><b> [123 云盘丨下载链接]：</b><br><a href="https://www.123pan.com/s/LZZBjv-VX7W.html">https://www.123pan.com/s/LZZBjv-VX7W.html</a></p><div class='checkbox green checked'><input type="radio" checked="checked"/>            <p>下载：下载链接里，下载需要安装的版本即可，不用所有版本全部下载！</p>            </div><div class='checkbox green checked'><input type="radio" checked="checked"/>            <p>客服：打开安装包内的 [联系客服]，添加客服QQ，或点击本网页最上面 [联系客服]！</p>            </div>              </div>            </details><h3 id="-1"><a href="#-1" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">安装教程：</span>    </p></section></div></h3><h4 id="：该版本有Intel芯片和M芯片两个安装包，根据自己电脑芯片选择安装包，安装教程一样。"><a href="#：该版本有Intel芯片和M芯片两个安装包，根据自己电脑芯片选择安装包，安装教程一样。" class="headerlink" title="：该版本有Intel芯片和M芯片两个安装包，根据自己电脑芯片选择安装包，安装教程一样。"></a><mark class="hl-label red">说明</mark> <b>：该版本有Intel芯片和M芯片两个安装包，根据自己电脑芯片选择安装包，安装教程一样。</b></h4><p>1、双击打开，下载到Mac电脑上的【A.GraphPad Prism 10.4.1 M.dmg】软件安装包。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202502081519692.png" alt="图片"></p><h4 id="-2"><a href="#-2" class="headerlink" title=""></a><mark class="hl-label red">安装前一定要做的：</mark> </h4><p>●输入软件密码，打开安装包后：双击打开安装包左下角的【修复工具】，修复完成后，再返回本教程安装。<b>修复工具操作教程：<a href="/2023/09/18/MAC/WT/003/">点击查看</a></b></p><div style="display:inline-block;"><img style="float:left;" src=https://bu.dusays.com/2023/09/12/64ff44a6dd274.png></div> <p>2、把左边的软件图标，拖拉到右边的文件夹里。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202502081519268.png" alt="图片"></p><p>3、在【启动台】里，打开软件图标。**(若有更新弹框，点击【Skip This Version】)**</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202502081519664.png" alt="图片"></p><p>4、左面选择需要创建的类型，点击【Create】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202502081519835.png" alt="图片"></p><p>5、菜单栏上，点击【Prism】-【Settings】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202502081519578.png" alt="图片"></p><p>6、<strong>取消勾选</strong>红框内的选项，点击【OK】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202502081519588.png" alt="图片"></p><p>7、安装完成。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202502081519771.png" alt="图片"></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;div class=&quot;tip sync&quot;&gt;&lt;p&gt;安装指南：&lt;br&gt;1、链接：Mac软件目录：&lt;a href=&quot;/Mac/&quot;&gt;点击查看&lt;/a&gt; &amp;emsp;    Mac软件常见报错问题：&lt;a href=&quot;/2023/09/02/MAC/Mac%E8%BD%AF%E4%BB%B6</summary>
-      
-    
-    
-    
-    <category term="Mac软件" scheme="http://www.lumingrj.com/categories/Mac%E8%BD%AF%E4%BB%B6/"/>
-    
-    
-    <category term="Mac软件" scheme="http://www.lumingrj.com/tags/Mac%E8%BD%AF%E4%BB%B6/"/>
-    
-    <category term="GraphPad Prism" scheme="http://www.lumingrj.com/tags/GraphPad-Prism/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>兼容M1~M4芯片•SnapGene 6.0.2 For Mac版本•中英文•软件安装包下载 安装教程步骤•苹果系统</title>
-    <link href="http://www.lumingrj.com/2025/02/09/MAC/SnapGene-6.0.2/"/>
-    <id>http://www.lumingrj.com/2025/02/09/MAC/SnapGene-6.0.2/</id>
-    <published>2025-02-09T04:45:28.000Z</published>
-    <updated>2025-02-08T07:25:45.485Z</updated>
-    
-    <content type="html"><![CDATA[<div class="tip sync"><p>安装指南：<br>1、链接：Mac软件目录：<a href="/Mac/">点击查看</a> &emsp;    Mac软件常见报错问题：<a href="/2023/09/02/MAC/Mac%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E9%97%AE%E9%A2%98%E7%9B%AE%E5%BD%95/">点击查看</a><br>2、客服：若安装报错问题，自己解决不了，打开安装包内的【联系客服】，添加客服QQ，或点击本网页最上面【联系客服】！</p></div><div class="img-wrap"><div class="img-bg"><img class="img" src="https://bu.dusays.com/2025/02/08/67a706946e0cd.png" style="width:80px;"/></div></div><h3 id=""><a href="#" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">软件详情+下载链接：</span>    </p></section></div></h3><details class="folding-tag" cyan open><summary> 软件详情+下载链接 </summary>              <div class='content'>              <p><mark class="hl-label green">软件名称</mark> <b>：SnapGene 6.0.2 For Mac版本•<mark class="hl-label green">激活版</mark> </b></p><p><mark class="hl-label green">界面语言</mark> ：简体中文+英文</p><p><mark class="hl-label green">软件简介</mark> ：日常分子生物学工具</p><p><mark class="hl-label purple">系统版本</mark> ：Mac 10.15-15.x Sequoia 或更高</p><p><mark class="hl-label purple">兼容芯片</mark> ：支持Intel、M1-M4及更高芯片</p><p><mark class="hl-label green">亲测安装</mark> ：所有资源皆经严格把关、实机安装测试！</p><p><b> [百度网盘丨下载链接]：</b><br><a href="https://pan.baidu.com/s/1EJzNgILE1qmRRmFWajvurQ?pwd=8866">https://pan.baidu.com/s/1EJzNgILE1qmRRmFWajvurQ?pwd=8866</a><br><b> [123 云盘丨下载链接]：</b><br><a href="https://www.123pan.com/s/LZZBjv-AEiW">https://www.123pan.com/s/LZZBjv-AEiW</a></p><div class='checkbox green checked'><input type="radio" checked="checked"/>            <p>下载：下载链接里，下载需要安装的版本即可，不用所有版本全部下载！</p>            </div><div class='checkbox green checked'><input type="radio" checked="checked"/>            <p>客服：打开安装包内的 [联系客服]，添加客服QQ，或点击本网页最上面 [联系客服]！</p>            </div>              </div>            </details><h3 id="-1"><a href="#-1" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">安装教程：</span>    </p></section></div></h3><p>1、双击打开，下载到Mac电脑上的【A.SnapGene 6.0.2.dmg】软件安装包。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202502081524113.png" alt="图片"></p><h4 id="-2"><a href="#-2" class="headerlink" title=""></a><mark class="hl-label red">安装前一定要做的：</mark> </h4><p>●输入软件密码，打开安装包后：双击打开安装包左下角的【修复工具】，修复完成后，再返回本教程安装。<b>修复工具操作教程：<a href="/2023/09/18/MAC/WT/003/">点击查看</a></b></p><div style="display:inline-block;"><img style="float:left;" src=https://bu.dusays.com/2023/09/12/64ff44a6dd274.png></div> <p>2、把左面的软件图标，拖拉到右边的文件夹里。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202502081525588.png" alt="图片"></p><p>3、在【启动台】里，打开软件图标。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202502081525680.png" alt="图片"></p><p>4、点击【Agree】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202502081525946.png" alt="图片"></p><p>5、红框内的信息，随便输入，点击【OK】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202502081525665.png" alt="图片"></p><p>6、点击【OK】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202502081525747.png" alt="图片"></p><p>7、点击【OK】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202502081525661.png" alt="图片"></p><p>8、勾选【Don’t show again】，点击【OK】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202502081525010.png" alt="图片"></p><p>9、默认语言为英文。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202502081525599.png" alt="图片"></p><p>10、<strong>软件界面语言切换：</strong>点击【Help】-【Language】，选择自己需要的语言。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202502081525754.png" alt="图片"></p><p>11、点击【OK】。<strong>（然后关闭软件，重新打开）</strong></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202502081525822.png" alt="图片"></p><p>12、点击【可以】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202502081525961.png" alt="图片"></p><p>13、菜单栏上，点击【SnapGene】-【首选项】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202502081525741.png" alt="图片"></p><p>14、在【一般】里面，<strong>取消勾选</strong>红框内的选项。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202502081525305.png" alt="图片"></p><p>15、安装完成。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202502081525097.png" alt="图片"></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;div class=&quot;tip sync&quot;&gt;&lt;p&gt;安装指南：&lt;br&gt;1、链接：Mac软件目录：&lt;a href=&quot;/Mac/&quot;&gt;点击查看&lt;/a&gt; &amp;emsp;    Mac软件常见报错问题：&lt;a href=&quot;/2023/09/02/MAC/Mac%E8%BD%AF%E4%BB%B6</summary>
-      
-    
-    
-    
-    <category term="Mac软件" scheme="http://www.lumingrj.com/categories/Mac%E8%BD%AF%E4%BB%B6/"/>
-    
-    
-    <category term="Mac软件" scheme="http://www.lumingrj.com/tags/Mac%E8%BD%AF%E4%BB%B6/"/>
-    
-    <category term="SnapGene" scheme="http://www.lumingrj.com/tags/SnapGene/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>兼容M1~M4芯片•SnapGene 7.0.2 For Mac版本•中英文•软件安装包下载 安装教程步骤•苹果系统</title>
-    <link href="http://www.lumingrj.com/2025/02/09/MAC/SnapGene-7.0.2/"/>
-    <id>http://www.lumingrj.com/2025/02/09/MAC/SnapGene-7.0.2/</id>
-    <published>2025-02-09T04:45:28.000Z</published>
-    <updated>2025-02-08T07:23:20.674Z</updated>
-    
-    <content type="html"><![CDATA[<div class="tip sync"><p>安装指南：<br>1、链接：Mac软件目录：<a href="/Mac/">点击查看</a> &emsp;    Mac软件常见报错问题：<a href="/2023/09/02/MAC/Mac%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E9%97%AE%E9%A2%98%E7%9B%AE%E5%BD%95/">点击查看</a><br>2、客服：若安装报错问题，自己解决不了，打开安装包内的【联系客服】，添加客服QQ，或点击本网页最上面【联系客服】！</p></div><div class="img-wrap"><div class="img-bg"><img class="img" src="https://bu.dusays.com/2025/02/08/67a705e85fffb.png" style="width:80px;"/></div></div><h3 id=""><a href="#" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">软件详情+下载链接：</span>    </p></section></div></h3><details class="folding-tag" cyan open><summary> 软件详情+下载链接 </summary>              <div class='content'>              <p><mark class="hl-label green">软件名称</mark> <b>：SnapGene 7.0.2 For Mac版本•<mark class="hl-label green">激活版</mark> </b></p><p><mark class="hl-label green">界面语言</mark> ：简体中文+英文</p><p><mark class="hl-label green">软件简介</mark> ：日常分子生物学工具</p><p><mark class="hl-label purple">系统版本</mark> ：Mac 11.0-15.x Sequoia 或更高</p><p><mark class="hl-label purple">兼容芯片</mark> ：支持Intel、M1-M4及更高芯片</p><p><mark class="hl-label green">亲测安装</mark> ：所有资源皆经严格把关、实机安装测试！</p><p><b> [百度网盘丨下载链接]：</b><br><a href="https://pan.baidu.com/s/1EJzNgILE1qmRRmFWajvurQ?pwd=8866">https://pan.baidu.com/s/1EJzNgILE1qmRRmFWajvurQ?pwd=8866</a><br><b> [123 云盘丨下载链接]：</b><br><a href="https://www.123pan.com/s/LZZBjv-AEiW">https://www.123pan.com/s/LZZBjv-AEiW</a></p><div class='checkbox green checked'><input type="radio" checked="checked"/>            <p>下载：下载链接里，下载需要安装的版本即可，不用所有版本全部下载！</p>            </div><div class='checkbox green checked'><input type="radio" checked="checked"/>            <p>客服：打开安装包内的 [联系客服]，添加客服QQ，或点击本网页最上面 [联系客服]！</p>            </div>              </div>            </details><h3 id="-1"><a href="#-1" class="headerlink" title=""></a><div class="tip cogs"><section class="_editor">    <p style="text-align: center;">        <span style="color: rgb(0, 0, 0); font-size: 20px;">安装教程：</span>    </p></section></div></h3><p>1、双击打开，下载到Mac电脑上的【A.SnapGene 7.0.2.dmg】软件安装包。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202502081522500.webp" alt="图片"></p><h4 id="-2"><a href="#-2" class="headerlink" title=""></a><mark class="hl-label red">安装前一定要做的：</mark> </h4><p>●输入软件密码，打开安装包后：双击打开安装包左下角的【修复工具】，修复完成后，再返回本教程安装。<b>修复工具操作教程：<a href="/2023/09/18/MAC/WT/003/">点击查看</a></b></p><div style="display:inline-block;"><img style="float:left;" src=https://bu.dusays.com/2023/09/12/64ff44a6dd274.png></div> <p>2、把左面的软件图标，拖拉到右边的文件夹里。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202502081522911.webp" alt="图片"></p><p>3、在【启动台】里，打开软件图标。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202502081522976.webp" alt="图片"></p><p>4、勾选【不要再显示】，点击【可以】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202502081522921.webp" alt="图片"></p><p>5、菜单栏上，点击【SnapGene】-【首选项】。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202502081522930.webp" alt="图片"></p><p>6、在【一般】里面，<strong>取消勾选</strong>红框内的选项。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202502081522933.webp" alt="图片"></p><p>7、安装完成。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202502081522003.webp" alt="图片"></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202502081522631.webp" alt="图片"></p><p>8、<strong>软件界面语言切换：</strong>点击【帮助&#x2F;Help】-【语言&#x2F;Language】，选择自己需要的语言。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202502081522655.webp" alt="图片"></p><p>9、点击【OK】。<strong>（然后关闭软件，重新打开）</strong></p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202502081522680.webp" alt="图片"></p><p>10、英文界面。</p><p><img src="https://tuku-1320699491.cos.ap-nanjing.myqcloud.com/img/202502081522388.webp" alt="图片"></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;div class=&quot;tip sync&quot;&gt;&lt;p&gt;安装指南：&lt;br&gt;1、链接：Mac软件目录：&lt;a href=&quot;/Mac/&quot;&gt;点击查看&lt;/a&gt; &amp;emsp;    Mac软件常见报错问题：&lt;a href=&quot;/2023/09/02/MAC/Mac%E8%BD%AF%E4%BB%B6</summary>
-      
-    
-    
-    
-    <category term="Mac软件" scheme="http://www.lumingrj.com/categories/Mac%E8%BD%AF%E4%BB%B6/"/>
-    
-    
-    <category term="Mac软件" scheme="http://www.lumingrj.com/tags/Mac%E8%BD%AF%E4%BB%B6/"/>
-    
-    <category term="SnapGene" scheme="http://www.lumingrj.com/tags/SnapGene/"/>
     
   </entry>
   
